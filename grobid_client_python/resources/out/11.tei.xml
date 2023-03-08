@@ -1,0 +1,2262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Burnout Research</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>SAGE Publications</publisher>
+				<availability status="unknown"><p>Copyright SAGE Publications</p>
+				</availability>
+				<date type="published" when="2017-01">2017-01</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName coords="1,63,00,164,09,114,90,11,18"><forename type="first">Linda</forename><forename type="middle">V</forename><surname>Heinemann</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Goethe University</orgName>
+								<address>
+									<settlement>Frankfurt</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName coords="1,322,50,672,46,62,94,7,46"><forename type="first">Torsten</forename><surname>Heinemann</surname></persName>
+							<email>torsten.heinemann@uni-hamburg.de</email>
+							<affiliation key="aff1">
+								<orgName type="institution">University of California</orgName>
+								<address>
+									<settlement>Berkeley</settlement>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">University of Hamburg</orgName>
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="department" key="dep1">Professor of Sociology</orgName>
+								<orgName type="department" key="dep2">Faculty of Economics and Social Sciences</orgName>
+								<orgName type="department" key="dep3">Institute for Sociology</orgName>
+								<orgName type="institution">University of Hamburg</orgName>
+								<address>
+									<addrLine>Allende Platz 1</addrLine>
+									<postCode>20146</postCode>
+									<settlement>Hamburg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Burnout Research</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">SAGE Open</title>
+						<title level="j" type="abbrev">SAGE Open</title>
+						<idno type="ISSN">2158-2440</idno>
+						<imprint>
+							<publisher>SAGE Publications</publisher>
+							<biblScope unit="volume">7</biblScope>
+							<biblScope unit="issue">1</biblScope>
+							<biblScope unit="page">215824401769715</biblScope>
+							<date type="published" when="2017-01" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">40E42C0459476888F9DB9995A8429FBD</idno>
+					<idno type="DOI">10.1177/2158244017697154</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.2" ident="GROBID" when="2023-03-08T17:13+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>burnout syndrome</term>
+					<term>contested diagnosis</term>
+					<term>medical sociology</term>
+					<term>medicalization</term>
+					<term>work-related stress</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Even though burnout is one of the most widely discussed mental health problems in today's society, it is still disputed and not officially recognized as a mental disorder in most countries. In the tradition of the social study of science, the objective of this article is to analyze how burnout has been investigated in the health sciences in the past four decades, and how this has influenced the ways burnout is understood today. We conducted an extensive quantitative and qualitative literature analysis on all publications on burnout listed in PubMed until 2011. We show that the number of publications on burnout increased considerably over the past 40 years, and identified six categories into which each study can be grouped. The studies are not equally distributed across the categories: Most focus on causes and associated factors. Only a very small number of articles deal with psychological and somatic symptoms of burnout and attempt to develop diagnostic criteria. We argue that just this distribution is the reason why burnout research reproduces the vagueness and ambiguity of the concept that it aims to clarify, and discuss our results in the light of the concept of medicalization.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="9" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="10" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="11" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="12" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>In recent years, the burnout syndrome has been one of the most widely discussed mental health problems in modern societies. In a world that faces major socioeconomic challenges, people experience ever-increasing pressure in their daily lives, particularly at the workplace. As a consequence, managers, employees, and workers in a variety of industries and sectors around the world suffer from work-related stress, fatigue, and exhaustion, the most prominent signs of which are often referred to as burnout syndrome <ref type="bibr" coords="1,229,67,521,39,74,80,8,78;1,63,00,533,39,163,66,8,78" target="#b1">(Ahola, Väänänen, Koskinen, Kouvonen, &amp; Shirom, 2010;</ref><ref type="bibr" coords="1,230,70,533,39,73,78,8,78" target="#b39">Kant et al., 2003;</ref><ref type="bibr" coords="1,63,00,545,39,241,50,8,78;1,63,00,557,39,21,53,8,78" target="#b43">Langelaan, Bakker, Schaufeli, van Rhenen, &amp; van Doornen, 2006)</ref>.</p><p>Burnout has been studied and diagnosed in a variety of occupations such as medical staff, teachers, social workers, and people working in the financial sector. Some studies report burnout prevalence rates of up to 69% in a given population, for example, approximately 30% in teachers <ref type="bibr" coords="1,270,45,617,39,34,07,8,78;1,63,00,629,39,21,53,8,78" target="#b63">(Rudow, 1999)</ref>, 31% in medical students <ref type="bibr" coords="1,202,53,629,39,101,94,8,78;1,63,00,641,39,65,51,8,78" target="#b66">(Santen, Holt, Kemp, &amp; Hemphill, 2010)</ref>, and between 44% and 68.6% in medical oncologists <ref type="bibr" coords="1,112,07,653,39,97,18,8,78" target="#b11">(Blanchard et al., 2010;</ref><ref type="bibr" coords="1,212,76,653,39,87,42,8,78" target="#b31">Glasberg et al., 2007)</ref>. Even scientifically more cautious and conservative studies estimate the prevalence of burnout to be above 10%; 13.7% of the Dutch working population, for example, are said to suffer from the condition <ref type="bibr" coords="1,166,42,701,39,71,87,8,78" target="#b39">(Kant et al., 2003)</ref>. These findings suggest that burnout is indeed a serious problem in society today. Accordingly, burnout has received extensive coverage in the mass media and popular science in recent years, and there is widespread public interest in the topic.</p><p>Despite the societal importance and extensive use of the term burnout in everyday life, however, there is still heated debate among scientists and practitioners about what burnout actually is, what symptoms are associated with it, and whether or not the burnout syndrome is a distinct mental disorder. Burnout is still not completely accepted as a mental disorder in its own right in the academic field, especially in clinical psychology and psychiatry, and scientists have repeatedly asked whether burnout is a useful diagnosis or just "psychobabble" <ref type="bibr" coords="1,409,70,562,14,154,30,8,78" target="#b40">(Kaschka, Korczak, &amp; Broich, 2011;</ref><ref type="bibr" coords="1,322,50,574,14,60,68,8,78" target="#b61">Roberts, 1986)</ref>. Burnout was first described by Herbert Freudenberger in 1974, and since then, several hundred scientific studies on this mental condition have been published.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>SAGE Open</head><p>Nevertheless, there is still a lack of systematic enquiry into the etiology and psychopathology of the burnout syndrome. This is the reason burnout is not included in the Diagnostic and Statistical Manual of Mental Disorders (4th ed.; DSM-IV; American Psychiatric Association <ref type="bibr" coords="2,224,41,120,31,54,16,8,78">[APA], 1994)</ref> or the Diagnostic and Statistical Manual of Mental Disorders (5th ed.; <ref type="bibr" coords="2,85,05,144,30,31,66,8,79">DSM-5;</ref><ref type="bibr" coords="2,119,27,144,31,46,22,8,78">APA, 2013)</ref>, and only appears as an additional diagnosis (Z 73.0) in the International Statistical Classification of <ref type="bibr" coords="2,121,97,168,30,167,52,8,79;2,48,00,180,31,36,66,8,78">Diseases and Related Health Problems (ICD-10;</ref><ref type="bibr" coords="2,86,98,180,31,134,96,8,78">World Health Organization, 1992)</ref>.</p><p>This lack of clarity in medicine and psychology does not seem to have affected the popularity and relevance of the diagnosis in today's neoliberal society <ref type="bibr" coords="2,200,82,216,31,84,45,8,78" target="#b40">(Kaschka et al., 2011)</ref>. There are several reports on an increase in burnout cases in the popular press. Managers, employees, and workers in a variety of industries and sectors use the term to describe feelings of stress, fatigue, and exhaustion in the workplace and, more generally, in everyday life. For them, there seems to be no doubt that burnout is a real and serious phenomenon. In other words, there is a striking gap between the ambiguous research results and the way burnout is used in public discourse.</p><p>Starting from this remarkable difference between the societal importance, popularity, and public image of burnout on one hand, and the controversial discussions within the scientific community on the other, this article examines the ways burnout has been studied and theorized in medical and psychological investigations between its emergence in 1974 and the year 2011.</p><p>The objective of this article is to analyze how burnout has been investigated in the health sciences in the past four decades and how this research has contributed to the understanding and use of burnout in contemporary society. In other words, this article is not concerned with questions such as the usefulness or appropriateness of the term burnout, or its relationship to other mental health problems. Instead, we are interested as to why burnout remains a contested diagnosis despite the extensive research in this area. Basing our findings on an extensive literature analysis, we argue that to date, most burnout research has been circular, because it relies on questionnaires that measure symptoms that have not (yet) been clearly defined or unanimously agreed upon in medicine and psychology. The lack of knowledge about and diagnostic criteria for burnout triggers new research. This is, however, equally problematic, because it uses the same debatable and contested constructs and inventories to identify participants who purportedly suffer from burnout, and then examines this mental condition in these individuals.</p><p>Our investigation into medical and psychological studies on burnout shows that, instead of providing further clarification of the concept, this kind of research actually contributes to the indefinite status of the syndrome. However, it is precisely this status that makes burnout such a widely used term today. On the basis of this research focus, we wish to contribute to the ongoing debate in the social sciences on the medicalization of society <ref type="bibr" coords="2,412,19,72,31,61,10,8,78" target="#b15">(Conrad, 2007;</ref><ref type="bibr" coords="2,476,34,72,31,72,63,8,78;2,307,50,84,31,22,78,8,78" target="#b16">Conrad &amp; Barker, 2010;</ref><ref type="bibr" coords="2,333,69,84,31,60,34,8,78" target="#b20">Frances, 2013)</ref> as well as the sociology of diagnosis <ref type="bibr" coords="2,307,50,96,31,51,17,8,78" target="#b37">(Jutel, 2009;</ref><ref type="bibr" coords="2,362,34,96,31,98,62,8,78" target="#b38">Jutel &amp; Nettleton, 2011)</ref>. Our analysis shows that the medicalization of mental states is not a simple and unidirectional process driven by actors in the health sciences, pharma industry, and related fields. It makes us aware of the struggles and interferences in medicalization processes.</p><p>The article begins with a historical introduction to burnout. We then describe our methodological approach for the literature analysis. Next, we present our main findings, that is, a quantitative overview of burnout research and a classification of publications on this concept based on a qualitative content analysis. We discuss our results from a sociological perspective, and show why burnout is still a contested concept or mental condition. The article concludes with a theoretical reflection of our findings in the light of the theoretical debates on medicalization, and provides some recommendations on the future of burnout research.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The Historical Development of Burnout Research</head><p>The burnout syndrome was first described in two scientific articles published in 1974, one by Herbert <ref type="bibr" coords="2,490,84,348,31,58,13,8,78;2,307,50,360,31,26,66,8,78" target="#b21">Freudenberger (1974)</ref> and one by Sigmund <ref type="bibr" coords="2,422,21,360,31,64,64,8,78" target="#b30">Ginsburg (1974)</ref>. In subsequent years, it was Freudenberger, a German-born U.S. psychologist and psychotherapist, who made the term popular in a number of further publications <ref type="bibr" coords="2,431,48,396,31,83,81,8,78" target="#b22">(Freudenberger, 1975</ref><ref type="bibr" coords="2,522,04,396,31,22,45,8,78" target="#b23">(Freudenberger, , 1977a</ref><ref type="bibr" coords="2,307,50,408,31,27,78,8,78" target="#b24">(Freudenberger, , 1977b;;</ref><ref type="bibr" coords="2,338,15,408,31,138,54,8,78" target="#b25">Freudenberger &amp; Richelson, 1980)</ref>. He is, therefore, widely considered as the founding-father of the concept. However, it is important to note that Freudenberger did not invent the term. Instead, he deserves credit for systematically describing and analyzing a mental condition he observed in some of his colleagues and that he also experienced himself, and that his colleagues described as being "burned out." In other words, the term was used to describe a particular experience and mental state in the workplace even before it became a psychologically and clinically relevant condition.</p><p>In his original 1974 article, Freudenberger describes the state of being burned out as "becoming exhausted by making excessive demands on energy, strength, or resources" in the workplace <ref type="bibr" coords="2,355,15,564,31,128,22,8,78">(Freudenberger, 1974, p. 159)</ref>. According to Freudenberger, burnout is characterized by physical symptoms such as exhaustion, fatigue, frequent headaches and gastrointestinal disorders, sleeplessness, and shortness of breath. Behavioral signs include frustration, anger, a suspicious attitude, a feeling of omnipotence or overconfidence, excessive use of tranquilizers and barbiturates, cynicism, and signs of depression. Freudenberger not only described the symptoms of burnout but also listed personality factors that predispose people to suffer from burnout. It is primarily "the dedicated and the committed" who are most likely to burn out <ref type="bibr" coords="2,322,55,696,31,117,02,8,78">(Freudenberger, 1974, p. 161)</ref>. It is important to note that his account of burnout was based on observations and introspection in a particularly demanding working environment, a free clinic in New York City. More generally speaking, for him, burnout occurs in contexts that require a significant amount of emotional work and empathy, personal involvement, and intrinsic motivation. At the same time, this type of work is not very well paid and exhausting, working conditions that are typical in the health care sector as well as in social work and education.</p><p>Freudenberger not only described the burnout syndrome but also suggested preventive measures. Because he believed that burnout is particularly linked to specific working environments and organizational contexts, he proposed intervening at an organizational rather than just an individual level. His recommendations included shorter working hours, regular job rotation, and frequent supervision and staff training.</p><p>This first publication on burnout anticipates much of the research that was to be conducted over the next 40 years. Freudenberger's initial work was followed by a significant number of psychological and medical studies, starting with research by Christina Maslach and her colleagues in the late 1970s and early 1980s <ref type="bibr" coords="3,237,22,300,31,67,25,8,78" target="#b47">(Maslach, 1976;</ref><ref type="bibr" coords="3,63,00,312,31,120,98,8,78" target="#b48">Maslach &amp; Jackson, 1981;</ref><ref type="bibr" coords="3,190,59,312,31,109,46,8,78" target="#b59">Pines &amp; Maslach, 1978)</ref>. Maslach was one of the pioneers in burnout research and is still one of the most prominent scholars in this field. In contrast to Freudenberger's qualitative, almost autoethnographic account, the social psychologist Maslach focused on the measurement of burnout. Based on the three dimensions of burnout, that is to say exhaustion, cynicism, and inefficacy, she developed the Maslach Burnout Inventory (MBI), which is still the most widely used questionnaire for measuring burnout today <ref type="bibr" coords="3,186,37,420,31,113,69,8,78" target="#b48">(Maslach &amp; Jackson, 1981)</ref>.</p><p>Maslach and her colleagues' work and, particularly, the MBI, marked a turning point in burnout research, as it was now possible to easily measure the mental state in different populations and professions.</p><p>In their influential article, <ref type="bibr" coords="3,181,44,480,31,123,03,8,78;3,63,00,492,31,26,41,8,78" target="#b49">Maslach, Schaufeli, and Leiter (2001)</ref> distinguish between a pioneering and an empirical phase of burnout research. The first phase in the mid-1970s aimed at describing and naming this new "syndrome." At this time, the research was based mainly on observations and interviews in the human services and health care sector. As we show in detail below, after the development of the MBI in the early 1980s, the focus of burnout research changed, and the syndrome became apparent in more and more occupations-for example, in teachers <ref type="bibr" coords="3,196,04,588,31,104,17,8,78" target="#b9">(Belcastro &amp; Gold, 1983)</ref>, military personnel <ref type="bibr" coords="3,138,22,600,31,102,40,8,78" target="#b72">(Shirom &amp; Ezrachi, 2003)</ref>, police officers <ref type="bibr" coords="3,63,00,612,31,143,74,8,78" target="#b51">(McCarty, Zhao, &amp; Garland, 2007)</ref>, managers <ref type="bibr" coords="3,257,52,612,31,46,98,8,78;3,63,00,624,31,217,49,8,78" target="#b44">(Langelaan, Bakker, Schaufeli, van Rhenen, &amp; van Doornen, 2007)</ref>, elite soccer players <ref type="bibr" coords="3,124,77,636,31,157,19,8,78" target="#b34">(Hill, Hall, Appleton, &amp; Kozub, 2008)</ref>, and students <ref type="bibr" coords="3,100,43,648,31,85,79,8,78" target="#b66">(Santen et al., 2010)</ref>. It was also systematically described in relation to established concepts in industrialorganizational psychology such as job stress, job satisfaction, and organizational commitment <ref type="bibr" coords="3,194,00,684,31,87,59,8,78" target="#b49">(Maslach et al., 2001)</ref>. The MBI appeared to provide a common understanding of the concept, suggested that it was a coherent phenomenon, and made it possible to measure burnout without the necessity of questioning or reflecting on the basic assumptions relating to this mental condition and its societal implications.</p><p>Over the past 10 years, burnout has become an object of ever-increasing interest for scientists, practitioners, and the workforce. Clinical psychologists, in particular, started to adopt burnout as a diagnosis, and tried not only to assess the level of distress but also to discriminate between burnout cases and noncases, treatment and nontreatment <ref type="bibr" coords="3,520,40,156,31,43,60,8,78;3,322,50,168,31,97,76,8,78" target="#b69">(Schaufeli, Leiter, &amp; Maslach, 2009)</ref>. As we will show below, this binary question of health or illness, burned out or not burned out is one of the key challenges in burnout research. Today, burnout is an established medical diagnosis in only very few countries such as the Netherlands and Sweden; in most (industrialized) countries, it remains a contested diagnosis that is widely discussed but not officially recognized in the health care system.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method</head><p>Our analysis of the scientific burnout literature is based on a three-step approach. As we are interested in how burnout is investigated in the medical field, we first identified all medical and psychological research articles on the burnout syndrome. This was designed to enable us to analyze general trends in burnout research over time. We, therefore, conducted a literature search for studies that investigate the burnout syndrome. The search was conducted on August 13, 2012, using the PubMed database, which is an open access database comprising MEDLINE and some smaller databases. This set of bibliographic databases references articles in the health sciences, particularly medicine, psychology, and neuroscience, and is a key resource for academics working in these fields. We compared the list of journals covered by PubMed as well as the results of our query with Scopus and PsycINFO, to ensure that we had not missed any relevant publications in the health sciences and particularly in psychology. The coverage is almost identical, though PubMed has the best overall coverage of health science journals as it includes both medical and psychological publications. We, therefore, decided to use this database for the analysis.</p><p>The main criterion for inclusion was the use of the term burnout and its alternative spellings in the title of a scientific publication. To identify relevant articles, we conducted a title search for the term burnout and the alternative spellings "burn-out," "burned out," and "burned-out." We did this to include only research where the main focus is indeed on the burnout syndrome. This search strategy has some limitations in that it did not provide us with articles on related concepts for work-related stress. However, as we are mainly interested in how "burnout" is constructed, discussed, and contested in the health sciences, this is in fact not a limitation but a feasible way for constructing the sample.</p><p>Furthermore, to be included in our sample, the articles had to be written in English, had to provide an abstract, and had to have been published in print or electronically before the end of 2011. The criterion of the availability of an abstract was used for the open coding that was conducted in the second step. This search yielded 1,255 PubMed entries. After assessing all the results, we excluded 30 articles because they were not published in print in 2011 but were either only available as "e-pub ahead of print" (16 articles) or because the term burnout referred to a different concept that had nothing to do with mental health and illness or work-related stress (14 articles). For example, we excluded articles that dealt with the possibility of burning out teeth using lasers in dental treatment. In the end, the literature analysis presented in this article is based on 1,225 scientific publications on the burnout syndrome.</p><p>Second, we analyzed the abstracts of all articles in the literature corpus to map and categorize the burnout research that has been conducted over the last 38 years. All the abstracts were coded independently by the two authors using the NVivo 10 software (QSR International). This double coding was used to ensure intercoder reliability. We used a mix of an open and theoretically informed coding, following a grounded theory approach <ref type="bibr" coords="4,162,89,312,31,100,92,8,78" target="#b17">(Corbin &amp; Strauss, 2008;</ref><ref type="bibr" coords="4,266,43,312,31,23,06,8,78;4,48,00,324,31,22,78,8,78" target="#b19">Flick, 2009;</ref><ref type="bibr" coords="4,73,28,324,31,51,67,8,78" target="#b26">Gibbs, 2007;</ref><ref type="bibr" coords="4,127,45,324,31,60,96,8,78" target="#b50">Mayring, 2004)</ref>.</p><p>We first defined special aspects and topics of interest that we especially wanted to focus on during the coding process. These topics included the aim of the publication and the underlying study, the methods used to study the phenomenon, and the occupational group that was studied. These focus topics allowed us to identify themes enabling the development of a classification for burnout research. The categories that the classification is based on were not decided upon before the coding but are a result of this process. At the same time, we continued to use an open coding to identify new topics and themes that we had not initially considered. Based on the individual coding by the two authors, we developed a typology of burnout research with six main categories, and identified the key topics and subjects that had been studied. Some studies were coded in more than one of the six categories, so that the numbers presented in the typology of burnout research add up to more than 1,225.</p><p>In a third step, we analyzed the body of literature in general and within each of the categories quantitatively and qualitatively. First, we conducted a descriptive statistical analysis to investigate the development of burnout research over time and the distribution of burnout research across the categories identified. Second, we interpreted the findings of the coding for each category in general and in depth, with the aim of outlining and discussing the key issues at stake. To do so, we not only took the abstracts into account but also selected up to 15 articles in each category that we reviewed and interpreted in depth. The selected studies cover the whole field of medical and psychological burnout research. The results of this last interpretation are not presented individually, but are instead discussed together with our overall findings.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Quantitative Results: The Rise of Burnout Research</head><p>The number of published articles on burnout reflects this historical development and illustrates the growing interest in the concept. Our literature search in the PubMed database, which was run on articles containing the term burnout in their titles published up to the end of 2011, resulted in 1,225 articles as described above. Figure <ref type="figure" coords="4,453,52,188,56,5,00,8,78" target="#fig_0">1</ref> shows the number of published articles per year from 1978 to 2011. The first study on the burnout syndrome included in the PubMed databases was published in 1978. All papers published on this topic before 1978, such as the articles by <ref type="bibr" coords="4,460,32,236,56,88,65,8,78" target="#b21">Freudenberger (1974)</ref> and <ref type="bibr" coords="4,325,70,248,56,65,79,8,78" target="#b30">Ginsburg (1974)</ref>, were not part of our sample as they were not published in journals indexed in PubMed. The number of published studies remained very low until 1988. During this time, it hardly ever exceeded 10 publications per year. It was only in 1989 that the rate of publications per year increased, and stayed over this mark for the next 10 years. In 1999, another sharp increase can be observed. Since 2005, there has been a significant upsurge of published articles on the burnout syndrome.</p><p>The rise in scientific publications on burnout comes at a time of growing societal interest in mental health. One could, therefore, argue that the increase in publications on burnout is unconnected with a growing interest in this particular mental condition, and is just another indication of the general tendency toward the medicalization of mental states of mind <ref type="bibr" coords="4,514,76,417,76,34,22,8,78;4,307,50,429,96,22,18,8,78" target="#b15">(Conrad, 2007;</ref><ref type="bibr" coords="4,331,77,429,96,55,54,8,78" target="#b20">Frances, 2013)</ref>. As <ref type="bibr" coords="4,406,08,429,96,56,69,8,78" target="#b15">Conrad (2007)</ref> points out, "'medicalization' describes a process by which non-medical problems become defined and treated as medical problems, usually in terms of illness and disorders" (p. 4). To better evaluate the development of scientific publications on burnout and decide whether or not there is anything unique about the rise in burnout research since the turn of the century, we compared them with the annual number of publications investigating depression. We selected depression as a benchmark because it is often discussed either together with, or as a contrast to the concept of burnout <ref type="bibr" coords="4,339,91,551,96,178,45,8,78" target="#b12">(Brenninkmeyer, Van Yperen, &amp; Buunk, 2001)</ref>.</p><p>The same search strategies used for burnout were applied in the search for depression. PubMed includes far more publications on depression than on burnout. For example, in 2010, 3,430 articles were published on depression and 138 articles on burnout. However, if instead of looking at the overall numbers, one examines the relative increase of publications for each mental state, it becomes apparent that there is an exceptional rise in the number of publications on burnout. Within just 20 years, from 1991 to 2010, the number rose by a factor of 7.7, whereas publications on depression "only" increased by a factor of 3.4. This suggests that the scientific interest in burnout extends beyond the mere expansion of medical knowledge or of medical and psychological research on specific mental conditions. It can, therefore, indeed be interpreted as a specific attempt toward the medicalization of work-related stress. We will take this point up again in the "Discussion: The Social Construction and Reproduction of a Contested Diagnosis" section.</p><p>We argue that there are two reasons for the disproportionate rise in burnout publications. First, the scientific interest in this mental state reflects a growing use of this concept in society. With the economic crises at the end of the 1990s and the 2000s, especially the collapse of the dot-com bubble and the global financial crises, professionals increasingly used the term burnout to describe the feelings that resulted from growing demands in the workplace. This also resulted in an increase in burnout research. Interestingly, though, only very few studies have systematically investigated burnout in contexts other than the health care sector, as we will show below. Second, and more important, burnout is still a contested diagnosis. Because of this fact and the increasing societal discussion on the burned-out workforce, new attempts to study this phenomenon are regularly undertaken. These attempts, however, are unable to explain and grasp burnout in all its dimensions. On the contrary, they contribute to the vagueness of the concept, thereby triggering new research, as we will show in the "Discussion: The Social Construction and Reproduction of a Contested Diagnosis" section.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Qualitative Results: A Typology of Burnout Research</head><p>We developed a typology of burnout research with six different categories based on a qualitative analysis of the literature corpus on burnout. The largest category includes studies on causes and associated factors of the burnout syndrome. Six hundred twenty-nine articles were identified in this category. The studies aim was to determine factors that contribute to, and facilitate, the development of burnout. They mostly distinguished three factors that make people more vulnerable to burnout: personality factors, organizational factors, and social factors (e.g., Hudek-Knezević, Kalebić Maglica, &amp; Krapić, 2011; Lorente Prieto, Salanova Soria, Martínez Martínez, <ref type="bibr" coords="5,364,03,476,99,76,69,8,78" target="#b46">&amp; Schaufeli, 2008;</ref><ref type="bibr" coords="5,443,65,476,99,120,34,8,78;5,322,50,488,99,21,53,8,78" target="#b55">Moreno-Jiménez &amp; Villodres, 2010)</ref>. Most of the studies focus on personality traits and to a lesser extent on organizational determinants, whereas the social and societal context of burnout is not taken into account systematically.</p><p>Studies on the prevalence of the burnout syndrome in different occupational groups, that is, the proportion of people in a population said to be suffering from burnout, are the second largest group with 337 articles identified. With the introduction of the MBI in 1981, it was possible to quickly and simply examine the prevalence of burnout in various populations. Using the MBI, participants can be tested within a few minutes as they only have to answer 22 questions. <ref type="bibr" coords="5,366,66,632,99,117,08,8,78" target="#b48">Maslach and Jackson (1981)</ref> also included three additional items to assess "involvement," which may or may not be used to measure burnout. The analysis of the questionnaire also only takes a few minutes, which is what makes this-and related instruments such as the Copenhagen Burnout Inventory-and investigations into the prevalence of burnout so popular and convenient (e.g., <ref type="bibr" coords="5,322,50,716,99,70,18,8,78" target="#b60">Ripp et al., 2011)</ref>. The third category consists of studies that develop and test training programs and other methods to reduce or prevent burnout (160 studies). Some of these programs focus on the personal aspects of burnout patients (e.g., Pejušković, Lečić-Toševski, Priebe, &amp; Tošković, 2011); others take working conditions into account, or combine training related to personal factors with changes in organizational conditions (for a review, see <ref type="bibr" coords="6,118,71,458,99,130,60,8,78" target="#b4">Awa, Plaumann, &amp; Walter, 2010)</ref>.</p><p>Studies on psychological and/or somatic symptoms of the burnout syndrome constitute the fourth category (99 studies). These studies attempt to define burnout symptoms (Oosterholt, Van der Linden, Maes, Verbraak, &amp; Kompier, 2012) and differentiate burnout from other mental disorders such as major depression <ref type="bibr" coords="6,158,48,530,99,83,83,8,78" target="#b0">(Ahola et al., 2005)</ref> or chronic fatigue <ref type="bibr" coords="6,78,27,542,99,175,67,8,78" target="#b45">(Leone, Huibers, Knottnerus, &amp; Kant, 2008)</ref>.</p><p>Psychometric studies, meaning publications that present new questionnaires for burnout or validate (translations of) existing questionnaires, constitute the fifth category (53 studies). These studies deal with the psychometric characteristics of burnout measures, for instance, the construction of such measures, their validity <ref type="bibr" coords="6,168,37,614,99,73,07,8,78" target="#b8">(Beckstead, 2002;</ref><ref type="bibr" coords="6,244,80,614,99,44,72,8,78;6,48,00,626,99,21,53,8,78" target="#b27">Gil-Monte, 2005)</ref>, or their reliability <ref type="bibr" coords="6,149,46,626,99,140,05,8,78;6,48,00,638,99,71,82,8,78" target="#b6">(Balogun, Helgemoe, Pellegrini, &amp; Hoeberlein, 1995)</ref>. These parameters are tested in different occupational groups as well as across different countries. Despite the ubiquitous MBI, other burnout measures are also employed, for example, the Copenhagen Burnout Inventory <ref type="bibr" coords="6,48,00,686,99,150,67,8,78" target="#b33">(Halbesleben &amp; Demerouti, 2005;</ref><ref type="bibr" coords="6,206,03,686,99,83,46,8,78;6,48,00,698,99,134,44,8,78" target="#b42">Kristensen, Borritz, Villadsen, &amp; Christensen, 2005)</ref>, the Oldenburg Burnout Inventory <ref type="bibr" coords="6,91,39,710,99,140,87,8,78" target="#b33">(Halbesleben &amp; Demerouti, 2005)</ref> The final category consists of publications that focus on the physiological processes that underlie the burnout syndrome (43 studies). These studies try to identify so-called biological markers in burnout patients to improve the diagnosis and treatment. Patients in these studies were diagnosed with the help of one of the existing burnout questionnaires before physiological correlates such as cortisol levels <ref type="bibr" coords="6,307,50,494,99,241,48,8,78" target="#b54">(Mommersteeg, Heijnen, Verbraak, &amp; van Doornen, 2006)</ref> or changes in the immune system <ref type="bibr" coords="6,447,98,506,99,100,99,8,78;6,307,50,518,99,139,68,8,78" target="#b53">(Mommersteeg, Heijnen, Kavelaars, &amp; van Doornen, 2006)</ref>, in metabolic processes (Danhof-Pont, van Veen, &amp; Zitman, 2011), or in brain activity (van Luitelaar, Verbraak, van den Bunt, Keijsers, &amp; Arns, 2010) were examined.</p><p>As can be seen in Figure <ref type="figure" coords="6,425,15,566,99,3,75,8,78" target="#fig_2">2</ref>, research articles on burnout are unequally distributed across the six categories. We argue (a) that this characteristic distribution explains most of the problems in today's burnout research and is at the root of the vagueness and ambiguity of the concept and (b) that most burnout research ignores social and societal factors.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion: The Social Construction and Reproduction of a Contested Diagnosis</head><p>As mentioned above, burnout is accepted as a medical diagnosis in only very few countries. On a global scale, there is still no consensus in the health sciences about what constitutes burnout and whether the term is actually expedient as a diagnosis for a distinct mental disorder. As <ref type="bibr" coords="7,221,52,469,99,82,96,8,78;7,63,00,481,99,62,89,8,78">Korczak, Huber, and Kister (2010, p.</ref> 3) rightly put it, "In fact no consistent valid definition exists. Burnout seems to be more or less a fuzzy set of many definitions. In the literature, a multitude of burnout symptoms and theories and explanatory models can be found." Thus, one might expect scientific investigations into burnout to make an exceptional effort to clearly define this mental state, by searching for distinct features that would distinguish it from other mental disorders such as depression, work-related stress, chronic fatigue syndrome, and similar mental disorders. However, as our analysis shows, only a very small number of studies deal with the psychological and somatic symptoms of burnout, endeavor to develop diagnostic criteria, or identify particular biomarkers that help to identify and define burnout. Figure <ref type="figure" coords="7,91,68,637,99,5,00,8,78" target="#fig_3">3</ref> shows that studies on psychological and/or somatic symptoms have remained at an equally low level over almost three decades, although there has been a steep rise in studies on the causes and associated factors as well as on the prevalence of burnout.</p><p>Instead of clarifying and critically discussing the concept of burnout, most articles study the causes and associated factors, or measure the prevalence rates of a mental state that is not even properly defined and classified. This results in serious problems in burnout research as well as in the health care sector.</p><p>To study the prevalence rates and identify the causes of a disease or mental disorder, there needs to be common ground, an understanding and theoretical framework of the illness or state that is being investigated. For burnout, there is no such common classification <ref type="bibr" coords="7,415,47,541,99,87,41,8,78" target="#b40">(Kaschka et al., 2011;</ref><ref type="bibr" coords="7,505,48,541,99,58,51,8,78;7,322,50,553,99,22,78,8,78" target="#b41">Korczak et al., 2010;</ref><ref type="bibr" coords="7,349,94,553,99,90,09,8,78" target="#b49">Maslach et al., 2001;</ref><ref type="bibr" coords="7,444,69,553,99,92,73,8,78" target="#b69">Schaufeli et al., 2009)</ref>. This raises the question of whether all the studies that identify particular causes of burnout or measure the prevalence rates are actually investigating the same phenomenon. On a positive note, it has to be emphasized that until the end of the 1990s, about 90% of all studies used the same instrument to identify individuals suffering from burnout-the MBI <ref type="bibr" coords="7,322,50,637,99,118,78,8,78" target="#b68">(Schaufeli &amp; Enzmann, 1998)</ref>. Although the MBI is still the most widely used questionnaire to examine and diagnose this mental condition <ref type="bibr" coords="7,392,72,661,99,89,89,8,78" target="#b69">(Schaufeli et al., 2009)</ref>, this does not solve the problem of burnout being a contested diagnosis.</p><p>First, in recent years, several new questionnaires have been developed to address some of the perceived shortcomings of the MBI. The Burnout Measure <ref type="bibr" coords="7,487,91,709,99,76,09,8,78;7,322,50,721,99,21,53,8,78" target="#b58">(Pines &amp; Aronson, 1988)</ref>, the Copenhagen Burnout Inventory (Kristensen et al., 2005), the Oldenburg Burnout Inventory <ref type="bibr" coords="8,224,20,72,31,65,32,8,78;8,48,00,84,31,74,03,8,78" target="#b33">(Halbesleben &amp; Demerouti, 2005)</ref>, and the Bergen Burnout Inventory <ref type="bibr" coords="8,48,00,96,31,109,19,8,78" target="#b64">(Salmela-Aro et al., 2011)</ref> are just some examples. These questionnaires differ in their understanding of the underlying concept of burnout and their psychometrics, which makes a comparison between research results difficult. For example, <ref type="bibr" coords="8,48,00,144,31,104,64,8,78" target="#b58">Pines and Aronson (1988)</ref> emphasize the aspect of physical, emotional, and mental exhaustion in response to prolonged exposure to emotionally challenging situations. In contrast, <ref type="bibr" coords="8,48,00,180,31,147,21,8,78" target="#b25">Freudenberger and Richelson (1980)</ref> focus on the lack of an expected reward for an occupational task, whereas for <ref type="bibr" coords="8,48,00,204,31,82,77,8,78" target="#b49">Maslach et al. (2001)</ref>, burnout is defined by the three dimensions of exhaustion, cynicism, and inefficacy.</p><p>Second, the repeated use of a specific instrument does not necessarily improve the quality or explanatory power of the phenomenon it seeks to measure. At best, it implicitly endorses one particular understanding of the observable fact and, by doing so, indirectly contributes to its definition and establishment. If, for one reason or another, the instrument is problematic or relies on assumptions about the phenomenon that are one-sided or otherwise problematic, these are constantly reproduced. For example, the MBI and the Burnout Measure have been criticized for a number of weak and ambiguous items, which can be interpreted as a sign of a weak definition of the phenomenon itself <ref type="bibr" coords="8,89,87,372,31,155,80,8,78" target="#b70">(Schaufeli &amp; van Dierendonck, 1993;</ref><ref type="bibr" coords="8,248,59,372,31,40,89,8,78;8,48,00,384,31,59,04,8,78" target="#b72">Shirom &amp; Ezrachi, 2003)</ref>.</p><p>The third problem relates to the use of the existing burnout inventories. For example, the MBI is regularly used to discriminate between individuals who suffer from burnout and those who do not, or in other words, those who are healthy and those who are ill. However, the MBI was not designed with this kind of decision in mind. Instead, it was intended to provide a continuum from zero or low levels of work-related stress or low to a high degree of burnout. It was only later that a number of researchers decided to use a certain cutoff point to make a decision on, and a clear distinction between, participants with and without burnout. This specific use of the MBI and other instruments further contributed to the problems in burnout research and the reproduction of the ambiguity of the concept.</p><p>However, none of these problems or challenges with regard to the concept and the measurement of burnout are addressed in the majority of the studies we analyzed. On the contrary, in most cases, the impression appears to be that there is no doubt about the concept of burnout. It seems to be a distinct mental and physical condition and can be easily measured. This is clearly not the case, but it is exactly this approach in burnout research that contributes to the blurriness of the concept that studies on burnout aim to overcome. Because burnout is not strictly defined and the current burnout inventories measure diverse manifestations, different publications dealing with this state identify various, and sometimes contradictory, causes. However, it is unclear whether there are indeed so many causes or whether the studies have investigated different mental states. As we have shown here, there is evidence that the latter is the case.</p><p>The problems outlined above become especially apparent in publications that try to identify biomarkers for burnout (category 6), which are presumed to be more precise than questionnaires and other psychological diagnostic methods. These studies rely on identifying participants with or without burnout for inclusion in their treatment and control groups. Given the difficulties in the use of the various burnout inventories, it is a challenging task to draw this distinction and clearly identify burnout patients in contrast to healthy participants or those suffering from other mental disorders, such as depression. This is also why <ref type="bibr" coords="8,464,18,216,31,84,81,8,78;8,307,50,228,31,156,11,8,78" target="#b65">Sandström, Rhodin, Lundberg, Olsson, and Nyberg (2005)</ref> report in their study on the cognitive performance of burnout patients that 40.3% of their burnout group also suffers from another mental disorder such as depression. Interestingly though, the authors do not discuss whether burnout is a distinct mental disorder, and also neglect to address the problem of comorbidity. Instead, they simply conclude that there is evidence for differences in some cognitive functions between burnout patients and healthy participants. The concept and construct of burnout is not called into question. In other words, the authors reproduce burnout in its vagueness and ambiguity. This applies to not only the study by Sandström and colleagues but also all the publications that attempt to identify biomarkers work the same way.</p><p>Another problem concerns the results of studies examining the prevalence of burnout. Numerous publications report prevalence rates of 50% in distinct occupational groups, especially in the medical professions. The study by <ref type="bibr" coords="8,521,76,432,31,27,22,8,78;8,307,50,444,31,49,74,8,78" target="#b66">Santen et al. (2010)</ref> of medical students finds a prevalence of 21% for medical students affected by burnout during their first year at university. This rises to 41% during the second, and 43% in the third year of medical education. As in many other publications on burnout, it remains unclear what these dramatic data really tell us about the mental health of these students. How can these data be interpreted? Does it mean that 43% of the medical students examined suffer from a mental disorder and need some form of treatment?</p><p>The same question can be asked for physicians and nurses, professions where alarming data in respect of burnout have been measured. The prevalence rates reported often exceed those for mental disorders such as depression or anxiety disorders. However, few attempts are made to explain such rates <ref type="bibr" coords="8,307,50,612,31,156,47,8,78" target="#b5">(Bakker, Le Blanc, &amp; Schaufeli, 2005;</ref><ref type="bibr" coords="8,466,96,612,31,82,03,8,78;8,307,50,624,31,65,07,8,78" target="#b13">Businger, Stefenelli, &amp; Guller, 2010;</ref><ref type="bibr" coords="8,376,00,624,31,88,43,8,78" target="#b31">Glasberg et al., 2007;</ref><ref type="bibr" coords="8,467,86,624,31,81,11,8,78;8,307,50,636,31,118,52,8,78" target="#b52">McCray, Cronholm, Bogner, Gallo, &amp; Neill, 2008;</ref><ref type="bibr" coords="8,428,14,636,31,78,07,8,78" target="#b75">Trufelli et al., 2008)</ref>. But what does it mean if nigh on 70% of a population suffer from burnout, as suggested by <ref type="bibr" coords="8,414,00,660,31,130,57,8,78">Glasberg and colleagues (2007)</ref>? What is the value of such information and the burnout concept in general if almost everyone seems to be prone to it and has to deal with it? This question is not addressed at all. It is simply assumed that the measurement of burnout is failsafe and that the application of a certain inventory will produce reliable results that speak for themselves. Such investigations provide no help in actually understanding burnout, but merely serve to add to and reproduce the vague concept that it is today. Similar problems apply to studies seeking biomarkers for burnout.</p><p>It is not the investigation into burnout itself that is problematic. Far more, a different approach to the study of burnout is called for if it is to have scientific, medical, and psychological value. It should be clear by now that burnout research itself produces problematic results. Instead of analyzing the psycho-social context and epistemological framing of burnout, and trying to come up with better definitions and differential diagnostics for this state of mind, current burnout research uncritically reproduces the blurry idea of burnout again and again, and in doing so, just reinforces it.</p><p>Our analysis shows that it needs a fundamentally different approach to the concept of burnout and its scientific investigation. First, there is a need for a broad and critical discussion on this clinical diagnosis, its differential diagnostics, and the criteria for classification. It is particularly important to focus on research that attempts to define burnout as a distinct mental disorder that can be distinguished from other mental conditions. The outcome of this research may show that burnout is not needed as a distinct mental disorder or that it is simply not useful to define it as such in a clinical setting, but for now there is not enough evidence-based research for or against burnout as a diagnosis.</p><p>Second, and from a sociological perspective more important, the concept of burnout and its investigation in the health sciences must be put into a broader social context, and theoretically reflected. So far, no analysis of the social conditions has been conducted that might explain the rise of burnout as a metaphor or a clinical sign for working conditions in today's society. Theoretical reflections on, or even the empirical analysis of neoliberal society are virtually absent from the medical and psychological study of burnout, even though there appears to be a close link between burnout and the zeitgeist in society today. We acknowledge that our findings, noting a lack of awareness with regard to social and societal factors, might be biased by the focus on medical and psychological literature. One might object that it is simply not the task of the health sciences to systematically consider and address these societal aspects.</p><p>There are, however, also only very few social and philosophical contributions to the debate, such as the seminal articles by <ref type="bibr" coords="9,94,25,612,31,63,50,8,78" target="#b35">Honneth (2004)</ref> and <ref type="bibr" coords="9,177,81,612,31,65,72,8,78" target="#b74">Thunman (2012)</ref>. These studies use burnout as an umbrella term or a metaphor and conflate the term with feelings of general fatigue, exhaustion, and distress in a seemingly accelerated society <ref type="bibr" coords="9,218,63,648,31,48,92,8,78" target="#b62">(Rosa, 2015)</ref>. In other words, they do not necessarily analyze the same phenomenon that is referred to as burnout in the health sciences.</p><p>Social class and gender are additional factors that seem to be highly relevant in the debate about mental health <ref type="bibr" coords="9,272,29,696,31,32,21,8,78;9,63,00,708,31,47,62,8,78" target="#b67">(Savage et al., 2013;</ref><ref type="bibr" coords="9,113,32,708,31,54,65,8,78" target="#b73">Simon, 1995)</ref> and especially about burnout, but this has not been systematically studied at all. We think it is important to try to understand why so many people make use of this diagnosis in daily life, even though it is not accepted as a clinical diagnosis. In other words, it is crucial to systematically study the social framing and societal aspects of this diagnosis. One might also object that it is not the task of psychology and medicine-the fields we investigated in this article-to address these issues, and hence, they are not at the core of the enquiry. But the results of the health science investigations are constantly placed in a social context, and scholars investigating burnout regularly call for organizational and societal interventions. If research into mental health is so closely linked to societal modes of production, division of labor, and so on, as in the case of burnout, it is not enough to simply interpret the results in the light of a given society. Such societal aspects should play a substantial role in the analysis. If the question of whether or not burnout is a useful concept in the clinical context and beyond is to be answered, a prerequisite is to take into account the different uses of the concept in society and try to grasp the reasons for the societal popularity and relevance of the diagnosis.</p><p>Despite the problems of establishing burnout as a distinct mental disorder in the health sciences, it plays an important role in societal discussions on public health and mental wellbeing. This is particularly interesting in the light of the ongoing discussion about the medicalization of society. Scholars such as <ref type="bibr" coords="9,354,26,372,31,58,65,8,78" target="#b15">Conrad (2007)</ref> and <ref type="bibr" coords="9,432,45,372,31,131,54,8,78;9,322,50,384,31,67,68,8,78" target="#b14">Clarke, Mamo, Fosket, Fishman, and Shim (2010)</ref> argue, correctly, that it is mostly the medical field that is actively expanding its sphere of influence and "inventing" new diseases and especially mental disorders. With the recent introduction of the DSM-5, this discussion has again become relevant, and several arguments seem to support the claim that we are observing a kind of medical colonization <ref type="bibr" coords="9,375,99,456,31,62,51,8,78" target="#b20">(Frances, 2013)</ref>. However, as our analysis of burnout research shows, this is not always the case. The health sciences are still struggling with this particular form of work-related stress, and they regularly produce research results that actually suggest a significant overlap between burnout and other mental disorders such as depression. But instead of abandoning the idea of burnout as a distinct mental disorder, scientists and clinicians still cling to the concept, and conduct new research that is equally problematic and fails to clarify the concept. We believe that this is largely due to the fact that burnout is frequently discussed in the media as a serious problem in today's society, and many people use it to describe their feelings of exhaustion and work-related stress. This feeds back into the medical field and contributes to the growing interest in this mental state. Therefore, burnout seems to be a remarkable case of consumer-driven medicalization <ref type="bibr" coords="9,363,74,648,31,57,78,8,78" target="#b7">(Barker, 2008;</ref><ref type="bibr" coords="9,423,88,648,31,57,08,8,78" target="#b15">Conrad, 2007;</ref><ref type="bibr" coords="9,483,32,648,31,80,67,8,78;9,322,50,660,31,21,53,8,78" target="#b71">Shaw &amp; Woodward, 2004)</ref>, one that makes us aware of the fact that medicalization is by no means a unidirectional process driven by the health sciences.</p><p>Furthermore, our analysis shows that a medical diagnosis is certainly not a given fact, but a field of intense debate <ref type="bibr" coords="9,322,50,720,31,73,25,8,78" target="#b10">(Berlinguer, 2003;</ref><ref type="bibr" coords="9,398,02,720,31,96,12,8,78" target="#b16">Conrad &amp; Barker, 2010;</ref><ref type="bibr" coords="9,496,41,720,31,46,44,8,78" target="#b37">Jutel, 2009;</ref><ref type="bibr" coords="9,545,12,720,31,18,89,8,78;10,48,00,72,31,74,34,8,78" target="#b38">Jutel &amp; Nettleton, 2011)</ref>, not only between experts and laypeople but also within the medical field. It is socially constructed, produced, and reproduced in various ways, some of which we have illuminated here. Such a sociological analysis of the struggles and challenges in investigating mental health problems can help to improve health science research in general, and can contribute to understanding the multiple ways of dealing with mental health and illness in society.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>The analysis of burnout research has shown how a mental state has been socially and scientifically constructed and reproduced in the last 40 years. Initially, scientists started to investigate and define a phenomenon they observed in a particular setting, that is to say, social workers and health care professionals suffering from work-related stress, exhaustion, and fatigue. This state was described as burnout and attributed mostly to organizational factors. Over time, the health sciences produced enough evidence to make burnout an important object of scientific enquiry and a challenge for public health, but simultaneously failed to agree on a coherent set of symptoms and a common definition for this type of work-related stress.</p><p>Our typology of publications on burnout has identified some serious problems and shortcomings. We have shown that despite the growing health science literature on this topic and efforts to clarify the diagnosis over the last four decades, the concept remains vague and blurry. It is still not clearly defined, and there is no consensus on the diagnosis. On the contrary, burnout research has even contributed to the vagueness of the syndrome it attempts to investigate. Our analysis suggests that this is because most studies focus on the causes and associated factors of burnout, and on prevalence rates and prevention programs, without reflecting the psychological and physiological foundations of burnout and also without discussing or analyzing the usefulness of the concept in a clinical context and in society at large. Studies certainly exist that also take organizational factors into account (e.g., <ref type="bibr" coords="10,48,00,538,31,241,51,8,78" target="#b32">Griffin, Hogan, Lambert, Tucker-Gail, &amp; Baker, 2010;</ref><ref type="bibr" coords="10,48,00,550,31,115,43,8,78" target="#b36">Hudek-Knezević et al., 2011)</ref>, but in the majority of publications, burnout is mostly individualized. However, it is essential to also examine societal aspects, given the fact that many burnout studies find extremely high prevalence rates and that burnout is widely discussed in many industrialized countries. We, by no means, deny that people suffer from work-related stress and increasing pressure in the workplace. Indeed, these symptoms of exhaustion must be taken seriously and critically analyzed.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0" coords="5,63,00,339,86,245,27,8,39;5,103,75,79,75,420,00,240,00"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Number of publications on burnout from 1978 to 2011.</figDesc><graphic coords="5,103,75,79,75,420,00,240,00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1" coords="6,232,26,710,99,57,22,8,78;6,48,00,722,99,241,47,8,78;6,307,50,374,99,241,51,8,78;6,307,50,386,99,241,50,8,78;6,307,50,398,99,51,02,8,78"><head></head><label></label><figDesc>, the Spanish Burnout Inventory (Gil-Monte, Carlotto, &amp; Câmara, 2010; Gil-Monte &amp; Olivares Faúndez, 2011), or the Bergen Burnout Inventory (Salmela-Aro, Rantanen, Hyvönen, Tilleman, &amp; Feldt, 2011).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2" coords="6,48,00,345,86,158,78,8,39;6,88,75,78,43,420,00,248,64"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Categories of burnout research.</figDesc><graphic coords="6,88,75,78,43,420,00,248,64" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3" coords="7,63,00,428,86,230,47,8,39;7,103,75,80,57,420,00,327,36"><head>Figure 3 .</head><label>3</label><figDesc>Figure 3. Categories of burnout research from 1978 to 2011.</figDesc><graphic coords="7,103,75,80,57,420,00,327,36" type="bitmap" /></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgments</head><p>The authors express their gratitude to four anonymous reviewers for the instructive criticism of an earlier version of this article and to Alan Connor, who copyedited the text. They also acknowledge the support of the Brocher Foundation.</p></div>
+			</div>
+
+
+			<div type="funding">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Funding</head><p>The authors received no financial support for the research and/or authorship of this article.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Declaration of Conflicting Interests</head><p>The authors declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author Biographies</head><p>Linda V. Heinemann is a clinical psychologist and psychotherapist. Her research interests are in gender and mental health and the sociology of diagnosis.</p><p>Torsten Heinemann is a professor of sociology at the University of Hamburg as well as a Marie Curie fellow at the Institute for the Study of Societal Issues at the University of California, Berkeley. His research interests are in social theory, social studies of science and technology with a particular focus on biomedicine and biotechnologies, medical sociology, and sociology of social problems.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct coords="10,307,50,187,86,241,52,7,90;10,323,50,198,86,225,52,7,90;10,323,50,209,86,225,51,7,90;10,323,50,220,85,184,32,7,91" xml:id="b0">
+	<analytic>
+		<title level="a" type="main">The relationship between job-related burnout and depressive disorders—results from the Finnish Health 2000 Study</title>
+		<author>
+			<persName><forename type="first">Kirsi</forename><surname>Ahola</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Teija</forename><surname>Honkonen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Erkki</forename><surname>Isometsä</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Raija</forename><surname>Kalimo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Erkki</forename><surname>Nykyri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Arpo</forename><surname>Aromaa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jouko</forename><surname>Lönnqvist</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jad.2005.06.004</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Affective Disorders</title>
+		<title level="j" type="abbrev">Journal of Affective Disorders</title>
+		<idno type="ISSN">0165-0327</idno>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="55" to="62" />
+			<date type="published" when="2000">2005. 2000</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,307,50,231,85,241,48,7,90;10,323,50,242,85,225,47,7,90;10,323,50,253,85,225,50,7,90;10,323,50,264,84,194,48,7,91" xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Burnout as a predictor of all-cause mortality among industrial employees: A 10-year prospective register-linkage study</title>
+		<author>
+			<persName><forename type="first">Kirsi</forename><surname>Ahola</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ari</forename><surname>Väänänen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aki</forename><surname>Koskinen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anne</forename><surname>Kouvonen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Arie</forename><surname>Shirom</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jpsychores.2010.01.002</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Psychosomatic Research</title>
+		<title level="j" type="abbrev">Journal of Psychosomatic Research</title>
+		<idno type="ISSN">0022-3999</idno>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="51" to="57" />
+			<date type="published" when="2010-07">2010</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,307,50,275,84,241,51,7,91;10,323,50,286,83,224,09,7,91" xml:id="b2">
+	<analytic>
+		<title level="a" type="main">DSM-IV. Diagnostic and Statistical Manual of Mental Disorders, 4th edn. By the American Psychiatric Association. (Pp. 886; £34.95.) APA: Washington, DC.1994.</title>
+		<author>
+			<persName><forename type="first">Glyn</forename><surname>Lewis</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/s0033291700035765</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Medicine</title>
+		<title level="j" type="abbrev">Psychol. Med.</title>
+		<idno type="ISSN">0033-2917</idno>
+		<idno type="ISSNe">1469-8978</idno>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="651" to="652" />
+			<date type="published" when="1994">1994</date>
+			<publisher>Cambridge University Press (CUP)</publisher>
+		</imprint>
+	</monogr>
+	<note>4th ed.</note>
+</biblStruct>
+
+<biblStruct coords="10,307,50,297,83,241,49,7,91;10,323,50,308,83,225,52,7,91;10,323,50,319,84,120,74,7,90" xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Diagnosing mental disorders and saving the normal</title>
+		<author>
+			<persName><forename type="first">Fredrik</forename><surname>Svenaeus</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11019-013-9529-6</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Medicine, Health Care and Philosophy</title>
+		<title level="j" type="abbrev">Med Health Care and Philos</title>
+		<idno type="ISSN">1386-7423</idno>
+		<idno type="ISSNe">1572-8633</idno>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="241" to="244" />
+			<date type="published" when="2013-11-27">2013</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+	<note>5th ed.</note>
+</biblStruct>
+
+<biblStruct coords="10,307,50,330,84,241,48,7,90;10,323,50,341,82,225,51,7,91;10,323,50,352,82,107,00,7,91" xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Burnout prevention: A review of intervention programs</title>
+		<author>
+			<persName><forename type="first">Wendy</forename><forename type="middle">L</forename><surname>Awa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Martina</forename><surname>Plaumann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ulla</forename><surname>Walter</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.pec.2009.04.008</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Patient Education and Counseling</title>
+		<title level="j" type="abbrev">Patient Education and Counseling</title>
+		<idno type="ISSN">0738-3991</idno>
+		<imprint>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="184" to="190" />
+			<date type="published" when="2010-02">2010</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,307,50,363,83,241,52,7,90;10,323,50,374,82,225,51,7,91;10,323,50,385,82,79,25,7,91" xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Burnout contagion among intensive care nurses</title>
+		<author>
+			<persName><forename type="first">Arnold</forename><forename type="middle">B</forename><surname>Bakker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pascale</forename><forename type="middle">M</forename><surname>Le Blanc</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wilmar</forename><forename type="middle">B</forename><surname>Schaufeli</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1365-2648.2005.03494.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Advanced Nursing</title>
+		<title level="j" type="abbrev">J Adv Nurs</title>
+		<idno type="ISSN">0309-2402</idno>
+		<idno type="ISSNe">1365-2648</idno>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="276" to="287" />
+			<date type="published" when="2005-08">2005</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,307,50,396,82,241,52,7,90;10,323,50,407,82,225,48,7,90;10,323,50,418,82,225,50,7,90;10,323,50,429,81,151,99,7,91" xml:id="b6">
+	<analytic>
+		<title level="a" type="main">TEST-RETEST RELIABILITY OF A PSYCHOMETRIC INSTRUMENT DESIGNED TO MEASURE PHYSICAL THERAPY STUDENTS&apos; BURNOUT</title>
+		<author>
+			<persName><forename type="first">Joseph</forename><forename type="middle">A</forename><surname>Balogun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sandra</forename><surname>Helgemoe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Elizabeth</forename><surname>Pellegrini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Teresa</forename><surname>Hoeberlein</surname></persName>
+		</author>
+		<idno type="DOI">10.2466/pms.1995.81.2.667</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Perceptual and Motor Skills</title>
+		<title level="j" type="abbrev">Perceptual and Motor Skills</title>
+		<idno type="ISSN">0031-5125</idno>
+		<idno type="ISSNe">1558-688X</idno>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="667" to="672" />
+			<date type="published" when="1995-10">1995</date>
+			<publisher>SAGE Publications</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,307,50,440,82,241,51,7,90;10,323,50,451,80,225,48,7,91;10,323,50,462,80,150,74,7,91" xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Electronic Support Groups, Patient-Consumers, and Medicalization: The Case of Contested Illness</title>
+		<author>
+			<persName coords=""><forename type="first">Kristin</forename><forename type="middle">K</forename><surname>Barker</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/002214650804900103</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Health and Social Behavior</title>
+		<title level="j" type="abbrev">J Health Soc Behav</title>
+		<idno type="ISSN">0022-1465</idno>
+		<idno type="ISSNe">2150-6000</idno>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="20" to="36" />
+			<date type="published" when="2008-03">2008</date>
+			<publisher>SAGE Publications</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,307,50,473,81,241,52,7,90;10,323,50,484,80,225,51,7,91;10,323,50,495,80,116,76,7,91" xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Confirmatory factor analysis of the Maslach Burnout Inventory among Florida nurses</title>
+		<author>
+			<persName coords=""><forename type="first">Jason</forename><forename type="middle">W</forename><surname>Beckstead</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0020-7489(02)00012-3</idno>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Nursing Studies</title>
+		<title level="j" type="abbrev">International Journal of Nursing Studies</title>
+		<idno type="ISSN">0020-7489</idno>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="785" to="792" />
+			<date type="published" when="2002-11">2002</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,307,50,506,80,241,50,7,90;10,323,50,517,79,225,50,7,91;10,323,50,528,79,101,49,7,91" xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Teacher Stress and Burnout: Implications for School Health Personnel</title>
+		<author>
+			<persName><forename type="first">Philip</forename><forename type="middle">A</forename><surname>Belcastro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><forename type="middle">S</forename><surname>Gold</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1746-1561.1983.tb03148.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of School Health</title>
+		<idno type="ISSN">0022-4391</idno>
+		<idno type="ISSNe">1746-1561</idno>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="404" to="407" />
+			<date type="published" when="1983-09">1983</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,307,50,539,79,241,49,7,91;10,323,50,550,79,185,99,7,91" xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Everyday Bioethics</title>
+		<author>
+			<persName coords=""><forename type="first">Giovanni</forename><surname>Berlinguer</surname></persName>
+		</author>
+		<idno type="DOI">10.4324/9781315232591</idno>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>Amityville, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,307,50,561,79,241,48,7,90;10,323,50,572,79,225,51,7,90;10,323,50,583,79,225,47,7,90;10,323,50,594,78,225,49,7,91;10,323,50,605,78,85,74,7,91" xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Prevalence and causes of burnout amongst oncology residents: A comprehensive nationwide cross-sectional study</title>
+		<author>
+			<persName coords=""><forename type="first">P</forename><surname>Blanchard</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">D</forename><surname>Truchot</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>Albiges-Sauvin</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Dewas</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Y</forename><surname>Pointreau</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Rodrigues</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Xhaard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Loriot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Giraud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Soria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Kantor</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ejca.2010.05.014</idno>
+	</analytic>
+	<monogr>
+		<title level="j">European Journal of Cancer</title>
+		<title level="j" type="abbrev">European Journal of Cancer</title>
+		<idno type="ISSN">0959-8049</idno>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">15</biblScope>
+			<biblScope unit="page" from="2708" to="2715" />
+			<date type="published" when="2010-10">2010</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,307,50,616,78,241,49,7,90;10,323,50,627,78,225,47,7,90;10,323,50,638,77,225,51,7,91;10,323,50,649,77,91,74,7,91" xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Burnout and depression are not identical twins: is decline of superiority a distinguishing feature?</title>
+		<author>
+			<persName><forename type="first">Veerle</forename><surname>Brenninkmeyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nico</forename><forename type="middle">W</forename><surname>Van Yperen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bram</forename><forename type="middle">P</forename><surname>Buunk</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0191-8869(00)00079-9</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Personality and Individual Differences</title>
+		<title level="j" type="abbrev">Personality and Individual Differences</title>
+		<idno type="ISSN">0191-8869</idno>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="873" to="880" />
+			<date type="published" when="2001-04">2001</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,307,50,660,78,241,49,7,90;10,323,50,671,77,225,48,7,90;10,323,50,682,76,135,23,7,91" xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Prevalence of Burnout Among Surgical Residents and Surgeons in Switzerland</title>
+		<author>
+			<persName coords=""><forename type="first">Adrian</forename><surname>Businger</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">U</forename><surname>Stefenelli</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">U</forename><surname>Guller</surname></persName>
+		</author>
+		<idno type="DOI">10.1001/archsurg.2010.188</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Archives of Surgery</title>
+		<title level="j" type="abbrev">Arch Surg</title>
+		<idno type="ISSN">0004-0010</idno>
+		<imprint>
+			<biblScope unit="volume">145</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page">1013</biblScope>
+			<date type="published" when="2010-10-01">2010</date>
+			<publisher>American Medical Association (AMA)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,307,50,693,77,241,47,7,90;10,323,50,704,76,225,49,7,91;10,323,50,715,76,199,99,7,91" xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Biomedicalization: Technoscience, health, and illness in the</title>
+		<author>
+			<persName coords=""><forename type="first">A</forename><forename type="middle">E</forename><surname>Clarke</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>Mamo</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">R</forename><surname>Fosket</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">R</forename><surname>Fishman</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><surname>Shim</surname></persName>
+		</author>
+		<editor>J. K.</editor>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>Duke University Press</publisher>
+			<pubPlace>U.S. Durham, NC</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,63,00,72,27,241,50,7,91;11,79,00,83,27,225,50,7,91;11,79,00,94,27,176,75,7,90" xml:id="b15">
+	<monogr>
+		<title level="m" type="main">The medicalization of society: On the transformation of human conditions into treatable disorders</title>
+		<author>
+			<persName coords=""><forename type="first">P</forename><surname>Conrad</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>Johns Hopkins University Press</publisher>
+			<pubPlace>Baltimore, MD</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,63,00,105,27,241,53,7,90;11,79,00,116,26,225,50,7,91;11,79,00,127,26,160,75,7,91" xml:id="b16">
+	<analytic>
+		<title level="a" type="main">The Social Construction of Illness: Key Insights and Policy Implications</title>
+		<author>
+			<persName><forename type="first">Peter</forename><surname>Conrad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kristin</forename><forename type="middle">K</forename><surname>Barker</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0022146510383495</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Health and Social Behavior</title>
+		<title level="j" type="abbrev">J Health Soc Behav</title>
+		<idno type="ISSN">0022-1465</idno>
+		<idno type="ISSNe">2150-6000</idno>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="issue">1_suppl</biblScope>
+			<biblScope unit="page" from="S67" to="S79" />
+			<date type="published" when="2010-03">2010</date>
+			<publisher>SAGE Publications</publisher>
+		</imprint>
+	</monogr>
+	<note>Suppl.</note>
+</biblStruct>
+
+<biblStruct coords="11,63,00,138,26,241,46,7,91;11,79,00,149,26,225,51,7,91;11,79,00,160,25,147,47,7,91" xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Basics of Qualitative Research (3rd ed.): Techniques and Procedures for Developing Grounded Theory</title>
+		<author>
+			<persName><forename type="first">Juliet</forename><surname>Corbin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anselm</forename><surname>Strauss</surname></persName>
+		</author>
+		<idno type="DOI">10.4135/9781452230153</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Basics of qualitative research: Techniques and procedures for developing grounded theory</title>
+				<meeting><address><addrLine>Los Angeles, CA</addrLine></address></meeting>
+		<imprint>
+			<publisher>SAGE Publications, Inc.</publisher>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note>3rd ed.</note>
+</biblStruct>
+
+<biblStruct coords="11,63,00,171,26,241,48,7,90;11,79,00,182,25,225,49,7,91;11,79,00,193,25,139,98,7,91" xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Biomarkers in burnout: A systematic review</title>
+		<author>
+			<persName><forename type="first">Marie</forename><forename type="middle">Bernardine</forename><surname>Danhof-Pont</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tineke</forename><surname>Van Veen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Frans</forename><forename type="middle">G</forename><surname>Zitman</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jpsychores.2010.10.012</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Psychosomatic Research</title>
+		<title level="j" type="abbrev">Journal of Psychosomatic Research</title>
+		<idno type="ISSN">0022-3999</idno>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="505" to="524" />
+			<date type="published" when="2011-06">2011</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,63,00,204,25,241,49,7,91;11,79,00,215,25,54,49,7,90" xml:id="b19">
+	<monogr>
+		<title level="m" type="main">An introduction to qualitative research</title>
+		<author>
+			<persName coords=""><forename type="first">U</forename><surname>Flick</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>Sage</publisher>
+			<pubPlace>London, England</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,63,00,226,24,241,50,7,91;11,79,00,237,24,225,49,7,91;11,79,00,248,24,225,49,7,91;11,79,00,259,24,31,74,7,90" xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Saving normal: An insider&apos;s revolt against out-of-control psychiatric diagnosis, DSM-5, big pharma, and the medicalization of ordinary life</title>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Frances</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<publisher>William Morrow</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,63,00,270,23,241,52,7,91;11,79,00,281,23,72,24,7,91" xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Staff Burn-Out</title>
+		<author>
+			<persName coords=""><forename type="first">Herbert</forename><forename type="middle">J</forename><surname>Freudenberger</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1540-4560.1974.tb00706.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social Issues</title>
+		<idno type="ISSN">0022-4537</idno>
+		<idno type="ISSNe">1540-4560</idno>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="159" to="165" />
+			<date type="published" when="1974-01">1974</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,63,00,292,24,241,51,7,90;11,79,00,303,23,225,50,7,91;11,79,00,314,23,71,74,7,91" xml:id="b22">
+	<analytic>
+		<title level="a" type="main">The staff burn-out syndrome in alternative institutions.</title>
+		<author>
+			<persName coords=""><forename type="first">Herbert</forename><forename type="middle">J</forename><surname>Freudenberger</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/h0086411</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Psychotherapy: Theory, Research &amp; Practice</title>
+		<title level="j" type="abbrev">Psychotherapy: Theory, Research &amp; Practice</title>
+		<idno type="ISSN">0033-3204</idno>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="73" to="82" />
+			<date type="published" when="1975">1975</date>
+			<publisher>American Psychological Association (APA)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,63,00,325,23,241,50,7,90;11,79,00,336,22,182,22,7,91" xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Burn-out: Occupational hazard of the child care worker</title>
+		<author>
+			<persName coords=""><forename type="first">Herbert</forename><forename type="middle">J</forename><surname>Freudenberger</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/bf01554695</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Child Care Quarterly</title>
+		<title level="j" type="abbrev">Child Youth Care Forum</title>
+		<idno type="ISSN">0045-6632</idno>
+		<idno type="ISSNe">1573-3319</idno>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="90" to="99" />
+			<date type="published" when="1977-06">1977a</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,63,00,347,23,241,51,7,90;11,79,00,358,22,195,47,7,91" xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Burn-out: The organizational menace</title>
+		<author>
+			<persName coords=""><forename type="first">H</forename><forename type="middle">J</forename><surname>Freudenberger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Training and Development Journal</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="26" to="27" />
+			<date type="published" when="1977">1977b</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,63,00,369,22,241,51,7,91;11,79,00,380,21,192,46,7,91" xml:id="b25">
+	<monogr>
+		<title level="m" type="main">Burn-out: The high cost of achievement</title>
+		<author>
+			<persName coords=""><forename type="first">H</forename><forename type="middle">J</forename><surname>Freudenberger</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">G</forename><surname>Richelson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1980">1980</date>
+			<publisher>Anchor Press</publisher>
+			<pubPlace>Garden City, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,63,00,391,21,241,52,7,91;11,79,00,402,22,19,75,7,90" xml:id="b26">
+	<monogr>
+		<title level="m" type="main">Analyzing Qualitative Data</title>
+		<author>
+			<persName coords=""><forename type="first">Graham</forename><surname>Gibbs</surname></persName>
+		</author>
+		<idno type="DOI">10.4135/9781849208574</idno>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>SAGE Publications, Ltd</publisher>
+			<pubPlace>London, England</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,63,00,413,22,241,52,7,90;11,79,00,424,21,225,49,7,91;11,79,00,435,20,105,73,7,91" xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Factorial validity of the Maslach Burnout Inventory (MBI-HSS) among Spanish professionals</title>
+		<author>
+			<persName coords=""><forename type="first">Pedro</forename><forename type="middle">R</forename><surname>Gil-Monte</surname></persName>
+		</author>
+		<idno type="DOI">10.1590/s0034-89102005000100001</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Revista de Saúde Pública</title>
+		<title level="j" type="abbrev">Rev. Saúde Pública</title>
+		<idno type="ISSNe">0034-8910</idno>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="8" />
+			<date type="published" when="2005-01">2005</date>
+			<publisher>FapUNIFESP (SciELO)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,63,00,446,21,241,47,7,90;11,79,00,457,21,225,50,7,90;11,79,00,468,20,225,50,7,91" xml:id="b28">
+	<analytic>
+		<title level="a" type="main">[NO TITLE AVAILABLE]</title>
+		<author>
+			<persName><forename type="first">Pedro</forename><forename type="middle">R</forename><surname>Gil-Monte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mary</forename><forename type="middle">Sandra</forename><surname>Carlotto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sheila</forename><forename type="middle">Gonçalves</forename><surname>Câmara</surname></persName>
+		</author>
+		<idno type="DOI">10.1590/s0034-89102010000100015</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Revista de Saúde Pública</title>
+		<title level="j" type="abbrev">Rev. Saúde Pública</title>
+		<idno type="ISSNe">0034-8910</idno>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="140" to="147" />
+			<date type="published" when="2010-02">2010</date>
+			<publisher>FapUNIFESP (SciELO)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,63,00,479,20,241,52,7,90;11,79,00,490,20,225,50,7,90;11,79,00,501,19,225,50,7,91;11,79,00,512,19,131,24,7,91" xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Psychometric Properties of the “Spanish Burnout Inventory” in Chilean Professionals Working to Physical Disabled People</title>
+		<author>
+			<persName><forename type="first">Pedro</forename><forename type="middle">R</forename><surname>Gil-Monte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Víctor</forename><forename type="middle">E Olivares</forename><surname>Faúndez</surname></persName>
+		</author>
+		<idno type="DOI">10.5209/rev_sjop.2011.v14.n1.40</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Spanish journal of psychology</title>
+		<title level="j" type="abbrev">Span. j. psychol.</title>
+		<idno type="ISSN">1138-7416</idno>
+		<idno type="ISSNe">1988-2904</idno>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="441" to="451" />
+			<date type="published" when="2011-05">2011</date>
+			<publisher>Cambridge University Press (CUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,63,00,523,20,241,50,7,90;11,79,00,534,19,116,99,7,91" xml:id="b30">
+	<analytic>
+		<title level="a" type="main">OBITUARY NOTICES</title>
+		<author>
+			<persName coords=""><forename type="first">S</forename><forename type="middle">G</forename><surname>Ginsburg</surname></persName>
+		</author>
+		<idno type="DOI">10.1136/bmj.4.5944.598</idno>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ</title>
+		<title level="j" type="abbrev">BMJ</title>
+		<idno type="ISSN">0959-8138</idno>
+		<idno type="ISSNe">1468-5833</idno>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">5944</biblScope>
+			<biblScope unit="page" from="598" to="600" />
+			<date type="published" when="1974-12-07">1974</date>
+			<publisher>BMJ</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,63,00,545,19,241,45,7,90;11,79,00,556,19,225,52,7,90;11,79,00,567,19,225,51,7,90;11,79,00,578,18,187,73,7,91" xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Prevalence of the burnout syndrome among Brazilian medical oncologists</title>
+		<author>
+			<persName><forename type="first">João</forename><surname>Glasberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Louise</forename><surname>Horiuti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marcela</forename><forename type="middle">Araújo Borges</forename><surname>Novais</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andressa</forename><forename type="middle">Zaccaro</forename><surname>Canavezzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Vanessa</forename><forename type="middle">Da Costa</forename><surname>Miranda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Felipe</forename><forename type="middle">Abrosio</forename><surname>Chicoli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marina</forename><forename type="middle">Sahade</forename><surname>Gonçalves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Carolina</forename><forename type="middle">Games</forename><surname>Bensi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Auro</forename><surname>Del Giglio</surname></persName>
+		</author>
+		<idno type="DOI">10.1590/s0104-42302007000100026</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Revista da Associação Médica Brasileira</title>
+		<title level="j" type="abbrev">Rev. Assoc. Med. Bras.</title>
+		<idno type="ISSN">0104-4230</idno>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="85" to="89" />
+			<date type="published" when="2007-02">2007</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,63,00,589,18,241,53,7,90;11,79,00,600,18,225,51,7,90;11,79,00,611,18,225,48,7,90;11,79,00,622,17,225,50,7,91" xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Job Involvement, Job Stress, Job Satisfaction, and Organizational Commitment and the Burnout of Correctional Staff</title>
+		<author>
+			<persName><forename type="first">Marie</forename><forename type="middle">L</forename><surname>Griffin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nancy</forename><forename type="middle">L</forename><surname>Hogan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eric</forename><forename type="middle">G</forename><surname>Lambert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kasey</forename><forename type="middle">A</forename><surname>Tucker-Gail</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">N</forename><surname>Baker</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0093854809351682</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Criminal Justice and Behavior</title>
+		<title level="j" type="abbrev">Criminal Justice and Behavior</title>
+		<idno type="ISSN">0093-8548</idno>
+		<idno type="ISSNe">1552-3594</idno>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="239" to="255" />
+			<date type="published" when="2010">2010</date>
+			<publisher>SAGE Publications</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,63,00,633,18,241,49,7,90;11,79,00,644,17,225,47,7,90;11,79,00,655,16,225,49,7,91;11,79,00,666,16,81,00,7,91" xml:id="b33">
+	<analytic>
+		<title level="a" type="main">The construct validity of an alternative measure of burnout: Investigating the English translation of the Oldenburg Burnout Inventory</title>
+		<author>
+			<persName><forename type="first">Jonathon</forename><forename type="middle">R B</forename><surname>Halbesleben</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Evangelia</forename><surname>Demerouti</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/02678370500340728</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Work &amp; Stress</title>
+		<title level="j" type="abbrev">Work &amp; Stress</title>
+		<idno type="ISSN">0267-8373</idno>
+		<idno type="ISSNe">1464-5335</idno>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="208" to="220" />
+			<date type="published" when="2005-07">2005</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,63,00,677,17,241,48,7,90;11,79,00,688,17,225,48,7,90;11,79,00,699,16,225,51,7,90;11,79,00,710,15,167,23,7,91" xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Perfectionism and burnout in junior elite soccer players: The mediating influence of unconditional self-acceptance</title>
+		<author>
+			<persName><forename type="first">Andrew</forename><forename type="middle">P</forename><surname>Hill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Howard</forename><forename type="middle">K</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Paul</forename><forename type="middle">R</forename><surname>Appleton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stephen</forename><forename type="middle">A</forename><surname>Kozub</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.psychsport.2007.09.004</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Psychology of Sport and Exercise</title>
+		<title level="j" type="abbrev">Psychology of Sport and Exercise</title>
+		<idno type="ISSN">1469-0292</idno>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="630" to="644" />
+			<date type="published" when="2008-09">2008</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,322,51,72,16,241,48,7,90;11,338,51,83,15,225,50,7,91;11,338,51,94,16,32,88,7,90" xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Organized Self-Realization</title>
+		<author>
+			<persName coords=""><forename type="first">Axel</forename><surname>Honneth</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1368431004046703</idno>
+	</analytic>
+	<monogr>
+		<title level="j">European Journal of Social Theory</title>
+		<title level="j" type="abbrev">European Journal of Social Theory</title>
+		<idno type="ISSN">1368-4310</idno>
+		<idno type="ISSNe">1461-7137</idno>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="463" to="478" />
+			<date type="published" when="2004-11">2004</date>
+			<publisher>SAGE Publications</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,322,51,105,16,241,52,7,90;11,338,51,116,15,225,50,7,90;11,338,51,127,15,225,49,7,90;11,338,51,138,14,172,24,7,91" xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Personality, organizational stress, and attitudes toward work as prospective predictors of professional burnout in hospital nurses</title>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Hudek-Knezević</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">B</forename><surname>Kalebić Maglica</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">N</forename><surname>Krapić</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Croatian Medical Journal</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="538" to="549" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,322,51,149,15,241,52,7,90;11,338,51,160,14,156,74,7,91" xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Sociology of diagnosis: a preliminary review</title>
+		<author>
+			<persName coords=""><forename type="first">Annemarie</forename><surname>Jutel</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1467-9566.2008.01152.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Sociology of Health &amp; Illness</title>
+		<idno type="ISSN">0141-9889</idno>
+		<idno type="ISSNe">1467-9566</idno>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="278" to="299" />
+			<date type="published" when="2009-03">2009</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,322,51,171,14,241,51,7,90;11,338,51,182,13,225,50,7,91;11,338,51,193,14,169,75,7,90" xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Towards a sociology of diagnosis: Reflections and opportunities</title>
+		<author>
+			<persName><forename type="first">Annemarie</forename><surname>Jutel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sarah</forename><surname>Nettleton</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.socscimed.2011.07.014</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Social Science &amp; Medicine</title>
+		<title level="j" type="abbrev">Social Science &amp; Medicine</title>
+		<idno type="ISSN">0277-9536</idno>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="793" to="800" />
+			<date type="published" when="2011-09">2011</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,322,51,204,14,241,51,7,90;11,338,51,215,14,225,54,7,90;11,338,51,226,13,225,52,7,90;11,338,51,237,12,225,52,7,91;11,338,51,248,12,171,49,7,91" xml:id="b39">
+	<analytic>
+		<title level="a" type="main">An epidemiological approach to study fatigue in the working population: The Maastricht Cohort Study</title>
+		<author>
+			<persName coords=""><forename type="first">I</forename><forename type="middle">J</forename><surname>Kant</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">U</forename><surname>Bültmann</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><forename type="middle">A P</forename><surname>Schröer</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><forename type="middle">J H M</forename><surname>Beurskens</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><forename type="middle">G P M</forename><surname>Van Amelsvoort</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">G</forename><forename type="middle">M H</forename><surname>Swaen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Occupational and Environmental Medicine</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="page" from="32" to="39" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note>Suppl. 1</note>
+</biblStruct>
+
+<biblStruct coords="11,322,51,259,13,241,48,7,90;11,338,51,270,12,225,50,7,91;11,338,51,281,12,32,25,7,90" xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Burnout</title>
+		<author>
+			<persName><forename type="first">Wolfgang</forename><forename type="middle">P</forename><surname>Kaschka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dieter</forename><surname>Korczak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Karl</forename><surname>Broich</surname></persName>
+		</author>
+		<idno type="DOI">10.3238/arztebl.2011.0781</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Deutsches Ärzteblatt international</title>
+		<idno type="ISSNe">1866-0452</idno>
+		<imprint>
+			<biblScope unit="volume">108</biblScope>
+			<biblScope unit="page" from="781" to="787" />
+			<date type="published" when="2011-11-18">2011</date>
+			<publisher>Deutscher Arzte-Verlag GmbH</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,322,51,292,12,241,52,7,90;11,338,51,303,11,225,51,7,91;11,338,51,314,11,23,25,7,91" xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Differential diagnostic of the burnout syndrome</title>
+		<author>
+			<persName coords=""><forename type="first">D</forename><surname>Korczak</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">B</forename><surname>Huber</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><surname>Kister</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">GMS Health Technology Assessment</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="1" to="9" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,322,51,325,12,241,46,7,90;11,338,51,336,11,225,50,7,90;11,338,51,347,10,187,24,7,91" xml:id="b42">
+	<analytic>
+		<title level="a" type="main">The Copenhagen Burnout Inventory: A new tool for the assessment of burnout</title>
+		<author>
+			<persName><forename type="first">Tage</forename><forename type="middle">S</forename><surname>Kristensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marianne</forename><surname>Borritz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ebbe</forename><surname>Villadsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Karl</forename><forename type="middle">B</forename><surname>Christensen</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/02678370500297720</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Work &amp; Stress</title>
+		<title level="j" type="abbrev">Work &amp; Stress</title>
+		<idno type="ISSN">0267-8373</idno>
+		<idno type="ISSNe">1464-5335</idno>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="192" to="207" />
+			<date type="published" when="2005-07">2005</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,322,51,358,11,241,46,7,90;11,338,51,369,11,225,49,7,90;11,338,51,380,11,225,50,7,90;11,338,51,391,09,225,49,7,91;11,338,51,402,09,132,74,7,91" xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Do burned-out and workengaged employees differ in the functioning of the hypothalamic-pituitary-adrenal axis?</title>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Langelaan</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><forename type="middle">B</forename><surname>Bakker</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">W</forename><forename type="middle">B</forename><surname>Schaufeli</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">W</forename><surname>Van Rhenen</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><forename type="middle">J P</forename><surname>Van Doornen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Scandinavian Journal of Work</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="339" to="348" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note>Environment &amp; Health</note>
+</biblStruct>
+
+<biblStruct coords="11,322,51,413,10,241,46,7,90;11,338,51,424,10,225,50,7,90;11,338,51,435,09,225,49,7,91;11,338,51,446,08,47,23,7,91" xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Is burnout related to allostatic load?</title>
+		<author>
+			<persName><forename type="first">Saar</forename><surname>Langelaan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wilmar</forename><forename type="middle">B</forename><surname>Schaufeli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lorenz</forename><forename type="middle">J P</forename><surname>Van Doornen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Arnold</forename><forename type="middle">B</forename><surname>Bakker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Willem</forename><surname>Van Rhenen</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/bf03002995</idno>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Behavioral Medicine</title>
+		<title level="j" type="abbrev">Int. J. Behav. Med.</title>
+		<idno type="ISSN">1070-5503</idno>
+		<idno type="ISSNe">1532-7558</idno>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="213" to="221" />
+			<date type="published" when="2007-12">2007</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,322,51,457,09,241,52,7,90;11,338,51,468,09,225,48,7,90;11,338,51,479,08,225,50,7,91;11,338,51,490,08,74,74,7,91" xml:id="b45">
+	<analytic>
+		<title level="a" type="main">A comparison of the course of burnout and prolonged fatigue: A 4-year prospective cohort study</title>
+		<author>
+			<persName><forename type="first">Stephanie</forename><forename type="middle">S</forename><surname>Leone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marcus</forename><forename type="middle">J H</forename><surname>Huibers</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">André</forename><surname>Knottnerus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ijmert</forename><surname>Kant</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jpsychores.2008.03.018</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Psychosomatic Research</title>
+		<title level="j" type="abbrev">Journal of Psychosomatic Research</title>
+		<idno type="ISSN">0022-3999</idno>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="31" to="38" />
+			<date type="published" when="2008-07">2008</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,322,51,501,08,241,52,7,90;11,338,51,512,08,225,48,7,90;11,338,51,523,08,225,48,7,90;11,338,51,534,07,189,47,7,91" xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Extension of the Job Demands-Resources model in the prediction of burnout and engagement among teachers over time</title>
+		<author>
+			<persName coords=""><forename type="first">Lorente</forename><surname>Prieto</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>Salanova Soria</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Martínez Martínez</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">I</forename><surname>Schaufeli</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">W</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psicothema</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="354" to="360" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,322,51,545,07,217,97,7,91" xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Burned-out</title>
+		<author>
+			<persName coords=""><forename type="first">C</forename><surname>Maslach</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="16" to="22" />
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,322,51,556,07,241,51,7,90;11,338,51,567,06,225,49,7,91" xml:id="b48">
+	<analytic>
+		<title level="a" type="main">The measurement of experienced burnout</title>
+		<author>
+			<persName><forename type="first">Christina</forename><surname>Maslach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Susan</forename><forename type="middle">E</forename><surname>Jackson</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/job.4030020205</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Organizational Behavior</title>
+		<title level="j" type="abbrev">J. Organiz. Behav.</title>
+		<idno type="ISSN">0894-3796</idno>
+		<idno type="ISSNe">1099-1379</idno>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="99" to="113" />
+			<date type="published" when="1981-04">1981</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,322,51,578,07,241,48,7,90;11,338,51,589,06,225,51,7,91;11,338,52,600,07,85,99,7,90" xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Job Burnout</title>
+		<author>
+			<persName><forename type="first">Christina</forename><surname>Maslach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wilmar</forename><forename type="middle">B</forename><surname>Schaufeli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><forename type="middle">P</forename><surname>Leiter</surname></persName>
+		</author>
+		<idno type="DOI">10.1146/annurev.psych.52.1.397</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Annual Review of Psychology</title>
+		<title level="j" type="abbrev">Annu. Rev. Psychol.</title>
+		<idno type="ISSN">0066-4308</idno>
+		<idno type="ISSNe">1545-2085</idno>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="397" to="422" />
+			<date type="published" when="2001-02">2001</date>
+			<publisher>Annual Reviews</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,322,52,611,06,241,47,7,90;11,338,52,622,05,225,53,7,91;11,338,52,633,05,174,73,7,91" xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Qualitative content analysis</title>
+		<author>
+			<persName coords=""><forename type="first">P</forename><surname>Mayring</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">A companion to qualitative research</title>
+				<editor>
+			<persName><forename type="first">U</forename><surname>Flick</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">E</forename><surname>Kardorff</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">&amp;</forename><forename type="middle">I</forename><surname>Steinke</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London, England</addrLine></address></meeting>
+		<imprint>
+			<publisher>Sage</publisher>
+			<date type="published" when="2004">2004</date>
+			<biblScope unit="page" from="266" to="269" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,322,52,644,06,241,52,7,90;11,338,52,655,06,225,52,7,90;11,338,52,666,04,225,49,7,91;11,338,52,677,04,209,48,7,91" xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Occupational stress and burnout between male and female police officers</title>
+		<author>
+			<persName><forename type="first">William</forename><forename type="middle">P</forename><surname>Mccarty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jihong</forename><surname>“solomon” Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Brett</forename><forename type="middle">E</forename><surname>Garland</surname></persName>
+		</author>
+		<idno type="DOI">10.1108/13639510710833938</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Policing: An International Journal of Police Strategies &amp; Management</title>
+		<title level="j" type="abbrev">Policing</title>
+		<idno type="ISSN">1363-951X</idno>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="672" to="691" />
+			<date type="published" when="2007-11-13">2007</date>
+			<publisher>Emerald</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,322,52,688,05,241,48,7,90;11,338,52,699,05,225,49,7,90;11,338,52,710,04,111,48,7,91" xml:id="b52">
+	<monogr>
+		<author>
+			<persName coords=""><forename type="first">L</forename><forename type="middle">W</forename><surname>Mccray</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename><forename type="middle">F</forename><surname>Cronholm</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">H</forename><forename type="middle">R</forename><surname>Bogner</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">J</forename><surname>Gallo</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><forename type="middle">A</forename><surname>Neill</surname></persName>
+		</author>
+		<title level="m">Resident physician burnout: Is there hope? Family Medicine</title>
+				<imprint>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="626" to="632" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="12,48,00,72,28,241,50,7,90;12,64,00,83,28,225,48,7,90;12,64,00,94,27,210,22,7,91" xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Immune and Endocrine Function in Burnout Syndrome</title>
+		<author>
+			<persName><forename type="first">Paula</forename><forename type="middle">M C</forename><surname>Mommersteeg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cobi</forename><forename type="middle">J</forename><surname>Heijnen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Annemieke</forename><surname>Kavelaars</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lorenz</forename><forename type="middle">J P</forename><surname>Van Doornen</surname></persName>
+		</author>
+		<idno type="DOI">10.1097/01.psy.0000239247.47581.0c</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Psychosomatic Medicine</title>
+		<title level="j" type="abbrev">Psychosomatic Medicine</title>
+		<idno type="ISSN">0033-3174</idno>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="879" to="886" />
+			<date type="published" when="2006-11">2006</date>
+			<publisher>Ovid Technologies (Wolters Kluwer Health)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="12,48,00,105,27,241,52,7,90;12,64,00,116,27,225,46,7,90;12,64,00,127,27,225,50,7,90;12,64,00,138,27,225,49,7,90;12,64,00,149,26,149,23,7,91" xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Clinical burnout is not reflected in the cortisol awakening response, the day-curve or the response to a low-dose dexamethasone suppression test</title>
+		<author>
+			<persName coords=""><forename type="first">P</forename><forename type="middle">M C</forename><surname>Mommersteeg</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><forename type="middle">J</forename><surname>Heijnen</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">J P M</forename><surname>Verbraak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Vandoornen</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.psyneuen.2005.07.003</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Psychoneuroendocrinology</title>
+		<title level="j" type="abbrev">Psychoneuroendocrinology</title>
+		<idno type="ISSN">0306-4530</idno>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="216" to="225" />
+			<date type="published" when="2006-02">2006</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="12,48,00,160,26,241,51,7,90;12,64,00,171,25,225,52,7,91;12,64,00,182,25,54,75,7,91" xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Prediction of Burnout in Volunteers</title>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">Pilar</forename><surname>Moreno-Jiménez</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">Carmen Hidalgo</forename><surname>Villodres</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1559-1816.2010.00640.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Social Psychology</title>
+		<idno type="ISSN">0021-9029</idno>
+		<idno type="ISSNe">1559-1816</idno>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1798" to="1818" />
+			<date type="published" when="2010-07-09">2010</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="12,48,00,193,26,241,53,7,90;12,64,00,204,25,225,51,7,90;12,64,00,215,25,225,48,7,90;12,64,00,226,24,225,49,7,91;12,64,00,237,24,156,74,7,91" xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Burned out cognition – cognitive functioning of burnout patients before and after a period with psychological treatment</title>
+		<author>
+			<persName><forename type="first">Bart</forename><forename type="middle">G</forename><surname>Oosterholt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dimitri</forename><surname>Van Der Linden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Joseph</forename><forename type="middle">Hr</forename><surname>Maes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marc</forename><forename type="middle">Jpm</forename><surname>Verbraak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michiel</forename><forename type="middle">Aj</forename><surname>Kompier</surname></persName>
+		</author>
+		<idno type="DOI">10.5271/sjweh.3256</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Scandinavian Journal of Work, Environment &amp; Health</title>
+		<title level="j" type="abbrev">Scand J Work Environ Health</title>
+		<idno type="ISSN">0355-3140</idno>
+		<idno type="ISSNe">1795-990X</idno>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="358" to="369" />
+			<date type="published" when="2012">2012</date>
+			<publisher>Scandinavian Journal of Work, Environment and Health</publisher>
+		</imprint>
+	</monogr>
+	<note>Environment &amp; Health</note>
+</biblStruct>
+
+<biblStruct coords="12,48,00,248,25,241,51,7,90;12,64,00,259,24,225,50,7,90;12,64,00,270,23,225,49,7,91;12,64,00,281,23,86,25,7,91" xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Burnout syndrome among physicians: The role of personality dimensions and coping strategies</title>
+		<author>
+			<persName coords=""><forename type="first">B</forename><surname>Pejušković</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">D</forename><surname>Lečić-Toševski</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Priebe</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">O</forename><surname>Tošković</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychiatria Danubina</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="389" to="395" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="12,48,00,292,23,241,48,7,91;12,64,00,303,23,159,74,7,91" xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Career burnout: causes and cures</title>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Pines</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">E</forename><surname>Aronson</surname></persName>
+		</author>
+		<idno type="DOI">10.5860/choice.26-1580</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Choice Reviews Online</title>
+		<title level="j" type="abbrev">Choice Reviews Online</title>
+		<idno type="ISSN">0009-4978</idno>
+		<idno type="ISSNe">1523-8253</idno>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">03</biblScope>
+			<biblScope unit="page">26-1580-26-1580</biblScope>
+			<date type="published" when="1988-11-01">1988</date>
+			<publisher>American Library Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="12,48,00,314,23,241,52,7,90;12,64,00,325,22,225,49,7,91;12,64,00,336,22,45,75,7,91" xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Characteristics of Staff Burnout in Mental Health Settings</title>
+		<author>
+			<persName><forename type="first">Ayala</forename><surname>Pines</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christina</forename><surname>Maslach</surname></persName>
+		</author>
+		<idno type="DOI">10.1176/ps.29.4.233</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Psychiatric Services</title>
+		<title level="j" type="abbrev">PS</title>
+		<idno type="ISSN">1075-2730</idno>
+		<idno type="ISSNe">1557-9700</idno>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="233" to="237" />
+			<date type="published" when="1978-04">1978</date>
+			<publisher>American Psychiatric Association Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="12,48,00,347,23,241,50,7,90;12,64,00,358,23,225,49,7,90;12,64,00,369,22,225,47,7,90;12,64,00,380,21,193,24,7,91" xml:id="b60">
+	<analytic>
+		<title level="a" type="main">The Incidence and Predictors of Job Burnout in First-Year Internal Medicine Residents: A Five-Institution Study</title>
+		<author>
+			<persName><forename type="first">Jonathan</forename><surname>Ripp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mark</forename><surname>Babyatsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Fallar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hasan</forename><surname>Bazari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lisa</forename><surname>Bellini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cyrus</forename><surname>Kapadia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Joel</forename><forename type="middle">T</forename><surname>Katz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mark</forename><surname>Pecker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Deborah</forename><surname>Korenstein</surname></persName>
+		</author>
+		<idno type="DOI">10.1097/acm.0b013e31822c1236</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Academic Medicine</title>
+		<title level="j" type="abbrev">Academic Medicine</title>
+		<idno type="ISSN">1040-2446</idno>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="1304" to="1310" />
+			<date type="published" when="2011-10">2011</date>
+			<publisher>Ovid Technologies (Wolters Kluwer Health)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="12,48,00,391,22,241,52,7,90;12,64,00,402,21,183,25,7,91" xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Burnout: Psychobabble or valuable concept?</title>
+		<author>
+			<persName coords=""><forename type="first">G</forename><forename type="middle">A</forename><surname>Roberts</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">British Journal of Hospital Medicine</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="194" to="197" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="12,48,00,413,21,241,49,7,91;12,64,00,424,21,225,50,7,90;12,64,00,435,21,20,57,7,90" xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Social acceleration: A new theory of modernity</title>
+		<author>
+			<persName coords=""><forename type="first">H</forename><surname>Rosa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Trejo-Mathys, Trans.)</title>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<publisher>Columbia University Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="12,48,00,446,21,241,52,7,90;12,64,00,457,21,225,48,7,90;12,64,00,468,20,225,48,7,91;12,64,00,479,20,225,52,7,91;12,64,00,490,19,225,50,7,91;12,64,00,501,20,61,50,7,90" xml:id="b63">
+	<analytic>
+		<title level="a" type="main">Stress and Burnout in the Teaching Profession: European Studies, Issues, and Research Perspectives</title>
+		<author>
+			<persName coords=""><forename type="first">Bernd</forename><surname>Rudow</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/cbo9780511527784.004</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Understanding and Preventing Teacher Burnout</title>
+				<editor>
+			<persName><forename type="first">R</forename><surname>Vandenberghe</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Huberman</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge, UK</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="1999-05-28">1999</date>
+			<biblScope unit="page" from="38" to="58" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="12,48,00,512,20,241,52,7,90;12,64,00,523,20,225,52,7,90;12,64,00,534,19,225,50,7,91;12,64,00,545,18,206,74,7,91" xml:id="b64">
+	<analytic>
+		<title level="a" type="main">Bergen Burnout Inventory: reliability and validity among Finnish and Estonian managers</title>
+		<author>
+			<persName><forename type="first">Katariina</forename><surname>Salmela-Aro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Johanna</forename><surname>Rantanen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Katriina</forename><surname>Hyvönen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kati</forename><surname>Tilleman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Taru</forename><surname>Feldt</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00420-010-0594-3</idno>
+	</analytic>
+	<monogr>
+		<title level="j">International Archives of Occupational and Environmental Health</title>
+		<title level="j" type="abbrev">Int Arch Occup Environ Health</title>
+		<idno type="ISSN">0340-0131</idno>
+		<idno type="ISSNe">1432-1246</idno>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="635" to="645" />
+			<date type="published" when="2011">2011</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="12,48,00,556,19,241,50,7,90;12,64,00,567,19,225,48,7,90;12,64,00,578,18,225,50,7,91" xml:id="b65">
+	<analytic>
+		<title level="a" type="main">Impaired cognitive performance in patients with chronic burnout syndrome</title>
+		<author>
+			<persName><forename type="first">Agneta</forename><surname>Sandström</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ingalill</forename><forename type="middle">Nyström</forename><surname>Rhodin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mattias</forename><surname>Lundberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tommy</forename><surname>Olsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lars</forename><surname>Nyberg</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.biopsycho.2004.08.003</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Biological Psychology</title>
+		<title level="j" type="abbrev">Biological Psychology</title>
+		<idno type="ISSN">0301-0511</idno>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="271" to="279" />
+			<date type="published" when="2005-07">2005</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="12,48,00,589,18,241,44,7,90;12,64,00,600,18,225,49,7,90;12,64,00,611,17,217,47,7,91" xml:id="b66">
+	<analytic>
+		<title level="a" type="main">Burnout in Medical Students: Examining the Prevalence and Associated Factors</title>
+		<author>
+			<persName><forename type="first">Sally</forename><forename type="middle">A</forename><surname>Santen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Danielle</forename><forename type="middle">B</forename><surname>Holt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jean</forename><forename type="middle">D</forename><surname>Kemp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robin</forename><forename type="middle">R</forename><surname>Hemphill</surname></persName>
+		</author>
+		<idno type="DOI">10.1097/smj.0b013e3181e6d6d4</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Southern Medical Journal</title>
+		<title level="j" type="abbrev">Southern Medical Journal</title>
+		<idno type="ISSN">0038-4348</idno>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="758" to="763" />
+			<date type="published" when="2010-08">2010</date>
+			<publisher>Southern Medical Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="12,307,51,72,18,241,49,7,90;12,323,51,83,18,225,47,7,90;12,323,51,94,18,225,49,7,90;12,323,51,105,16,130,73,7,91" xml:id="b67">
+	<analytic>
+		<title level="a" type="main">A New Model of Social Class? Findings from the BBC’s Great British Class Survey Experiment</title>
+		<author>
+			<persName><forename type="first">Mike</forename><surname>Savage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Fiona</forename><surname>Devine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Niall</forename><surname>Cunningham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mark</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yaojun</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Johs</forename><surname>Hjellbrekke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Brigitte</forename><surname>Le Roux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sam</forename><surname>Friedman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andrew</forename><surname>Miles</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0038038513481128</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Sociology</title>
+		<title level="j" type="abbrev">Sociology</title>
+		<idno type="ISSN">0038-0385</idno>
+		<idno type="ISSNe">1469-8684</idno>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="219" to="250" />
+			<date type="published" when="2013-04">2013</date>
+			<publisher>SAGE Publications</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="12,307,51,116,16,241,49,7,91;12,323,50,127,16,225,50,7,91;12,323,50,138,17,64,24,7,90" xml:id="b68">
+	<monogr>
+		<title level="m" type="main">The Burnout Companion to Study and Practice: A Critical Analysis</title>
+		<author>
+			<persName><forename type="first">Wilmar</forename><surname>Schaufeli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dirk</forename><surname>Enzmann</surname></persName>
+		</author>
+		<idno type="DOI">10.1201/9781003062745</idno>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<publisher>CRC Press</publisher>
+			<pubPlace>London, England</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="12,307,50,149,17,241,52,7,90;12,323,50,160,15,225,52,7,91;12,323,50,171,15,97,75,7,91" xml:id="b69">
+	<analytic>
+		<title level="a" type="main">Burnout: 35 years of research and practice</title>
+		<author>
+			<persName><forename type="first">Wilmar</forename><forename type="middle">B</forename><surname>Schaufeli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><forename type="middle">P</forename><surname>Leiter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christina</forename><surname>Maslach</surname></persName>
+		</author>
+		<idno type="DOI">10.1108/13620430910966406</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Career Development International</title>
+		<idno type="ISSN">1362-0436</idno>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="204" to="220" />
+			<date type="published" when="2009-06-19">2009</date>
+			<publisher>Emerald</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="12,307,50,182,16,241,50,7,90;12,323,50,193,15,225,50,7,91;12,323,50,204,15,83,24,7,91" xml:id="b70">
+	<analytic>
+		<title level="a" type="main">The construct validity of two burnout measures</title>
+		<author>
+			<persName><forename type="first">Wilmar</forename><forename type="middle">B</forename><surname>Schaufeli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dirk</forename><surname>Van Dierendonck</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/job.4030140703</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Organizational Behavior</title>
+		<title level="j" type="abbrev">J. Organiz. Behav.</title>
+		<idno type="ISSN">0894-3796</idno>
+		<idno type="ISSNe">1099-1379</idno>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="631" to="647" />
+			<date type="published" when="1993-12">1993</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="12,307,50,215,15,241,52,7,90;12,323,50,226,15,225,50,7,90;12,323,50,237,14,225,52,7,91;12,323,50,248,14,225,50,7,91;12,323,50,259,15,31,74,7,90" xml:id="b71">
+	<analytic>
+		<title level="a" type="main">The Medicalisation of Unhappiness? The Management of Mental Distress in Primary Care</title>
+		<author>
+			<persName><forename type="first">Ian</forename><surname>Shaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Louise</forename><surname>Woodward</surname></persName>
+		</author>
+		<idno type="DOI">10.4324/9781351161282-10</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Constructions of Health and Illness</title>
+				<editor>
+			<persName><forename type="first">I</forename><surname>Shaw</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">K</forename><surname>Kauppinen</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Aldershot</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2004">2004</date>
+			<biblScope unit="page" from="124" to="136" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="12,307,50,270,14,241,46,7,90;12,323,50,281,14,225,50,7,90;12,323,50,292,13,201,74,7,91" xml:id="b72">
+	<analytic>
+		<title level="a" type="main">On the Discriminant Validity of Burnout, Depression and Anxiety: A Re-examination of the Burnout Measure</title>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Shirom</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Y</forename><surname>Ezrachi</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/1061580021000057059</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Anxiety, Stress &amp; Coping</title>
+		<title level="j" type="abbrev">Anxiety, Stress &amp; Coping</title>
+		<idno type="ISSN">1061-5806</idno>
+		<idno type="ISSNe">1477-2205</idno>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="83" to="97" />
+			<date type="published" when="2003-03">2003</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+	<note>Anxiety</note>
+</biblStruct>
+
+<biblStruct coords="12,307,50,303,14,241,48,7,90;12,323,50,314,13,225,50,7,91;12,323,50,325,13,32,88,7,90" xml:id="b73">
+	<analytic>
+		<title level="a" type="main">Gender, Multiple Roles, Role Meaning, and Mental Health</title>
+		<author>
+			<persName coords=""><forename type="first">Robin</forename><forename type="middle">W</forename><surname>Simon</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/2137224</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Health and Social Behavior</title>
+		<title level="j" type="abbrev">Journal of Health and Social Behavior</title>
+		<idno type="ISSN">0022-1465</idno>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">182</biblScope>
+			<date type="published" when="1995-06">1995</date>
+			<publisher>SAGE Publications</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="12,307,50,336,13,241,48,7,90;12,323,50,347,12,225,50,7,91;12,323,49,358,13,23,25,7,90" xml:id="b74">
+	<analytic>
+		<title level="a" type="main">Burnout as a social pathology of self-realization</title>
+		<author>
+			<persName coords=""><forename type="first">Elin</forename><surname>Thunman</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/1600910x.2012.648744</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Distinktion: Journal of Social Theory</title>
+		<title level="j" type="abbrev">Distinktion: Journal of Social Theory</title>
+		<idno type="ISSN">1600-910X</idno>
+		<idno type="ISSNe">2159-9149</idno>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="43" to="60" />
+			<date type="published" when="2012-02-20">2012</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="12,307,49,369,13,241,50,7,90;12,323,49,380,12,225,46,7,90;12,323,49,391,12,225,50,7,90;12,323,49,402,11,174,24,7,91" xml:id="b75">
+	<analytic>
+		<title level="a" type="main">Burnout in cancer professionals: a systematic review and meta-analysis</title>
+		<author>
+			<persName coords=""><forename type="first">D</forename><forename type="middle">C</forename><surname>Trufelli</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><forename type="middle">G</forename><surname>Bensi</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">B</forename><surname>Garcia</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">L</forename><surname>Narahara</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">N</forename><surname>Abrão</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><forename type="middle">W</forename><surname>Diniz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Da Costa Miranda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">P</forename><surname>Soares</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Del Giglio</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1365-2354.2008.00927.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">European Journal of Cancer Care</title>
+		<idno type="ISSN">0961-5423</idno>
+		<idno type="ISSNe">1365-2354</idno>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="524" to="531" />
+			<date type="published" when="2008-10">2008</date>
+			<publisher>Hindawi Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="12,307,49,413,12,241,49,7,90;12,323,49,424,11,225,50,7,91;12,323,49,435,10,217,74,7,91" xml:id="b76">
+	<analytic>
+		<title level="a" type="main">EEG findings in burnout patients</title>
+		<author>
+			<persName coords=""><forename type="first">G</forename><surname>Van Luitelaar</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Verbraak</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Van Den Bunt</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">G</forename><surname>Keijsers</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Arns</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Neuropsychiatry and Clinical Neuroscience</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="208" to="217" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="12,307,49,446,10,241,49,7,91;12,323,49,457,10,225,51,7,91;12,323,49,468,10,188,73,7,91" xml:id="b77">
+	<analytic>
+		<title level="a" type="main">Book Reviews : The ICD-10 Classification of Mental and Behavioural Disorders: Clinical Descriptions and Diagnostic Guidelines by World Health Organization. Published by WHO, 1992, 362pp, paperback. ISBN: 92-4-154422-8</title>
+		<author>
+			<persName><forename type="first">William</forename><surname>Whitfield</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/146642409311300216</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Royal Society of Health</title>
+		<title level="j" type="abbrev">Journal of the Royal Society of Health</title>
+		<idno type="ISSN">0264-0325</idno>
+		<imprint>
+			<biblScope unit="volume">113</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="103" to="103" />
+			<date type="published" when="1992">1992</date>
+			<publisher>SAGE Publications</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,1000 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">A genre-based investigation of discussion sections of research articles in Dentistry and disciplinary variation</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability status="unknown"><p>Copyright Elsevier BV</p>
+				</availability>
+				<date type="published" when="2012-06">2012-06</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName coords="1,45,11,240,65,102,21,11,75"><forename type="first">Helen</forename><surname>Basturkmen</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">University of Auckland</orgName>
+								<address>
+									<settlement>Auckland</settlement>
+									<country key="NZ">New Zealand</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">A genre-based investigation of discussion sections of research articles in Dentistry and disciplinary variation</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Journal of English for Academic Purposes</title>
+						<title level="j" type="abbrev">Journal of English for Academic Purposes</title>
+						<idno type="ISSN">1475-1585</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">11</biblScope>
+							<biblScope unit="issue">2</biblScope>
+							<biblScope unit="page" from="134" to="144"/>
+							<date type="published" when="2012-06" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">90CF54B67A98206A29C577B1AF138C29</idno>
+					<idno type="DOI">10.1016/j.jeap.2011.10.004</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.2" ident="GROBID" when="2023-03-06T14:42+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Research articles Discussion of results sections Genre analysis Disciplinary argumentation Commenting on results</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Outwardly the rhetorical organisation of sections of research reports in different disciplines can appear similar. Close examination, however, may reveal subtle differences. Numerous studies have drawn on the genre-based approach developed by <ref type="bibr" coords="1,504,56,338,51,47,59,7,98" target="#b22">Swales (1990</ref><ref type="bibr" coords="1,219,07,349,02,22,07,7,98" target="#b22">Swales ( , 2004) )</ref> to investigate the schematic structure of sections of articles in a range of disciplines. Dentistry does not appear to have attracted this kind of research interest. The present study examined discussion sections of articles in Dentistry with reference to a schematic framework of discussion sections in Applied Linguistics. Steps in 'commenting on results' moves were closely examined to understand how arguments about the meaning and signicance of results in the Dentistry discussions were constructed. Findings showed the discussion sections could largely be accounted for in terms of moves and steps in the framework (thus indicating a broadly similar rhetorical organisation) and they revealed two patterns of argumentation in commenting moves, one not reported in previous genre-based research. Findings from the study are discussed in relation to disciplinary variation. The study provides a genre-based description of discussion sections of articles in Dentistry and suggests that analysis of steps, sub steps and sequences within moves can be a useful focus for genre-based investigation of disciplinary norms.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="9" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="10" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="11" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>Academic genres provide researchers with important resources for investigating the writing conventions, social practices and values of a discipline and research community <ref type="bibr" coords="1,253,80,554,77,93,61,8,87">(Bondi &amp; Hyland, 2006)</ref>. Research articles are a particularly valuable genre for these investigations since they have been through a strenuous review process making them 'valorized and ratied by the very fact of being published' <ref type="bibr" coords="1,165,78,577,70,117,62,8,87">(Johns &amp; Swales, 2002, p. 13)</ref>.</p><p>Many researchers have drawn on the genre-based approach developed by <ref type="bibr" coords="1,387,70,589,13,54,21,8,87" target="#b22">Swales (1990</ref><ref type="bibr" coords="1,450,82,589,13,24,46,8,87" target="#b22">Swales ( , 2004) )</ref> to investigate the underlying schematic structure (organisation of moves and steps) of articles. Schematic structure is understood to be indicative of a text's purpose and the ultimately of the social expectations held for the text <ref type="bibr" coords="1,437,53,612,06,95,43,8,87" target="#b23">(Tardy &amp; Swales, 2008)</ref>. The approach has been used in investigations of articles or sections of articles in a range of disciplines, including Language Teaching and Applied Linguistics <ref type="bibr" coords="1,185,79,634,99,76,92,8,87">(Basturkmen, 2009</ref><ref type="bibr" coords="1,262,71,634,99,51,55,8,87" target="#b16">, Lim, 2010;</ref><ref type="bibr" coords="1,317,44,634,99,52,46,8,87" target="#b18">Oztürk, 2007</ref><ref type="bibr" coords="1,369,90,634,99,96,21,8,87" target="#b27">: Yang &amp; Allison, 2003)</ref>, Art History <ref type="bibr" coords="1,523,28,634,99,32,78,8,87;1,45,13,646,48,22,04,8,87" target="#b24">(Tucker, 2003)</ref>, Education <ref type="bibr" coords="1,118,87,646,48,44,87,8,87" target="#b16">(Lim, 2010)</ref>, Geology <ref type="bibr" coords="1,207,72,646,48,63,30,8,87" target="#b1">(Dressen, 2003)</ref>, Management <ref type="bibr" coords="1,335,97,646,48,45,93,8,87" target="#b15">(Lim, 2006)</ref>, Medicine <ref type="bibr" coords="1,430,58,646,48,62,96,8,87" target="#b14">(Li &amp; Ge, 2009;</ref><ref type="bibr" coords="1,496,55,646,48,55,28,8,87" target="#b17">Nwogu, 1997)</ref>, Biomedicine <ref type="bibr" coords="1,99,11,657,98,59,53,8,87" target="#b2">(Dubois, 1997)</ref> and Social Sciences <ref type="bibr" coords="1,243,80,657,98,51,08,8,87">(Brett, 1994;</ref><ref type="bibr" coords="1,297,62,657,98,58,76,8,87" target="#b3">Holmes, 1997;</ref><ref type="bibr" coords="1,359,12,657,98,113,41,8,87" target="#b13">Lewin, Fine, &amp; Young, 2001)</ref>.</p><p>Articles in Dentistry do not appear to have attracted the kind of genre-based research described above. Indeed very little appears to be known in Applied Linguistics about research writing in Dentistry. Published information about research writing written by dentists also appears to be rare. Recently, a guide for writers of dissertations and articles in this discipline (Von E-mail address: h.basturkmen@auckland.ac.nz.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Contents lists available at SciVerse ScienceDirect</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Journal of English for Academic Purposes</head><p>Fraunhofer, 2010) has been published. The work reviews research processes and types of statistical analysis and describes (from a non-genre based perspective) the functions and content of sections of a research report.</p><p>Research articles are carefully formulated and expressed to appeal to their respective research communities. As <ref type="bibr" coords="2,521,64,95,51,29,78,8,73;2,40,39,107,01,37,84,8,73">Hyland (2008, p.</ref> 3) notes, disciplinary writers draw on the 'persuasive practices of their discipline, encoding ideas, employing warrants, and framing arguments in ways that their potential audience will nd most convincing' and in making claims about their research, they bear in mind their readers' 'likely objections, background knowledge and rhetorical expectations.' Researchers have investigated disciplinary variation in the use of linguistic devices to express ideas. Studies include investigation of the use of modality markers in linguistics and medical research articles <ref type="bibr" coords="2,403,58,152,86,47,69,8,73" target="#b25">(Vol, 2006)</ref> and promotional meta discourse in language and literacy studies <ref type="bibr" coords="2,224,05,164,29,97,90,8,73">(Afros &amp; Schryer, 2009)</ref>. Studies such as these are primarily concerned with understanding how disciplinary writers carefully formulate the expression of ideas to appeal to their research communities, not with how they carefully construct discussion and argumentation to do so.</p><p>Generally the discussion section is understood to play an important role in articles. In this section, writers stake claims about how their results integrate with and contribute to disciplinary knowledge. In the discussion section the focus of the article shifts from 'inside-out', that is, from the results of the study to their wider signicance <ref type="bibr" coords="2,441,14,221,65,87,80,8,73">(Swales, 1990, p. 173)</ref>. The discussion section within the eld of Dentistry has been described as the 'most important' section of the research report, a section in which the writer interprets and discusses the signicance of ndings, compares ndings to other research and considers new theories or 'explanations of existing data from other studies' and compares the advantages and disadvantages of the approach used to that of others working in the same eld <ref type="bibr" coords="2,303,00,267,50,131,77,8,73">(Von Fraunhofer, 2010, p. 62-67)</ref>. The purposes of discussion sections in Applied Linguistics has been described similarly as the section in which the writer discusses the signicance of results, compares results to previous research and also considers theoretical contributions and 'explanation of why the results occurred as they did' <ref type="bibr" coords="2,130,18,301,86,97,66,8,73">(Bitchener, 2010, p. 179)</ref>.</p><p>A genre-based approach has been used to investigate discussion sections in individual disciplines or disciplinary areas, including Biomedicine <ref type="bibr" coords="2,137,38,324,79,58,01,8,73" target="#b2">(Dubois, 1997)</ref>, Chemical Engineering <ref type="bibr" coords="2,297,68,324,79,51,83,8,73" target="#b20">(Peng, 1987)</ref> and Social Sciences <ref type="bibr" coords="2,437,35,324,79,79,70,8,73" target="#b13">(Lewin et al., 2001)</ref>. For an overview of studies, see <ref type="bibr" coords="2,139,69,336,29,112,32,8,73">Lewin et al. (2001, p. 90-94)</ref>. Although the studies show different numbers and kinds of moves in the different disciplines, writers such as <ref type="bibr" coords="2,192,20,347,72,57,95,8,73" target="#b2">Dubois (1997)</ref> and <ref type="bibr" coords="2,270,73,347,72,77,47,8,73" target="#b13">Lewin et al. (2001)</ref> suggest that this may be due not to the different disciplines subject to investigation but to different methods and denitions used by the researchers. Research studies in general have described the discussion section as characterised by the presence of repeated cycles of moves <ref type="bibr" coords="2,470,38,370,71,81,06,8,73">(Basturkmen, 2009;</ref><ref type="bibr" coords="2,40,48,382,14,58,07,8,73" target="#b3">Holmes, 1997;</ref><ref type="bibr" coords="2,100,55,382,14,61,35,8,73" target="#b19">Peacock, 2002;</ref><ref type="bibr" coords="2,163,92,382,14,55,05,8,73" target="#b22">Swales, 1990;</ref><ref type="bibr" coords="2,221,02,382,14,46,97,8,73" target="#b20">Peng, 1987;</ref><ref type="bibr" coords="2,270,03,382,14,87,19,8,73" target="#b27">Yang &amp; Allison, 2003)</ref> and move cycles as being organised around the ndings to research questions <ref type="bibr" coords="2,166,72,393,61,81,69,8,77">(Basturkmen, 2009;</ref><ref type="bibr" coords="2,250,87,393,61,55,72,8,73" target="#b2">Dubois, 1997;</ref><ref type="bibr" coords="2,309,09,393,61,129,54,8,73" target="#b4">Hopkins &amp; Dudley-Evans, 1988;</ref><ref type="bibr" coords="2,441,05,393,61,98,40,8,73" target="#b12">Kanoksilapatham, 2003)</ref>.</p><p>Genre-based studies of research articles have been conducted in the allied discipline of Medicine <ref type="bibr" coords="2,456,09,405,04,61,41,8,73" target="#b14">(Li &amp; Ge, 2009;</ref><ref type="bibr" coords="2,519,97,405,04,31,41,8,73;2,40,38,416,54,21,16,8,73">Nwogo, 1997)</ref>. These studies (op. cit.) did not aim to provide a detailed description of the discussion section. They indicate the use of three broad moves in medical discussions (highlighting the overall research outcome, explaining specic research outcomes and stating research conclusions). An investigation of nal sections (results, discussion of results and conclusions) of articles in Applied Linguistics <ref type="bibr" coords="2,123,81,450,90,95,95,8,73" target="#b27">(Yang &amp; Allison, 2003)</ref> showed that although the same set of seven moves occurred across all nal sections, one move, commenting on results, occurred signicantly more often in the discussion of results section than the other nal sections. The key role of commenting on results moves in the discussion section was highlighted in a study in Applied Linguistics <ref type="bibr" coords="2,85,91,485,32,79,14,8,73">(Basturkmen, 2009)</ref>. <ref type="foot" coords="2,168,93,483,12,3,90,6,54" target="#foot_0">1</ref> This study (op. cit.) showed that explanations and alternative explanations were prevalent in these moves and in complex argumentation in discussing results. However, it is not known whether explanations would be as pervasive in commenting on results in another discipline.</p><p>Genre-based research has been 'slow to inform research into disciplinary variation' <ref type="bibr" coords="2,404,10,519,67,101,37,8,73">(Hyland, 2006, p. 26-27)</ref>. A limited number of studies have investigated variation in moves in research articles across disciplines. The studies include <ref type="bibr" coords="2,515,62,531,17,35,73,8,73;2,40,40,542,60,27,76,8,73" target="#b7">Hyland's (2004)</ref> study of abstracts and <ref type="bibr" coords="2,167,82,542,60,51,24,8,73" target="#b16">Lim's (2010)</ref> study of results sections in Applied Linguistics and Education. Lim's study (op cit) found that although writers in both disciplines used similar steps (explaining ndings, evaluating the ndings, comparing ndings with the literature and making recommendations for future research) to realise 'commentary moves', the Applied Linguists used more steps of explaining ndings. A genre-based approach has been used in investigations of moves in discussion sections across disciplines <ref type="bibr" coords="2,196,83,588,46,62,05,8,73" target="#b3">(Holmes, 1997;</ref><ref type="bibr" coords="2,261,57,588,46,59,94,8,73" target="#b19">Peacock, 2002)</ref>. <ref type="bibr" coords="2,53,50,599,95,60,13,8,73" target="#b3">Holmes (1997)</ref> used a model of moves and organisation based on natural sciences to investigate variation in discussions in Political Science, Sociology and History. The study examined moves in discussions (or Conclusions) in ten articles from each discipline. The study found that no move from the model was completely obligatory (although two moves Move 6 Generalisation and Move 2 Statement of Result) were used in most articles, and that discussions commonly opened with Moves 2 and closed with Moves 7 Recommendation. Some disciplinary variation was seen in regard to the frequencies of particular moves, for example, Move 1 Background Information was used in four history, seven political science and four sociology texts. The History texts were found to be distinctive in various ways: Move 8 Outlining Parallel or Subsequent Developments was evident only in the History texts and the History texts were shorter and involved a smaller repertoire of moves. Move cycles headed with Move 1 or Move 2 (with a mean of 2.7 cycles per discussion in Sociology and 3.5 cycles in Political Science) occurred in only one History discussion. The study (op. cit.) found the rhetorical structure of political science and sociology discussions but not History to be broadly similar to that in the natural sciences. <ref type="bibr" coords="3,318,67,72,58,62,60,8,73" target="#b19">Peacock (2002)</ref> conducted a large-scale quantitative study of over 250 research article discussion sections across seven disciplines (Physics and Material Science, Biology, Environmental Science, Business, Language and Linguistics, Public and Social Administration, and Law) and classied moves using an existing model of moves based on sciences. The study found the model to be 'broadly accurate overall' (p. 487) although no move occurred in every text. 'Key move cycles' (p. 488) were found to occur more often in Language and Linguistics and Law and less often in Physics and Environmental Science compared to the average of 2.2 move cycles per article.</p><p>The present study aims to offer a genre-based description of the schematic structure of the discussion of results section in Dentistry, a discipline whose research writing has been subject to relatively limited investigation to date. The study makes a close investigation of one particular move, commenting on results, with the aim of providing insights into how writers in this discipline construct arguments about the meaning and signicance of their results. <ref type="foot" coords="3,400,00,173,59,3,90,6,55" target="#foot_2">2</ref> The study draws on a method and denitions from a previous study of discussion sections in the Applied Linguistics <ref type="bibr" coords="3,394,18,187,21,82,87,8,73">(Basturkmen, 2009)</ref> and compares the description in the present study to the description of the discussion section and the report of ndings provided in the previous study (op. cit.) to explore ways the discussion section in Dentistry may be distinct. The study addresses the following questions:</p><p>1. To what extent can discussion sections in Dentistry articles be accounted for with reference to a framework of discussion sections in articles in another discipline (Applied Linguistics)? 2. How do writers in Dentistry construct arguments about the meaning and signicance of results in commenting on results moves? 3. How can the schematic structure of discussion sections in articles in Dentistry be described?</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">The study</head><p>In the present research, the researcher used the same methods and denitions and drew on an existing framework of discussion sections developed in previous research in Applied <ref type="bibr" coords="3,303,19,351,37,128,27,8,74">Linguistics (Basturkmen, 2009)</ref> to examine discussions in the Dentistry articles. <ref type="bibr" coords="3,122,35,362,80,58,89,8,73" target="#b2">Dubois (1997)</ref> and <ref type="bibr" coords="3,203,87,362,80,80,33,8,73" target="#b13">Lewin et al. (2001)</ref> have argued that because researchers have analysed discussion sections in different disciplines using different methods and denitions, ndings showing different numbers and kinds of moves cannot be attributed to the fact that different disciplines were investigated. Similar to previous studies of discussion sections <ref type="bibr" coords="3,82,04,397,23,62,86,8,74" target="#b3">(Holmes, 1997;</ref><ref type="bibr" coords="3,148,39,397,23,60,70,8,73" target="#b19">Peacock, 2002)</ref>, the study investigates the applicability of a descriptive framework of discussion sections developed in another disciplinary area. Like these studies (op. cit) the present study investigates moves and, in addition, it investigates steps and step sequences in one particular move, the commenting on results.</p><p>In line with the methods used in the previous study <ref type="bibr" coords="3,269,67,431,59,79,15,8,73">(Basturkmen, 2009)</ref>, ten research articles were selected from a leading journal targeting a readership of researchers and practitioners in the discipline, the British Dental Journal. The researcher read the articles in their entirety before examining the discussion of results sections (DRSs) for the purpose of analysis, a procedure essential to avoid a partial understanding and even misunderstanding of the discussion sections. For example, without reading the preceding sections it was often not possible to differentiate text reporting and discussing a result of the study in question and that giving background information. Although the same procedure of reading the entire article had been followed in the previous study, the procedure was found to be even more crucial to an understanding of the Dentistry articles as the researcher had limited knowledge of topics to draw on in understanding the texts. Since the researcher was not a member of the discipline, the researcher discussed the content of the articles with an inside-informant (a practising dentist). The informant provided clarication on her questions on the content and discussed the analyses of the texts with her. Two of the articles the researcher initially selected were on closer examination too difcult for her to understand and these were replaced with two further articles.</p><p>The articles, as is common in this discipline, had multiple authors (between three and six). In line with the previous study, all but two of the articles had separate discussion of results sections and conclusions and two had merged discussion and conclusion sections. Survey of 2008 issues of the Journal showed most research articles had a separate conclusion. Practices appear to vary in this Discipline. A separate section titled Conclusions is common practice in some journals (such as, Australian Dental Journal and International Dentistry, Australasian Edition) while in others (such as, the Journal of Dental Research and New Zealand Dental Journal) it is not.</p><p>The articles in the study reported primarily quantitative research. Eight of the studies were laboratory or clinical studies of topics of a technical nature, such as, performance of a class of restorative material. In Dentistry, clinical, or 'non-bench', studies involve patients, and examples include investigations of modied or innovative surgical procedures and alternative courses of treatment and evaluation of new drugs <ref type="bibr" coords="3,212,54,672,37,119,79,8,73">(Von Fraunhofer, 2010, p. 31)</ref>. Two articles reported educational and public health topics, such as, the effects of dental screening. The discussion sections ranged from 409 to 1526 words with an average length of 773 words.</p><p>Following <ref type="bibr" coords="3,100,94,706,79,51,61,8,73" target="#b22">Swales (1990</ref><ref type="bibr" coords="3,158,90,706,79,24,46,8,73" target="#b22">Swales ( , 2004) )</ref> moves were dened as functional units of differing lengths which are labelled according to purpose in the text and steps were dened as options writers select from to accomplish the moves. The discussion of results sections (DRSs) in the Dentistry articles were examined to see if the types of moves, move sequences and steps in commenting on results moves in the representation of the DRS in Applied Linguistics in Fig. <ref type="figure" coords="4,406,64,84,08,5,20,8,73" target="#fig_0">1</ref> could be observed in the DRSs in Dentistry. As this was the case, the Dentistry texts were analysed for the moves, steps, sub steps and result-comment sequences shown in the framework and the frequencies of occurrence of these elements were recorded.</p><p>Identication of elements was made on the basis of text comprehension and linguistic evidence <ref type="bibr" coords="4,443,78,118,44,62,45,8,73" target="#b19">(Peacock, 2002)</ref>, including textual divisions (paragraphing), discourse markers and new lexical references <ref type="bibr" coords="4,368,89,129,93,49,48,8,73" target="#b0">(Ding, 2007)</ref>. Identifying moves and steps is inherently difcult, even in reference to categories in an existing framework. The researcher repeatedly reviewed and revised initial classications of elements, which was a process that involved going back and forth between the element under focus and preceding sections in the article, and to text surrounding the particular element. Identifying opening and closing moves in the discussion sections was relatively straightforward since these moves tended to have clearer start and end points and involved text division (paragraphing). However, identifying moves and steps in the bulk of the discussions, which as described below involved a recursive organisation of result-comment sequences, was more problematic. As noted in previous research <ref type="bibr" coords="4,77,19,210,15,59,19,8,73" target="#b3">(Holmes, 1997)</ref>, one move can be embedded inside another or two moves can be included within one sentence in this highly complex type of text. For example, the low level of . reported here has been reported in other studies merges reporting and commenting on a result. In analysing the result-comment sequences, the researcher rst distinguished each report of a result (or linked results) and then examined the surrounding text to try to identify how the text functioned in relation to the (move 3 þ move 4) shown in the framework were readily identiable in the Dentistry texts. This suggests that the purposes indicated by these move labels and organisation indicated by the sequence is similar in both research communities. It would seem therefore that the rhetorical purposes held for the discussion section of articles in Dentistry are broadly comparable to those of Applied Linguistics and that both research communities organise their discussions somewhat similarly. The nding that moves based on a model in one discipline can generally be identied in another discipline support ndings from previous genre-based investigations of discussion sections <ref type="bibr" coords="9,249,21,95,51,61,62,8,74" target="#b3">(Holmes, 1997;</ref><ref type="bibr" coords="9,313,08,95,51,59,45,8,73" target="#b19">Peacock, 2002)</ref>.</p><p>Dentistry discussions were found to include re-occurring result-comment sequences. This nding is consistent with previous descriptions of the discussion section as characterised by cycles of moves <ref type="bibr" coords="9,394,78,118,44,62,42,8,74" target="#b3">(Holmes, 1997;</ref><ref type="bibr" coords="9,460,26,118,44,62,34,8,73" target="#b19">Peacock, 2002;</ref><ref type="bibr" coords="9,525,68,118,44,30,35,8,73;9,45,05,129,93,23,36,8,73" target="#b22">Swales, 1990;</ref><ref type="bibr" coords="9,72,39,129,93,90,76,8,73" target="#b27">Yang &amp; Allison, 2003)</ref>. The Dentistry discussions had an average of 3.2 result-comment sequences, slightly higher than the 2.6 average reported in Applied Linguistics in a study based on the same methods and denitions <ref type="bibr" coords="9,500,85,141,37,55,16,8,73;9,45,05,152,86,22,10,8,73">(Basturkmen, 2009)</ref>. However, the difference is small and unlikely to be signicant. The 3.2 average found in Dentistry is higher than the 2.2 average number of cycles found in discussions across disciplines <ref type="bibr" coords="9,342,66,164,29,65,20,8,73" target="#b19">(Peacock, 2002)</ref> and between the averages reported for Sociology and Political Science, respectively <ref type="bibr" coords="9,243,25,175,79,60,06,8,73" target="#b3">(Holmes, 1997)</ref>.</p><p>The three steps in commenting on results moves in the framework in Applied Linguistics (explaining, comparing results to previous research and evaluating results) were readily identiable in the Dentistry texts, suggesting that the Dentistry writers drew on the same types of steps as Applied Linguists. This nding is consistent with <ref type="bibr" coords="9,392,74,210,15,50,31,8,73" target="#b16">Lim's (2010)</ref> nding of the same type of steps in commentary moves (in results sections) in two disciplines (Applied Linguistics and Education). The three steps were used in fairly even proportions in the Dentistry texts with explaining ndings used in just over 50% of commenting moves. This nding stands in contrast to ndings in Applied Linguistics (see Appendix) showing a prevalence of explaining ndings compared to the two other steps and the use of explaining ndings in over 90% of commenting moves. This difference appears important and could suggest disciplinary differences may be located in step level choices, that is, differences in which steps writers tend to use. <ref type="bibr" coords="9,128,96,278,94,44,72,8,73" target="#b16">Lim (2010)</ref> similarly found a much higher frequency of steps of explaining ndings steps in commentary moves in results sections in Applied Linguistics (compared to Education).</p><p>Comparing results and evaluating results may have occurred as often as explaining ndings because these steps enabled the Dentistry writers to present their results as 'either superior or of a different nature' to ndings in other studies, a characteristic of writing in physical sciences observed by <ref type="bibr" coords="9,227,38,324,79,154,16,8,73">Berkenkotter and Huckin (1995, p. 41</ref>).<ref type="foot" coords="9,389,18,322,64,3,90,6,55" target="#foot_3">3</ref> Through steps of evaluating results the Dentistry writers could register their opinions of certain results. The step could be used ag the importance or reliability of results, and thus functioned as promotion, which, as described in the literature <ref type="bibr" coords="9,389,03,347,69,99,39,8,74">(Afros &amp; Schryer, 2009;</ref><ref type="bibr" coords="9,492,18,347,70,63,84,8,73;9,45,04,359,19,58,77,8,73">Berkenkotter &amp; Huckin, 1995;</ref><ref type="bibr" coords="9,108,47,359,19,60,78,8,73" target="#b6">Hyland, 2002)</ref> is a pervasive feature of academic discourse generally. They could also be used to ag a cautionary note about the condence level of results. Comparisons and evaluations may be particularly important when the results of research may impact on clinical practice and a high burden of proof is required. Why might explaining results have occurred as often as (but not more often than) other steps in commenting on results moves in Dentistry? In physical science knowledge may be viewed as 'proceeding from laboratory activities' rather than as emerging from reasoning and interpretation as in humanities and social sciences <ref type="bibr" coords="9,224,73,416,54,109,43,8,73">(Hyland, 1999, p. 359-360)</ref>. And since researchers in physical sciences are more likely than those in social sciences and humanities to conceive of their work as occurring within an 'established framework of theoretical knowledge' <ref type="bibr" coords="9,142,49,439,47,111,90,8,73">(Hyland, 1999, p. 352-353)</ref> the reason for some results may be obvious. <ref type="foot" coords="9,440,44,437,27,3,90,6,55" target="#foot_4">4</ref>The study indicated that discussions in Dentistry can be represented as a six-move structure comprising two obligatory moves and four optional moves. The discussion sections in Dentistry generally opened with background information moves, unlike social sciences which generally open with statements of results <ref type="bibr" coords="9,348,30,473,82,60,92,8,73" target="#b3">(Holmes, 1997)</ref>. Opening moves (moves 1 and 2) reviewed the aims, key features and ndings of the study. They may be structured this way either to remind readers of important information or to help those readers who rst read here to assess the relevance of the study to their needs in deciding if to read further. The section was observed to potentially carry a promotional function as well as the pragmatic function of highlighting important information. As research projects in this discipline tend to be large-scale and funded by grants, writers may wish to underscore the importance of the study and results at the start of the discussion. The Dentistry discussions generally ended with implications moves, moves similar in function to recommendation moves ending discussions in social sciences <ref type="bibr" coords="9,115,93,554,10,59,20,8,73" target="#b3">(Holmes, 1997)</ref>. It was not surprising that the discussions in Dentistry generally included implications moves because in this journal conclusion sections tend to be very brief, such as, one or two sentences in length.</p><p>Two patterns of complex argumentation were observed in the commenting moves in the Dentistry texts, one pattern centred on explanations and alternative explanations and another centred on comparisons and evaluations. The rst pattern realised a form of argumentation concerned with suggesting different reasons why results were as obtained and the second pattern that of making a case for the soundness and signicance of results. The use of alternative explanations is similar to the pattern reported in Applied Linguistics <ref type="bibr" coords="9,205,06,622,88,79,20,8,73">(Basturkmen, 2009)</ref>. Alternative explanations may be a non generic form of argument, one that is used in different disciplines. The proportion of result-comment sequences in the Dentistry texts that included alternative explanations (28%) is lower than that (73%) reported in Applied Linguistics, a difference that appears important. The difference may imply that although writers in different disciplines draw on similar types of arguments, the extent to which they tend to use them may vary. The second pattern of complex argumentation observed in the Dentistry texts showed the writers combining comparisons to the literature and evaluations to construct elaborate cases for the reliability and importance of results. This pattern has not to the best of the writer's knowledge been reported in previous genre-based research and is possibly a less generic form of argumentation about results.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Conclusion</head><p>In conclusion, the schematic structure of discussion sections in Dentistry appeared to include similar moves and thus appeared to have broadly similar rhetorical purposes (reviewing the study, summarising results, reporting a specic result or related results and commenting on them) as Applied Linguistics. The writers used a similar result-comment sequence organisation for the body of the discussion. They drew on the similar step options in making commenting moves, although the relative proportions of steps they used appeared dissimilar to those observed in previous study in Applied Linguistics. Two forms of complex argument structures in commenting moves were observed, one of which was not been described in the previous study in Applied Linguistics. In sum, some ways the meaning and signicance of the results were discussed in the Dentistry texts appeared to be distinctive.</p><p>The distinctions emerged from analysis at step and sub step levels (rather than move level). This has implications for methodology: analysis of moves alone may not be the best indicator of disciplinary variation in research reporting genres. Analysis of steps, sub steps and combinations of these elements in conjunction with moves analysis may be a more potent indicator. Other researchers conducting genre-based studies of disciplinary variation may consider that analysis of texts at step and sub step level may be revealing. Analysis at this level may be a means to identify distinctions in disciplinary norms in genres which outwardly display similarity but may be less relevant when genres are obviously dissimilar across disciplines.</p><p>Despite considerable efforts made to understand the texts and the use of consultation in this, the researcher's understanding may have been incomplete in places. A limited number of texts was analysed and thus the ndings should be seen as suggestive only. The study aimed to provide insights on rhetorical structure and patterns of argumentation in the Dentistry texts and explore how they may be distinct. As the study was based on a limited data set, the observations cannot be seen as conclusive. Some of the ways these texts appeared to differ from those in Applied Linguistics appear to justify a more extensive study, although the cognitively demanding and time consuming nature of analysing discussions and arguments in a discipline the researcher is not a member of needs to be considered. Future research could investigate whether other disciplines may vary in regard to step choices within a particular move. The close analysis used in the present study was useful for uncovering subtle distinctions and patterns of argumentation but may be less practical for analysis of numbers of texts. The study design was a text-based investigation. It might be possible to extend this investigation by enquiring into the perspectives of disciplinary members about the nature of commenting on results in discussion sections. Such an investigation might be useful for investigating 'why disciplinary writers make the choices they do' <ref type="bibr" coords="10,385,42,382,14,77,87,8,73">(Tardy, 2011, p. 149)</ref>. Interviews might be proposed as a means to try to gain insights into why the writers structure discussions and argumentation about their results as they do. However, disciplinary members' knowledge of commenting moves and structures of argumentation is likely to be tacit (knowledge they draw on in producing their own texts) and less likely to be the kind of explicit knowledge that would be readily accessible for articulation. Also, the interest level of members of disciplines (other than Applied Linguistics) in discussing segments of text and reecting on the micro level communicative intentions underlying such segments is subject to limitations. Further work is planned to develop a methodology for investigating disciplinary members' tacit understandings of discussion and argument in research reporting genres.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0" coords="4,159,18,748,69,273,33,6,98"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. Schematic structure of the discussion of results section in Applied Linguistics.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1" coords="8,174,40,703,96,242,91,6,99"><head>Fig. 2 .</head><label>2</label><figDesc>Fig. 2. Schematic structure of the discussion of results section in Dentistry.</figDesc></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_0">The study(Basturkmen,  </note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2009" xml:id="foot_1">) investigated discussion sections in articles from the journal Language Teaching Research and thus referred to discussions of results in Language Teaching rather than in the discipline of Applied Linguistics. Applied Linguistics has been dened as study of second and foreign language learning and teaching, and of language and linguistics in relation to practical problems<ref type="bibr" coords="2,366,74,761,81,97,77,6,98" target="#b21">(Richards, Platt, &amp; Platt, 1992)</ref>.</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_2">The present study focuses on comments on results in discussion sections. Other nal sections of research articles can include comments and subjective evaluations of results<ref type="bibr" coords="3,118,68,761,80,83,62,6,99" target="#b12">(Kanoksilapatham, 2003;</ref><ref type="bibr" coords="3,204,72,761,80,34,85,6,99" target="#b16">Lim, 2010;</ref><ref type="bibr" coords="3,242,00,761,80,70,31,6,99" target="#b27">Yang &amp; Allison, 2003)</ref>.H. Basturkmen / Journal of English for Academic Purposes 11 (2012) 134-144</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="3" xml:id="foot_3">There is diversity and variation of research interest in Dentistry.Becher and Trowler (2001)  argue that allocating a discipline to any one domain of knowledge, such as, pure or applied science, may not do justice the complexity and variation involved.</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_4">This argument would not explain why<ref type="bibr" coords="9,189,06,761,80,36,00,6,99" target="#b16">Lim (2010)</ref> found fewer explanations in Education (a social science) compared to Applied Linguistics.H. Basturkmen / Journal of English for Academic Purposes 11 (2012) 134-144</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgements</head><p>I am indebted to the writers of articles of Dentistry articles who reviewed segments of analysis and for the useful comments provided. I wish to thank also the disciplinary inside-informant for help and information provided for the study.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Appendix</head><p>Result-comment sequences in discussion sections of articles in Applied Linguistics <ref type="bibr" coords="10,397,84,567,05,75,62,8,74">(Basturkmen, 2009</ref>  <ref type="bibr" coords="10,76,16,750,26,64,54,6,99" target="#b8">&amp; Hyland, K. (2006)</ref>. Introduction. In K. Hyland, &amp; M. Bondi (Eds.), Academic discourse across disciplines (pp. 7-17). Germany: Peter Lang. <ref type="bibr" coords="10,40,38,758,96,47,77,6,99">Brett, P. (1994)</ref>. A genre analysis of the results section of sociology articles. English for Specic Purposes, 13, 47-59. </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct coords="11,45,04,72,65,510,98,6,99;11,58,15,81,42,42,95,6,99" xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Genre analysis of personal statements: Analysis of moves in application essays to medical and dental schools</title>
+		<author>
+			<persName coords=""><forename type="first">Huiling</forename><surname>Ding</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.esp.2006.09.004</idno>
+	</analytic>
+	<monogr>
+		<title level="j">English for Specific Purposes</title>
+		<title level="j" type="abbrev">English for Specific Purposes</title>
+		<idno type="ISSN">0889-4906</idno>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="368" to="392" />
+			<date type="published" when="2007-01">2007</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,45,04,90,18,511,00,6,99;11,58,15,98,88,14,13,6,99" xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Geologists’ implicit persuasive strategies and the construction of evaluative evidence</title>
+		<author>
+			<persName coords=""><forename type="first">Dacia</forename><surname>Dressen</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s1475-1585(03)00046-8</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of English for Academic Purposes</title>
+		<title level="j" type="abbrev">Journal of English for Academic Purposes</title>
+		<idno type="ISSN">1475-1585</idno>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="273" to="290" />
+			<date type="published" when="2003-01">2003</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,45,04,107,64,356,59,6,99" xml:id="b2">
+	<monogr>
+		<title level="m" type="main">The biomedical discussion section in context</title>
+		<author>
+			<persName coords=""><forename type="first">B</forename><forename type="middle">L</forename><surname>Dubois</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<publisher>Ablex Publishing</publisher>
+			<pubPlace>Greenwich, Connecticut</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,45,04,116,34,510,98,6,99;11,58,14,125,10,119,71,6,99" xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Genre analysis, and the social sciences: An investigation of the structure of research article discussion sections in three disciplines</title>
+		<author>
+			<persName coords=""><forename type="first">Richard</forename><surname>Holmes</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0889-4906(96)00038-5</idno>
+	</analytic>
+	<monogr>
+		<title level="j">English for Specific Purposes</title>
+		<title level="j" type="abbrev">English for Specific Purposes</title>
+		<idno type="ISSN">0889-4906</idno>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="321" to="337" />
+			<date type="published" when="1997-01">1997</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,45,03,133,87,511,01,6,99;11,58,15,142,56,29,30,6,99" xml:id="b4">
+	<analytic>
+		<title level="a" type="main">A genre-based investigation of the discussion sections in articles and dissertations</title>
+		<author>
+			<persName><forename type="first">Andy</forename><surname>Hopkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tony</forename><surname>Dudley-Evans</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0889-4906(88)90029-4</idno>
+	</analytic>
+	<monogr>
+		<title level="j">English for Specific Purposes</title>
+		<title level="j" type="abbrev">English for Specific Purposes</title>
+		<idno type="ISSN">0889-4906</idno>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="113" to="121" />
+			<date type="published" when="1988-01">1988</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,45,04,151,33,442,30,6,99" xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Academic attribution: citation and the construction of disciplinary knowledge</title>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Hyland</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/applin/20.3.341</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Applied Linguistics</title>
+		<title level="j" type="abbrev">Applied Linguistics</title>
+		<idno type="ISSN">0142-6001</idno>
+		<idno type="ISSNe">1477-450X</idno>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="341" to="367" />
+			<date type="published" when="1999-09-01">1999</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,45,05,160,03,379,64,6,99" xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Directives: Argument and Engagement in Academic Writing</title>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Hyland</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/applin/23.2.215</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Applied Linguistics</title>
+		<title level="j" type="abbrev">Applied Linguistics</title>
+		<idno type="ISSN">0142-6001</idno>
+		<idno type="ISSNe">1477-450X</idno>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="215" to="239" />
+			<date type="published" when="2002-06-01">2002</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,45,06,168,79,406,57,6,99" xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Disciplinary Discourses, Michigan Classics Ed.</title>
+		<author>
+			<persName coords=""><forename type="first">Ken</forename><surname>Hyland</surname></persName>
+		</author>
+		<idno type="DOI">10.3998/mpub.6719</idno>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<publisher>University of Michigan Press</publisher>
+			<pubPlace>Ann Arbor</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,45,06,177,55,511,01,6,99;11,58,17,186,25,71,98,6,99" xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Academic Discourse Across Disciplines</title>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Hyland</surname></persName>
+		</author>
+		<idno type="DOI">10.3726/978-3-0351-0446-2</idno>
+		<editor>K. Hyland, &amp; M. Bondi</editor>
+		<imprint>
+			<date type="published" when="2006-01-01">2006</date>
+			<publisher>Peter Lang CH</publisher>
+			<pubPlace>Germany</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Academic discourse across disciplines</note>
+</biblStruct>
+
+<biblStruct coords="11,45,07,195,01,510,96,6,99;11,58,17,203,71,66,96,6,99" xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Disciplinary voices</title>
+		<author>
+			<persName coords=""><forename type="first">Ken</forename><surname>Hyland</surname></persName>
+		</author>
+		<idno type="DOI">10.1075/etc.1.1.03hyl</idno>
+	</analytic>
+	<monogr>
+		<title level="j">English Text Construction</title>
+		<title level="j" type="abbrev">ETC</title>
+		<idno type="ISSN">1874-8767</idno>
+		<idno type="ISSNe">1874-8775</idno>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="5" to="22" />
+			<date type="published" when="2008-03-07">2008</date>
+			<publisher>John Benjamins Publishing Company</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,45,07,212,47,511,00,6,99;11,58,18,221,17,36,60,6,99" xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Introduction: Academic Evaluation and Review Genres</title>
+		<author>
+			<persName><forename type="first">Ken</forename><surname>Hyland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Giuliana</forename><surname>Diani</surname></persName>
+		</author>
+		<idno type="DOI">10.1057/9780230244290_1</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Academic Evaluation</title>
+				<editor>
+			<persName><forename type="first">K</forename><surname>Hyland</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">G</forename><surname>Diani</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Basingstoke</addrLine></address></meeting>
+		<imprint>
+			<publisher>Palgrave Macmillan UK</publisher>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="page" from="1" to="14" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,45,07,229,94,507,87,6,99" xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Literacy and disciplinary practices: opening and closing perspectives</title>
+		<author>
+			<persName><forename type="first">Ann</forename><forename type="middle">M</forename><surname>Johns</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><forename type="middle">M</forename><surname>Swales</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s1475-1585(02)00003-6</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of English for Academic Purposes</title>
+		<title level="j" type="abbrev">Journal of English for Academic Purposes</title>
+		<idno type="ISSN">1475-1585</idno>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="13" to="28" />
+			<date type="published" when="2002-01">2002</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,45,07,238,70,511,00,6,99;11,58,18,247,40,121,57,6,99" xml:id="b12">
+	<analytic>
+		<title level="a" type="main">4. Rhetorical moves in biochemistry research articles</title>
+		<author>
+			<persName coords=""><forename type="first">Budsaba</forename><surname>Kanoksilapatham</surname></persName>
+		</author>
+		<idno type="DOI">10.1075/scl.28.06kan</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Studies in Corpus Linguistics</title>
+				<meeting><address><addrLine>Georgetown University</addrLine></address></meeting>
+		<imprint>
+			<publisher>John Benjamins Publishing Company</publisher>
+			<date type="published" when="2003">2003</date>
+			<biblScope unit="page" from="73" to="119" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,45,07,256,16,455,82,6,99" xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Expository discourse: A genre-based approach to social science research texts</title>
+		<author>
+			<persName coords=""><forename type="first">B</forename><forename type="middle">A</forename><surname>Lewin</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Fine</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>Young</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<publisher>Continuum</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,45,07,264,86,511,03,6,99;11,58,17,273,62,96,65,6,99" xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Genre analysis: Structural and linguistic evolution of the English-medium medical research article (1985–2004)</title>
+		<author>
+			<persName><forename type="first">Li-Juan</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Guang-Chun</forename><surname>Ge</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.esp.2008.12.004</idno>
+	</analytic>
+	<monogr>
+		<title level="j">English for Specific Purposes</title>
+		<title level="j" type="abbrev">English for Specific Purposes</title>
+		<idno type="ISSN">0889-4906</idno>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="93" to="104" />
+			<date type="published" when="1985">2009. 1985-2004</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,45,06,282,38,482,74,6,99" xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Method sections of management research articles: A pedagogically motivated qualitative study</title>
+		<author>
+			<persName coords=""><forename type="first">Jason</forename><forename type="middle">M H</forename><surname>Lim</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.esp.2005.07.001</idno>
+	</analytic>
+	<monogr>
+		<title level="j">English for Specific Purposes</title>
+		<title level="j" type="abbrev">English for Specific Purposes</title>
+		<idno type="ISSN">0889-4906</idno>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="282" to="309" />
+			<date type="published" when="2006-01">2006</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,45,07,291,08,511,05,6,99;11,58,18,299,85,103,97,6,99" xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Commenting on research results in applied linguistics and education: A comparative genre-based investigation</title>
+		<author>
+			<persName coords=""><forename type="first">Jason Miin-Hwa</forename><forename type="middle">M H</forename><surname>Lim</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jeap.2010.10.001</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of English for Academic Purposes</title>
+		<title level="j" type="abbrev">Journal of English for Academic Purposes</title>
+		<idno type="ISSN">1475-1585</idno>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="280" to="294" />
+			<date type="published" when="2010-12">2010</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,45,07,308,54,395,09,7,00" xml:id="b17">
+	<analytic>
+		<title level="a" type="main">The medical research paper: Structure and functions</title>
+		<author>
+			<persName coords=""><forename type="first">Kevin</forename><forename type="middle">N</forename><surname>Nwogu</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0889-4906(97)85388-4</idno>
+	</analytic>
+	<monogr>
+		<title level="j">English for Specific Purposes</title>
+		<title level="j" type="abbrev">English for Specific Purposes</title>
+		<idno type="ISSN">0889-4906</idno>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="119" to="138" />
+			<date type="published" when="1997-01">1997</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,45,05,317,26,510,98,6,99;11,58,16,325,96,76,21,6,99" xml:id="b18">
+	<analytic>
+		<title level="a" type="main">The textual organisation of research article introductions in applied linguistics: Variability within a single discipline</title>
+		<author>
+			<persName coords=""><forename type="first">I</forename><surname>Oztürk</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.esp.2005.12.003</idno>
+	</analytic>
+	<monogr>
+		<title level="j">English for Specific Purposes</title>
+		<title level="j" type="abbrev">English for Specific Purposes</title>
+		<idno type="ISSN">0889-4906</idno>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="25" to="38" />
+			<date type="published" when="2007-01">2007</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,45,05,334,72,366,49,6,99" xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Communicative moves in the discussion section of research articles</title>
+		<author>
+			<persName coords=""><forename type="first">Matthew</forename><surname>Peacock</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0346-251x(02)00050-7</idno>
+	</analytic>
+	<monogr>
+		<title level="j">System</title>
+		<title level="j" type="abbrev">System</title>
+		<idno type="ISSN">0346-251X</idno>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="479" to="497" />
+			<date type="published" when="2002-12">2002</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,45,06,343,49,510,97,6,99;11,58,16,352,19,51,77,6,99" xml:id="b20">
+	<monogr>
+		<title level="m" type="main">An investigation of rhetorical and organisational features of the discussion sections of Chemical Engineers&apos; papers</title>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">F</forename><surname>Peng</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1987">1987</date>
+		</imprint>
+		<respStmt>
+			<orgName>M.A. dissertation. University of Birmingham</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,45,05,360,95,403,65,6,99" xml:id="b21">
+	<monogr>
+		<title level="m" type="main">Longman dictionary of language and applied linguistics</title>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">C</forename><surname>Richards</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Platt</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">H</forename><surname>Platt</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1992">1992</date>
+			<publisher>Longman</publisher>
+			<pubPlace>Harlow, Essex</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,45,05,369,65,393,02,6,99;11,45,05,378,41,358,85,6,99;11,45,05,387,17,510,97,6,99;11,58,16,395,87,246,02,6,99" xml:id="b22">
+	<analytic>
+		<title level="a" type="main">1990. Genre analysis: English in academic and research settings. Cambridge: Cambridge University Press, selected 45–47, 52–60</title>
+		<author>
+			<persName coords=""><forename type="first">John</forename><forename type="middle">M</forename><surname>Swales</surname></persName>
+		</author>
+		<idno type="DOI">10.1075/z.184.513swa</idno>
+	</analytic>
+	<monogr>
+		<title level="m">The Discourse Studies Reader</title>
+				<editor>
+			<persName><forename type="first">D</forename><surname>Belcher</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Johns</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">&amp;</forename><forename type="middle">B</forename><surname>Paltridge</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge; Ann Arbor</addrLine></address></meeting>
+		<imprint>
+			<publisher>John Benjamins Publishing Company</publisher>
+			<date type="published" when="1990">1990. 2004. 2011</date>
+			<biblScope unit="page" from="306" to="316" />
+		</imprint>
+	</monogr>
+	<note>New directions in English for specic purposes research</note>
+</biblStruct>
+
+<biblStruct coords="11,45,05,404,63,511,01,6,99;11,58,15,413,33,156,64,6,99" xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Form, text organisation, genre, coherence, and cohesion</title>
+		<author>
+			<persName coords=""><forename type="first">C</forename><forename type="middle">M</forename><surname>Tardy</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">M</forename><surname>Swales</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of research on writing</title>
+				<editor>
+			<persName><forename type="first">C</forename><surname>Bazerman</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Lawrence Erlbaum Associates</publisher>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="page" from="565" to="582" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,45,05,422,10,402,77,6,99" xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Evaluation in the art-historical research article</title>
+		<author>
+			<persName coords=""><forename type="first">Paul</forename><surname>Tucker</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s1475-1585(03)00047-x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of English for Academic Purposes</title>
+		<title level="j" type="abbrev">Journal of English for Academic Purposes</title>
+		<idno type="ISSN">1475-1585</idno>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="291" to="312" />
+			<date type="published" when="2003-01">2003</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,45,05,430,80,511,00,6,99;11,58,15,439,56,212,57,6,99" xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Academic Discourse Across Disciplines</title>
+		<author>
+			<persName coords=""><forename type="first">E</forename><forename type="middle">T</forename><surname>Vol</surname></persName>
+		</author>
+		<idno type="DOI">10.3726/978-3-0351-0446-2</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Academic discourse across disciplines</title>
+				<editor>
+			<persName><forename type="first">K</forename><surname>Hyland</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">&amp;</forename><forename type="middle">M</forename><surname>Bondi</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Germany</addrLine></address></meeting>
+		<imprint>
+			<publisher>Peter Lang CH</publisher>
+			<date type="published" when="2006-01-01">2006</date>
+			<biblScope unit="page" from="225" to="249" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,45,05,448,32,276,25,6,99" xml:id="b26">
+	<monogr>
+		<title level="m" type="main">Front Matter</title>
+		<author>
+			<persName coords=""><forename type="first">Von</forename><surname>Fraunhofer</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">A</forename></persName>
+		</author>
+		<idno type="DOI">10.1002/9781444390063.fmatter</idno>
+		<imprint>
+			<date type="published" when="2010-01-07">2010</date>
+			<publisher>Wiley</publisher>
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,45,05,457,02,492,41,6,99;11,45,04,477,86,117,37,8,73;11,45,04,498,93,510,95,6,99;11,58,15,507,69,449,41,7,26" xml:id="b27">
+	<analytic>
+		<title level="a" type="main">An RCT pilot study to test the effects of intravenous midazolam as a conscious sedation technique for anxious children requiring dental treatment -an alternative to general anaesthesia</title>
+		<author>
+			<persName coords=""><forename type="first">R</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">D</forename><surname>Allison</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename><forename type="middle">A</forename><surname>Averley</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">I</forename><surname>Lane</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">N</forename><forename type="middle">M</forename><surname>Girdler</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">N</forename><surname>Steen</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Bond</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Dentistry texts referred to</title>
+				<imprint>
+			<publisher>English for Specic Purposes</publisher>
+			<date type="published" when="2003">2003. 2004</date>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="553" to="558" />
+		</imprint>
+	</monogr>
+	<note>Research articles in applied linguistics: moving from results to conclusions</note>
+</biblStruct>
+
+<biblStruct coords="11,45,05,516,39,510,98,6,99;11,58,15,525,15,156,41,6,99" xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Clinical performance of reinforced glass ionomer restorations placed in UK dental practices</title>
+		<author>
+			<persName coords=""><forename type="first">F</forename><forename type="middle">J T</forename><surname>Burke</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><surname>Siddons</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Phipps</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Bardha</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><forename type="middle">J</forename><surname>Crisp</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">B</forename><surname>Dopheide</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/bdj.2007.529</idno>
+	</analytic>
+	<monogr>
+		<title level="j">British Dental Journal</title>
+		<title level="j" type="abbrev">Br Dent J</title>
+		<idno type="ISSN">0007-0610</idno>
+		<idno type="ISSNe">1476-5373</idno>
+		<imprint>
+			<biblScope unit="volume">203</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="E2" to="E2" />
+			<date type="published" when="2007-06-01">2007</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,45,05,533,85,510,98,6,99;11,58,17,542,61,79,33,6,99" xml:id="b29">
+	<analytic>
+		<title level="a" type="main">A controlled release pilocarpine buccal insert in the treatment of Sjögren&apos;s syndrome</title>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Gibson</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">A</forename><surname>Halliday</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Ewert</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Robertson</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/bdj.2007.80</idno>
+	</analytic>
+	<monogr>
+		<title level="j">British Dental Journal</title>
+		<title level="j" type="abbrev">Br Dent J</title>
+		<idno type="ISSN">0007-0610</idno>
+		<idno type="ISSNe">1476-5373</idno>
+		<imprint>
+			<biblScope unit="volume">202</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="E17" to="E17" />
+			<date type="published" when="2007-02-02">2007</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,45,06,551,38,510,98,6,99;11,58,17,560,08,151,61,6,99" xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Erosion of enamel by non-carbonated soft drinks with and without toothbrushing abrasion</title>
+		<author>
+			<persName coords=""><forename type="first">C</forename><forename type="middle">A</forename><surname>Hemingway</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">D</forename><forename type="middle">M</forename><surname>Parker</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Addy</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">E</forename><surname>Barbour</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/sj.bdj.4814073</idno>
+	</analytic>
+	<monogr>
+		<title level="j">British Dental Journal</title>
+		<title level="j" type="abbrev">Br Dent J</title>
+		<idno type="ISSN">0007-0610</idno>
+		<idno type="ISSNe">1476-5373</idno>
+		<imprint>
+			<biblScope unit="volume">201</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="447" to="450" />
+			<date type="published" when="2006-10">2006</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,45,06,568,84,511,02,6,99;11,58,18,577,54,14,13,6,99" xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Oral lichenoid lesions related to dental restorative materials</title>
+		<author>
+			<persName coords=""><forename type="first">Y</forename><surname>Issa</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><forename type="middle">J</forename><surname>Duxbury</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">T</forename><forename type="middle">V</forename><surname>Macfarlane</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename><forename type="middle">A</forename><surname>Brunton</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/sj.bdj.4812176</idno>
+	</analytic>
+	<monogr>
+		<title level="j">British Dental Journal</title>
+		<title level="j" type="abbrev">Br Dent J</title>
+		<idno type="ISSN">0007-0610</idno>
+		<idno type="ISSNe">1476-5373</idno>
+		<imprint>
+			<biblScope unit="volume">198</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="361" to="366" />
+			<date type="published" when="2005-03">2005</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,45,07,586,30,490,73,6,99" xml:id="b32">
+	<analytic>
+		<title level="a" type="main">The impact of two different malocclusion traits on quality of life</title>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Johal</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">Y H</forename><surname>Cheung</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">W</forename><surname>Marcenes</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/bdj.2007.33</idno>
+	</analytic>
+	<monogr>
+		<title level="j">British Dental Journal</title>
+		<title level="j" type="abbrev">Br Dent J</title>
+		<idno type="ISSN">0007-0610</idno>
+		<idno type="ISSNe">1476-5373</idno>
+		<imprint>
+			<biblScope unit="volume">202</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="E6" to="E6" />
+			<date type="published" when="2007-01">2007</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,45,07,595,00,511,01,7,26;11,58,18,603,76,338,04,6,99" xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Perioperative local anaesthetic in young paediatric patients undergoing extractions under outpatient &apos;short-case&apos; general anaesthesia. A double-blind randomised controlled trial</title>
+		<author>
+			<persName coords=""><forename type="first">K</forename><forename type="middle">J</forename><surname>Leong</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">G</forename><forename type="middle">J</forename><surname>Roberts</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename><forename type="middle">F</forename><surname>Ashley</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/bdj.2007.724</idno>
+	</analytic>
+	<monogr>
+		<title level="j">British Dental Journal</title>
+		<title level="j" type="abbrev">Br Dent J</title>
+		<idno type="ISSN">0007-0610</idno>
+		<idno type="ISSNe">1476-5373</idno>
+		<imprint>
+			<biblScope unit="volume">203</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="E11" to="E11" />
+			<date type="published" when="2007-08-10">2007</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,45,07,612,52,510,94,6,99;11,58,18,621,22,324,77,6,99" xml:id="b34">
+	<analytic>
+		<title level="a" type="main">The effectiveness of school dental screening: dental attendance and treatment of those screened positive</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Milsom</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><forename type="middle">G</forename><surname>Threlfall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Blinkhorn</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename><forename type="middle">I</forename><surname>Kearney-Mitchell</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><forename type="middle">M</forename><surname>Buchanan</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Tickle</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/sj.bdj.4813724</idno>
+	</analytic>
+	<monogr>
+		<title level="j">British Dental Journal</title>
+		<title level="j" type="abbrev">Br Dent J</title>
+		<idno type="ISSN">0007-0610</idno>
+		<idno type="ISSNe">1476-5373</idno>
+		<imprint>
+			<biblScope unit="volume">200</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="687" to="690" />
+			<date type="published" when="2006-06">2006</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,45,07,629,99,510,97,6,99;11,58,18,638,69,439,54,6,99" xml:id="b35">
+	<analytic>
+		<title level="a" type="main">A randomised controlled trial of clinical outreach education to rationalise antibiotic prescribing for acute dental pain in the primary care setting</title>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">M</forename><surname>Seager</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><forename type="middle">S</forename><surname>Howell-Jones</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">F</forename><forename type="middle">D</forename><surname>Dunstan</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">A O</forename><surname>Lewis</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Richmond</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">D</forename><forename type="middle">W</forename><surname>Thomas</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/sj.bdj.4813879</idno>
+	</analytic>
+	<monogr>
+		<title level="j">British Dental Journal</title>
+		<title level="j" type="abbrev">Br Dent J</title>
+		<idno type="ISSN">0007-0610</idno>
+		<idno type="ISSNe">1476-5373</idno>
+		<imprint>
+			<biblScope unit="volume">201</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="217" to="222" />
+			<date type="published" when="2006-08">2006</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

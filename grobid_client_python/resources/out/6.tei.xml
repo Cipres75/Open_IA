@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">INVESTIGATING INFORMATION SYSTEMS WITH ACTION RESEARCH</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName coords="1,244,05,299,43,107,99,10,77"><forename type="first">Richard</forename><forename type="middle">L</forename><surname>Baskerville</surname></persName>
+							<email>baskerville@acm.org</email>
+							<affiliation key="aff0">
+								<orgName type="department">Computer Information Systems Department</orgName>
+								<orgName type="institution">Georgia State University</orgName>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Investigating Information Systems with Action Research by</orgName>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Computer Information Systems Department</orgName>
+								<orgName type="institution">Georgia State University</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">INVESTIGATING INFORMATION SYSTEMS WITH ACTION RESEARCH</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">C650AD78C0BA43FF63CA00A5D232622D</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.2" ident="GROBID" when="2023-03-06T12:41+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>action research</term>
+					<term>action science</term>
+					<term>research methods</term>
+					<term>qualitative research</term>
+					<term>interpretive research</term>
+					<term>intensive research</term>
+					<term>consulting</term>
+					<term>information systems</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Action research is an established research method in use in the social and medical sciences since the mid-twentieth century, and has increased in importance for information systems toward the end of the 1990s. Its particular philosophic context is couched in strongly post-positivist assumptions such as idiographic and interpretive research ideals. Action research has developed a history within information systems that can be explicitly linked to early work by Lewin and the Tavistock Institute. Action research varies in form, and responds to particular problem domains. The most typical form is a participatory method based on a five-step model, which is exemplified by published IS research.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="9" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="10" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="11" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="12" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="13" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="14" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="15" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="16" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="17" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="18" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="19" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="20" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="21" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="22" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="23" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="24" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="25" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="26" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="27" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="28" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="29" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="30" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="31" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="32" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>I. INTRODUCTION</head><p>Action research is an established research method in use in the social and medical sciences since the mid-twentieth century. Toward the end of the 1990s it began growing in popularity for use in scholarly investigations of information systems. The method produces highly relevant research results, Investigating Information Systems with Action Research by Richard Baskerville because it is grounded in practical action, aimed at solving an immediate problem situation while carefully informing theory. Throughout the decade, calls persisted for improved relevance in information systems research <ref type="bibr" coords="3,446,12,148,05,62,18,11,22;3,87,69,168,27,19,56,11,22">[Keen 1991 and</ref><ref type="bibr" coords="3,111,72,168,27,74,12,11,22" target="#b17">Westfall 1999]</ref>. The lack of relevance in IS research spurred much of the increased interest in action research.</p><p>This paper is a tutorial in information systems action research. The paper surveys the history, context and domains of action research with particular focus on the information systems research arena. In addition, the method is described and details about a published example are presented. This paper particularly emphasizes the participatory form of action research.</p><p>The paper is organized into six sections. Following this introduction, Section 2 highlights the scientific and philosophical context that guides action researchers. Section 3 provides a detailed description of action research, including the defining characteristics, a brief history of action research from an information systems perspective, a survey of different forms of action research, the appropriate research settings for which action research can be most effective (its domains), and the close relationship between action research and consulting.</p><p>Section 4 is a "how-to" guide for conducting action research including a brief description of its various processes, the distinctive nature of participatory action research, and strategies that have been found to lead to success in information systems action research. Section 5 provides background details about how a particular action research project unfolded, the results of which were published in an information systems journal. Section 6 briefly describes important limitations of the approach.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>II. CONTEXT FOR ACTION RESEARCH</head><p>Action researchers are among those who assume that complex social systems cannot be reduced for meaningful study. They believe that human organizations, as a context that interacts with information technologies, can only be understood as whole entities. A key implication of this assumption is that the Investigating Information Systems with Action Research by Richard Baskerville factoring of a social setting, like an organization and its information technology, into variables or components, will not lead to useful knowledge about the whole organization. How then can we develop an understanding of the interaction of complex social organizations and their information systems? The fundamental contention of the action researcher is that complex social processes can be studied best by introducing changes into these processes and observing the effects of these changes. This change-oriented contention profoundly shapes the action research approach. Three unavoidable effects are the adoption of an interpretivist viewpoint of research enquiry, the adoption of an idiographic viewpoint of research enquiry, and the acceptance of qualitative data and analyses.</p><p>The interpretivist viewpoint follows from the allowance for social intervention into the research setting. When the researcher intervenes, the researcher becomes part of the study, i.e. one of the study subjects. Action research empirics therefore incorporate interpretive statements that include the observer's values and a priori knowledge that invariably intrude upon the observation. In other words, the researcher perceives the "meaning" of the observation. As the researcher attempts to understand what is observed, this personal understanding will invade the recording of the observation and the deductions that follow <ref type="bibr" coords="4,213,79,491,86,64,63,11,22" target="#b9">[Kant, 1908]</ref>. The inter-subjective meaningfulness of actions, that is, the social meaning of action shared between researcher-subject and other subjects, also must form part of the experimental data. This shared meaning implies that the cognitive framework of the researcher and the other subjects (their "Weltanschauung": the structure of world perception as modified by evaluation and ideals) has to be considered <ref type="bibr" coords="4,332,76,593,06,92,45,11,22" target="#b6">[Checkland, 1981]</ref>.</p><p>The idiographic viewpoint follows from the acceptance that each social setting involves a unique set of interacting human subjects. Any meaningful investigation must consider the frame of reference and underlying social values of the subjects. Action research operationalizes an idiographic method of enquiry partly by incorporating the subjects into their research as powerful Investigating Information Systems with Action Research by Richard Baskerville collaborators. Action research always involves a team that includes researchers and subjects as co-participants in the enquiry and change experiences.</p><p>Since action researchers adopt interpretive and idiographic postures, they must also adopt qualitative data as a medium to the empirics. Idiographic descriptions of the "meaningfulness of actions" often adhere to the cognitive structure of the subjects, thus using the terminology of the subjects. Such data typically defies accurate quantitative analysis. This "soft" data can sometimes be legitimately analyzed in its original state, with a limited set of mathematical and logical transformations. However, the full set of quantitative operations is not entirely legitimate for such use without qualitative interpretation through mapping, indexing and scaling <ref type="bibr" coords="5,269,49,309,79,95,14,11,22">[Halfpenny, 1979]</ref>.</p><p>Qualitative analytical techniques like hermeneutics, deconstruction, and theoretical sampling are common companions to action research [cf. <ref type="bibr" coords="5,318,14,350,22,173,28,11,22">Baskerville and Pries-Heje, 1999]</ref> The key assumptions of the action researcher,</p><p>(1) social settings cannot be reduced for study, and</p><p>(2) action brings understanding, imply a philosophy that allows interpretivism, idiographic studies, and qualitative data. Action research methodology is strongly anchored to post-positivist philosophy. Knowledge obtained through the use of this approach is difficult to validate in terms of the natural science view of the philosophy of science. For example, characteristics of scientific enquiry, such as reductionism, repeatability, and refutation are not ideals of valid knowledge from action research <ref type="bibr" coords="5,87,69,552,39,92,93,11,22" target="#b6">[Checkland, 1981]</ref>. <ref type="bibr" coords="5,193,58,552,39,143,58,11,22" target="#b16">Susman and Evered [1978]</ref>  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>III. DEFINING ACTION RESEARCH</head><p>The action research literature is rather imprecise in its basic terminology.</p><p>The term "action research" is itself used, on the one hand, to refer both to a general class of methods in social enquiry, and on the other hand, to a specific sub-class of those methods as distinguished from "action science", "action learning", "participatory action research", etc. To a large extent, this profusion of terminology arose because action research began as a unified approach to social enquiry and fragmented through its history. In its origins, the essence of action research is a simple two stage process.</p><p>• First, the diagnostic stage involves a collaborative analysis of the social situation by the researcher and the subjects of the research. Theories are formulated concerning the nature of the research domain.</p><p>• Second, the therapeutic stage involves collaborative change experiments.</p><p>In this stage changes are introduced and the effects are studied <ref type="bibr" coords="6,475,16,423,96,33,25,11,22;6,122,74,444,18,27,25,11,22">[Blum, 1955]</ref>.</p><p>A more precise definition of IS action research can be drawn from the published characteristics of action research in the social science literature.  <ref type="bibr" coords="8,220,96,148,05,66,48,11,22">[Clark, 1972;</ref><ref type="bibr" coords="8,290,72,148,05,75,01,11,22" target="#b14">Sanford, 1976]</ref>.</p><p>The marginalization of action research helped mature the recognition that action research operated with a different epistemology than traditional science <ref type="bibr" coords="8,87,69,208,70,87,37,11,22">[cf. Blum, 1955;</ref><ref type="bibr" coords="8,181,16,208,70,148,68,11,22" target="#b16">Susman and Evered, 1978]</ref>. Further, the conflicts that the approach raised were recognized <ref type="bibr" coords="8,264,44,228,92,85,42,11,22">[Rapoport, 1970]</ref>. This trend also linked action  <ref type="bibr" coords="8,351,46,370,44,96,35,11,22" target="#b6">[Checkland, 1981;</ref><ref type="bibr" coords="8,452,88,370,44,55,36,11,22;8,87,69,390,65,104,23,11,22" target="#b6">Checkland and Holwell, 1998;</ref><ref type="bibr" coords="8,199,20,390,65,169,32,11,22" target="#b6">Checkland and Scholes, 1990]</ref>. Checkland used action research to develop soft systems methodology, and as a result, action research concepts for gaining professional knowledge permeate the soft systems approach itself. Checkland also explicitly linked action research to the philosophy of science and systems science <ref type="bibr" coords="8,315,18,471,52,92,37,11,22" target="#b6">[Checkland, 1981]</ref>.</p><p>Action research was explicitly introduced to the information systems community as a purely research methodology by <ref type="bibr" coords="8,361,79,511,96,107,70,11,22">Wood-Harper [1985]</ref>. Like Lewin's work was also one of the inspirations for research into doubleloop organizational learning <ref type="bibr" coords="8,241,03,613,04,139,71,11,22" target="#b0">[Argyris and Schön, 1978]</ref>. This work eventually closed back to action research, although this closure included apologies for the corruption of action research over the years since Lewin <ref type="bibr" coords="8,396,08,653,48,106,82,11,22" target="#b0">[Argyris et al., 1985]</ref>. (1) an action and change orientation;</p><p>(2) a problem focus;</p><p>(3) an "organic" process involving systematic and sometimes iterative stages; and</p><p>(4) collaboration among participants <ref type="bibr" coords="9,312,30,395,91,146,68,11,22" target="#b13">[Peters and Robinson, 1984]</ref>.</p><p>There are a variety of different research forms within this class of action research approaches. With regard to information systems, these forms were inventoried and analyzed from different perspectives. One perspective recognized ten distinct forms of action research in information systems, along with four distinguishing characteristics <ref type="bibr" coords="9,301,65,497,00,195,80,11,22" target="#b4">[Baskerville and Wood-Harper, 1998</ref>].</p><p>These forms and characteristics are summarized in </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DOMAINS OF ACTION RESEARCH</head><p>The type of learning created by action research represents enhanced understanding of a complex social-organizational problem. The domain of information systems action research is clearest where the human organization interacts with information systems. The domain must also be one where a contingent value can be attached to the findings. The research addresses a specific social setting, although it will generate knowledge that enhances the development of general theory. Action research aims for an understanding of a complex human process rather than prescribing a universal social law.</p><p>The domain does not include settings where the goals of the researcher and client differ seriously. The researcher must be of value to those being researched, and both parties must successfully negotiate their goals, or the tension will destroy the participative validity of the research. Both sets of goals must be satisfied in the study <ref type="bibr" coords="11,242,47,401,17,100,67,11,22">[Warmington, 1980]</ref>.</p><p>The domain excludes settings where explicit theoretical frameworks become excluded as the basis for action. A practical implication of this exclusion means that highly emotional social settings, where rational action planning cannot be shared among the participants, will interfere with the learning from the research. The researcher must impose a clear, mutually agreed theoretical framework on the situation, in order for explicit, general lessons to emerge from the research.</p><p>The ideal domain of the action research method is characterized by a social setting where:</p><p>1. the researcher is actively involved, with expected benefit for both  <ref type="bibr" coords="12,199,69,350,34,190,53,11,22" target="#b3">[Baskerville and Wood-Harper, 1996]</ref>.</p><formula xml:id="formula_0" coords="11,122,74,629,58,56,02,11,20">researcher</formula></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISTINGUISHING ACTION RESEARCH FROM CONSULTING</head><p>Action research processes and typical organizational consulting processes contain substantial similarities because the main streams of both action research and consulting literature can be traced back to the work of Kurt</p><p>Lewin. Much of the scholarly work in management consulting is partly rooted in process consultation <ref type="bibr" coords="12,204,32,476,90,76,10,11,22" target="#b15">[Schein, 1969]</ref>. Schein borrowed heavily from Lewin's action research concepts, and the cycles are very similar. However, much of the literature that follows [e.g., <ref type="bibr" coords="12,238,10,517,33,63,27,11,22">Kubr, 1986;</ref><ref type="bibr" coords="12,307,25,517,33,129,14,11,22" target="#b13">Lippitt and Lippit, 1978]</ref> discards the iterative process in favor of the linear "engage-diagnosis-action-disengage" that Schein also allowed.</p><p>Action research and consulting differ in five key ways:</p><p>1. Motivation. Action research is motivated by its scientific prospects, perhaps epitomized in scientific publications. Consulting is motivated by commercial benefits, including profits and additional stocks of In summary, consultants are usually paid to dictate experienced, reliable solutions based on their independent review. Action researchers act out of scientific interest to help the organization itself to learn by formulating a series of experimental solutions based on an evolving, untested theory <ref type="bibr" coords="13,408,75,529,49,93,62,11,22" target="#b1">[Baskerville, 1997]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>IV. THE ACTION RESEARCH APPROACH</head><p>The most prevalent action research description <ref type="bibr" coords="13,389,03,602,17,119,34,11,22;13,87,69,622,39,23,49,11,22" target="#b16">[Susman and Evered, 1978</ref>] details a five phase, cyclical process. The approach first requires the establishment of a client-system infrastructure or research environment. Then, five identifiable phases are iterated:</p><p>(1) diagnosing,</p><p>(2) action planning, Investigating Information Systems with Action Research by Richard Baskerville</p><p>(3) action taking, (4) evaluating and</p><p>(5) specifying learning.</p><p>Figure <ref type="figure" coords="14,124,70,168,27,6,50,11,22" target="#fig_3">1</ref> illustrates this action research structural cycle. Each of these phases is reviewed below <ref type="bibr" coords="14,171,27,188,48,93,58,11,22" target="#b1">[Baskerville, 1997]</ref>. For example, the infrastructure will probably assume that the researchers will not purposely specify actions that are harmful to the organization.</p><p>A key aspect of the infrastructure is the collaborative nature of the undertaking. The research scientists work closely with practitioners who are located within the client-system. These individuals provide the subject system knowledge and insight necessary to understand the anomalies being studied: "For convenience it is useful to think of the practitioner as part of a set of actors who are oriented to solution of practical problems, who are essentially organizational scientists rather than academic scientists." <ref type="bibr" coords="15,181,34,330,00,99,09,11,22">[Clark, 1972, p. 65]</ref> Diagnosing Diagnosing corresponds to the identification of the primary problems that are the underlying causes of the organization's desire for change. Diagnosing involves self-interpretation of the complex organizational problem, not through reduction and simplification, but rather in a holistic fashion. This diagnosis will develop certain theoretical assumptions (i.e., a working hypothesis) about the nature of the organization and its problem domain.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Action Planning</head><p>Researchers and practitioners then collaborate in the next activity, action planning. This activity specifies organizational actions that should relieve or improve these primary problems. The discovery of the planned actions is guided by the theoretical framework, which indicates both some desired future state for the organization, and the changes that would achieve such a state. The plan establishes the target for change and the approach to change.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Action Taking</head><p>Action taking then implements the planned action. The researchers and practitioners collaborate in the active intervention into the client organization, causing certain changes to be made. Several forms of intervention strategy can Investigating Information Systems with Action Research by Richard Baskerville be adopted. For example, the intervention might be directive, in which the research "directs" the change, or non-directive, in which the change is sought indirectly. Intervention tactics can also be adopted, such as recruiting intelligent laypersons as change catalysts and pacemakers. The process can draw its steps from social psychology, e.g., engagement, unfreezing, learning and reframing.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Evaluating</head><p>After the actions are completed, the collaborative researchers and practitioners evaluate the outcomes. Evaluation includes determining whether the theoretical effects of the action were realized, and whether these effects relieved the problems. Where the change was successful, the evaluation must critically question whether the action undertaken, among the myriad routine and non-routine organizational actions, was the sole cause of success. Where the change was unsuccessful, some framework for the next iteration of the action research cycle (including adjusting the hypotheses) should be established.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Specifying Learning</head><p>While the activity of specifying learning is formally undertaken last, it is usually an ongoing process. The knowledge gained in the action research (whether the action was successful or unsuccessful) can be directed to three audiences:</p><p>• First, what <ref type="bibr" coords="16,201,45,513,71,137,58,11,22" target="#b0">Argyris and Schön [1978]</ref> call "double-loop learning," the restructuring of organizational norms to reflect the new knowledge gained by the organization during the research.</p><p>• Second, where the change was unsuccessful, the additional knowledge may provide foundations for diagnosing in preparation for further action research interventions.</p><p>• Finally, the success or failure of the theoretical framework provides important knowledge to the scientific community for dealing with future research settings. Investigating Information Systems with Action Research by Richard Baskerville</p><p>The action research cycle can continue, whether the action proved successful or not, to develop further knowledge about the organization and the validity of relevant theoretical frameworks. As a result of the studies, the organization thus learns more about its nature and environment, and the constellation of theoretical elements of the scientific community continues to benefit and evolve.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Participatory Action Research</head><p>The traditional action research approach described above has been extended into a form known as "participatory action research". An important change is the realignment of the roles of researcher and subject into more collaborative and synergistic forms. Formerly, responsibility for theorizing rested primarily on the shoulders of the researcher. In participatory action research, this responsibility is shared with client participants. In other words ". . . members of the organization we study are actively engaged in the quest for information and ideas to guide their future actions." <ref type="bibr" coords="17,293,89,391,12,132,71,11,22">[Whyte et al., 1991, p. 20]</ref>.</p><p>This increased client participation is a major change. The single most distinguishing characteristic that contrasts participatory action research from earlier forms is the "co-researcher status" that is accorded to the client participants <ref type="bibr" coords="17,153,15,471,99,148,62,11,22">[Elden and Chisholm, 1993]</ref>. Researchers and clients bring their own distinctive sets of theoretical knowledge into the action research process.</p><p>Action researchers bring their knowledge of action research and general information systems theories. Client participants bring situated, practical theory into the action research process. As a result, control over the social setting is realigned. The setting is free to self-reorganize rather than be artificially determined by the external researchers. In this way, participatory action research is based on assumptions that reality is situated <ref type="bibr" coords="17,385,58,613,51,122,73,11,22;17,87,69,633,73,29,37,11,22" target="#b5">[Berger and Luckmann, 1966]</ref> and social systems are self-referencing <ref type="bibr" coords="17,327,94,633,73,102,95,11,22" target="#b17">[von Foerster, 1984]</ref>. Participatory action research can be seen as being founded on more recent organizational philosophy.</p><p>In participatory action research, it is not necessary for researchers to extensively research theories surrounded the immediate problem setting in Investigating Information Systems with Action Research by Richard Baskerville anticipation of action planning. It is assumed that the researcher cannot acquire the depth of understanding that client professionals will have already achieved through years of living within the social context under study. An indirect effect of the full collaboration of all participants is that participatory action research extends the social scope of action research. This extension has been noted</p><p>both in studies beyond the level of a single production unit or plant, and in studies beyond the Anglo-American culture <ref type="bibr" coords="18,314,52,228,92,142,09,11,22">[Elden and Chisholm, 1993]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>STRATEGIES FOR ACTION RESEARCH</head><p>Seven key strategies in conducting action research are known to improve the rigor and contribution of the research <ref type="bibr" coords="18,309,23,294,83,193,65,11,22" target="#b3">[Baskerville and Wood-Harper, 1996]</ref>.</p><p>Each of these is described below.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Consider The Paradigm Shift</head><p>Since action research does not occur in the traditional positivist philosophy of science and has a domain of ideal research questions, be sure that action research is appropriate for the research question and will be of interest to an audience that accepts post-positivist learning.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Establish A Formal Research Agreement</head><p>Ensure the human subjects of the study give "informed consent". Some human subjects research review boards might view the conduct of action research disguised as consulting as an unethical practice. The consent and disclosure agreement is only part of the client-system infrastructure. The researcher should also clearly arrange for the "warrants" that will authorize the research team to initiate action within the organization.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Provide A Theoretical Problem Statement</head><p>The theoretical framework must be present as a premise, otherwise the intervention action is no longer valid as research. The diagnosis document should include explicit theoretical foundations. As the research progresses, the emergence of theory should be recorded carefully in the research notebooks. Investigating Information Systems with Action Research by Richard Baskerville</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Plan Data Collection Methods</head><p>Action research is empirical, though the collected data is typically qualitative and interpretive. Data can be collected through audio-taped observations, interviews, action experiments and participant-written cases.</p><p>Action experiments entail discussions with subjects "on the spot" during action taking, while participant-written cases are the written recollections of the subject following action taking <ref type="bibr" coords="19,211,05,249,60,107,83,11,22" target="#b0">[Argyris et al., 1985]</ref>. Researchers or teams may also keep structured diaries <ref type="bibr" coords="19,213,79,269,82,107,82,11,22" target="#b8">[Jepsen et al., 1989]</ref>. Carefully design and specify the data collection techniques clearly when setting up research infrastructure and revisit this issue when planning action.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Maintain Collaboration And Subject Learning</head><p>Action research requires careful preservation of collaboration with subjects. Particularly for participatory action research, the subjects will have key knowledge, both of theory and the practical setting, that is critical to the discovery of important aspects of the theory under test. Avoid dominating the diagnosis and action planning phases (i.e., assuming the authoritative role of the external consultant).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PROMOTE ITERATIONS</head><p>Action research is also typically cyclical. Action failures (in terms of the immediate problem situation) are as important as, perhaps more important than, action successes. Action should continue until the immediate problem situation is relieved. Actions that relieve an immediate problem setting are powerful evidence of the practical effectiveness of an underlying theory.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Generalize Accordingly</head><p>The generality of theories developed in action are founded in deductive generalizations <ref type="bibr" coords="19,172,98,639,92,149,29,11,22">[Baskerville and Lee, 1999]</ref>. This type of generalizability is shared with laboratory experiments. General statements cannot be made on the basis of the number of observations (a statistical notion), but rather on a representative sample of one.</p><p>Generalities must be tempered with an Investigating Information Systems with Action Research by Richard Baskerville interpretation of the extent of similar settings to which the theory can be expected to apply.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>V. ACTION RESEARCH IN ACTION</head><p>As an example of this kind of research, we will expand the details of a published IS action research project that regarded semantic database prototyping <ref type="bibr" coords="20,152,07,241,42,93,52,11,22">[Baskerville, 1993]</ref>. The research setting involved two organizations:</p><p>the special projects division of a consortium of universities, and a military-related government organization. The immediate problem situation regarded the failure to complete a systems analysis. The government organization had undergone two rather unhappy and failed attempts at analysis of their information requirements. A complicated data base and analysis requirement had befuddled two earlier teams. These failures complicated further requirements analysis, because the users had grown hostile and suspicious of analysts and designers.</p><p>The government approached the consortium because it appeared that the IS design problems were practically unsolvable.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PROJECT INFRASTRUCTURE</head><p>The consortium tasked their special projects division with the problem.</p><p>This division contacted an information systems action researcher within the consortium universities. The researcher had worked with this division on earlier projects. Working with the researcher, the division formed a team. The team included an experienced team leader from the consortium with a strong practical background in the application area: logistics and information systems. The team also included an analyst, also with a strong background in the specific setting (a procurement system). The researcher was the single academic on the team, commissioned as an action researcher with the title "scientific advisor".</p><p>Later the team expanded to include a programmer and a second analyst.</p><p>Figure <ref type="figure" coords="20,160,53,671,24,6,50,11,22">2</ref> is a rich picture of the action research team formation. It may seem that a more ideal formulation of the research team would have included participants from the target system (see Figure <ref type="figure" coords="20,342,25,711,67,4,55,11,22">3</ref>). The decision was taken by Investigating Information Systems with Action Research by Richard Baskerville the team not to include participants from the government organization, but rather enroll all team participants from the consortium. This was done because of the particular social setting, one in which the potential government participants were extremely occupied with a heavy workload, and frustrated and demoralized by earlier attempts at resolving the immediate problem. These users were instead viewed as customers, and the action research problem setting focused instead on the consortium's projects division. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTERVENTION DIAGNOSIS</head><p>The initial diagnosis discovered that the early projects were defeated by the large set of data classes, the large volume of data, and the high degree of volatility in the organizational environment. The team closely attended the need for highly flexible applications, and turned to information engineering theory.</p><p>According to this theory, such organizations should center their requirements on the data model, because of the inherent stability of the data relationships compared to the volatility of processes.</p><p>However, the team realized that there were practical problems with the adoption of information engineering. First, there were no trained, experienced database designers available, and database design is rather esoteric in nature. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>FURTHER INITIAL DIAGNOSIS</head><p>As a result, the team focused on the lack of interactive user validation of database designs, turning to prototyping theory. According to this theory, successful systems development through prototyping should lead to:</p><p>• immediate artifacts that would gratify management's need for prompt,</p><p>• visible results,</p><p>• build the study team's database design experience,</p><p>• constantly and interactively validate specifications under the acute realities of user reviews,</p><p>• improve user-designer communications,</p><p>• lead to shared understanding,</p><p>• increase user participation in the design process, and</p><p>• heighten the initial acceptance and effectiveness of a new system.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ACTION PLANNING</head><p>The action plan was to apply prototyping (normally a vehicle for application development) solely for the purposes of database design. This process included a formal group and individual interview process, prespecification standards for prototype components, video screen prototypes, printed report prototypes, and a parallel application prototyping cycle. The latter was to help the users distinguish between the data prototypes and future application prototypes Investigating Information Systems with Action Research by Richard Baskerville</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ACTION TAKING</head><p>The team acquired hardware and software, and implemented the action as a group. They began rapid, brief interviews with the users, and started an initial rapid prototyping cycle of the database design.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>OUTCOME</head><p>The initial outcome met with only mixed success. The organizations' management and users were positively impressed, intrigued, and motivated to pursue the proposed development approach. Their future participation was achieved. However, the technical process was less successful. There was an Herculean design and programming effort. The deadline effect as the promised prototype demonstration date approached was crushing. The programmers found that the specification for the prototype was largely a moving target that was impossible to achieve or track. Indeed the programmers were threatening to quit. In addition, process-oriented features infected the database specification as a result of user preoccupation with process.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>SPECIFYING FIRST CYCLE LEARNING</head><p>The prototypes were called a "success" because they revealed the design feasibility, created user enthusiasm because of their control over system design elements, and the rapid progress pleased management. However the prototypes were called "unsuccessful" because of the programming workload that was impossible to sustain, the complex and volatile specification, and the infection of process into the data design. The development process could not be continued in its initial form to project completion. Some further adjustments were necessary.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ADJUSTING THEORY</head><p>In subsequent cycles, the team introduced semantic database theory into the process. Programming rules replaced functional specifications. These rules defined how the relationships and constraints illustrated in a data model should appear in data manipulation screens. As a result, only the entity-relationship diagram was retained as the prototype specification and medium of analyst-Investigating Information Systems with Action Research by Richard Baskerville programmer communication. This change eliminated algorithms from the specification, relieved the deadline effect, and mechanically prevented the infection of process into the data design. In addition, the team decided to drop the complicated report programs in favor of a few simple listings (the users had ignored these), eliminated group interviews (little value was added by group interviews to the information gleaned from the individual interviews), and eliminated the parallel application prototype development (this parallel effort only seemed to confuse the users).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Theory Emergence</head><p>The need to adjust the theory shows how theory emerges through iterations of action research cycles. The initial theoretical focus was on software engineering and socio-technical participation. However, as action revealed more and more about the nature of the problem setting, the team developed theory in the direction of user-designer semantics. The resulting theoretical contribution: use of prototypes for capturing semantic database design, proved significant to the field [see <ref type="bibr" coords="25,158,52,411,34,89,48,11,22">Baskerville, 1993</ref> for complete details of the scholarly contribution].</p><p>In addition, the immediate problem setting was resolved, and the data analysis project was completed, accepted by the government, and over the following years was used successfully as the infrastructure for application development.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>VI. LIMITATIONS OF ACTION RESEARCH</head><p>Action research is not without its problems for the researcher. In the Editor's note: This tutorial was received on September 9, 1999 and was published on October 9, 1999.</p><p>The article is based on a tutorial presented at the AMCIS meeting in Milwaukee, Wisconsin on August 13, 1999.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0" coords="8,87,69,532,17,420,66,11,22;8,87,69,552,39,420,57,11,22;8,87,69,572,61,193,11,11,22"><head></head><label></label><figDesc>Mumford and Checkland, Wood-Harper also incorporated action research concepts into an action-based systems development methodology called Multiview[Wood-Harper et al., 1985].</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1" coords="8,87,69,673,69,420,65,11,22;8,87,69,693,91,420,62,11,22;8,87,69,714,13,420,65,11,22;9,87,69,761,20,374,48,10,32;9,87,69,107,62,420,74,11,22;9,87,69,127,83,420,72,11,22;9,87,69,148,05,88,77,11,22;9,87,69,174,51,177,92,11,21;9,122,74,193,74,385,60,11,22;9,87,69,213,96,420,59,11,22;9,87,69,234,18,420,80,11,22;9,87,69,254,39,420,71,11,22;9,87,69,274,61,420,67,11,22;9,87,69,294,83,272,59,11,22"><head></head><label></label><figDesc>Argyris observed that, during the post-war development of action research, it gradually became separated from theory building and testing. The method became further corrupted by positivist attempts to introduce the rigor of more Investigating Information Systems with Action Research by Richard Baskerville traditional scientific experiments into action research projects. The effect of this rigor too often disconnected theory from reality, making the research results largely irrelevant. FORMS OF ACTION RESEARCH Action research refers to a class of research approaches, rather than a single, monolithic research method. As a class, the various forms of action research share some agreed characteristics, and these characteristics distinguish action research from other approaches to social enquiry. A careful survey of the action research literature finds widespread agreement by action research authorities on four common characteristics:</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2" coords="12,140,27,664,69,341,12,11,22;13,87,69,761,20,374,48,10,32;13,122,74,107,62,385,60,11,22;13,140,27,127,83,368,04,11,22;13,140,27,148,05,360,18,11,22;13,122,74,174,11,385,67,11,22;13,140,27,194,33,368,08,11,22;13,140,27,214,54,368,05,11,22;13,140,27,234,76,127,52,11,22;13,122,74,260,82,385,54,11,22;13,140,27,281,04,368,11,11,22;13,140,27,301,25,368,12,11,22;13,140,27,321,47,52,74,11,22;13,122,74,347,53,385,64,11,22;13,140,27,367,75,368,02,11,22;13,140,27,387,97,368,08,11,22;13,140,27,408,18,368,07,11,22;13,140,27,428,40,170,88,11,22"><head></head><label></label><figDesc>proprietary knowledge about solutions to organizational problems. Investigating Information Systems with Action Research by Richard Baskerville 2. Commitment. Action research makes a commitment to the research community for the production of scientific knowledge, as well as to the client. In a consulting situation, the commitment is to the client alone. 3. Approach. Collaboration is essential in action research because of its idiographic assumptions. Consulting typically values its "outsider's," unbiased viewpoint, providing an objective perspective on the organizational problems. 4. Foundation for recommendations. In action research, this foundation is a theoretical framework. Consultants are expected to suggest solutions that, in their experience, proved successful in similar situations. 5. Essence of the organizational understanding. In action research, organizational understanding is founded on practical success from iterative experimental changes in the organization. Typical consultation teams develop an understanding through their independent critical analysis of the problem situation.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3" coords="14,202,33,526,68,191,35,11,22;14,87,69,547,30,157,00,11,21;14,122,74,567,51,385,49,10,77;14,87,69,586,79,420,62,10,77;14,87,69,606,08,420,65,10,77;14,87,69,625,36,420,63,10,77;14,87,69,644,64,420,72,10,77;14,87,69,663,92,420,66,10,77;14,87,69,683,28,420,64,11,22;14,87,69,703,49,420,75,11,22"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. The Action Research CycleClient-System InfrastructureThe client-system infrastructure is the specification and agreement that constitutes the research environment. It provides the authority, or sanctions, under which the researchers and host practitioners may specify actions. It also legitimates those actions with the express expectation that eventually these will prove beneficial to the client or host organization. Considerations found within the agreement may include the boundaries of the research domain, and the entry and exit of the scientists. It may also patently recognize the latitude of the researchers to disseminate the learning that is gained in the research. This infrastructure should</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4" coords="21,201,39,618,65,228,14,11,22"><head>Figure</head><label></label><figDesc>Figure 2. Action Research Team Formation</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5" coords="22,248,49,165,09,81,89,15,48;22,248,49,181,92,13,37,15,48;22,248,49,198,87,82,49,15,48;22,259,47,228,43,57,96,15,48;22,259,47,245,38,55,93,15,48;22,300,49,324,96,44,49,15,48;22,300,49,341,79,68,56,15,48;22,300,49,358,73,40,91,15,48;22,157,10,389,58,82,72,15,48;22,417,71,230,65,46,33,15,48;22,417,71,247,48,53,17,15,48;23,87,69,761,20,374,48,10,32;23,87,69,107,62,420,51,11,22;23,87,69,127,83,420,72,11,22;23,87,69,148,05,420,67,11,22;23,87,69,168,27,420,59,11,22;23,87,69,188,48,420,79,11,22;23,87,69,208,70,420,74,11,22;23,87,69,228,92,420,68,11,22;23,87,69,249,13,420,72,11,22;23,87,69,269,35,105,00,11,22"><head></head><label></label><figDesc>Systems with Action Research by Richard BaskervilleHigher government or consortium management was not committed because of the earlier failures. Information engineering requires a large interval of initial database analysis, which would not prove acceptable to either organization.Relief from neither problem was predicted by the team. Management of both organizations wanted quick, measurable, and highly visible results. The inability of previous database specialists to communicate with the users had created user alienation. Further, a tight budget and the temporary nature of the project prevented assimilation of database specialists into the team, or extended training of the existing team.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6" coords="25,87,69,579,27,420,60,11,22;25,87,69,599,49,420,59,11,22;25,87,69,619,70,420,71,11,22;25,87,69,639,92,420,62,11,22;25,87,69,660,14,420,75,11,22;25,87,69,680,35,420,71,11,22;25,87,69,700,57,185,05,11,22;26,87,69,761,20,374,48,10,32;26,122,74,107,62,385,57,11,22;26,87,69,127,83,420,73,11,22;26,87,69,148,05,420,64,11,22;26,87,69,168,27,420,78,11,22;26,87,69,188,48,420,65,11,22;26,87,69,208,70,420,78,11,22;26,87,69,228,92,420,62,11,22;26,87,69,249,13,420,66,11,22;26,87,69,269,35,420,69,11,22;26,87,69,289,57,420,59,11,22;26,87,69,309,79,420,62,11,22;26,87,69,330,00,262,48,11,22;26,122,74,350,22,385,71,11,22;26,87,69,370,44,420,53,11,22;26,87,69,390,65,420,65,11,22;26,87,69,410,87,420,75,11,22;26,87,69,431,09,420,66,11,22;26,87,69,451,31,420,67,11,22;26,87,69,471,52,420,75,11,22;26,87,69,491,74,420,64,11,22;26,87,69,511,96,420,58,11,22;26,87,69,532,17,420,67,11,22;26,87,69,552,39,420,74,11,22;26,87,69,572,61,420,61,11,22;26,87,69,592,83,420,66,11,22;26,87,69,613,04,420,83,11,22;26,87,69,633,26,99,13,11,22;26,122,74,653,48,385,64,11,22;26,87,69,673,69,420,55,11,22;26,87,69,693,91,420,61,11,22;26,87,69,714,13,420,64,11,22;27,87,69,761,20,374,48,10,32;27,87,69,107,62,420,69,11,22;27,87,69,127,83,420,71,11,22;27,87,69,148,05,420,79,11,22;27,87,69,168,27,261,83,11,22"><head></head><label></label><figDesc>constellations of available information system research methods, action research is among the more qualitative approaches. It is parked solidly outside of valid positivist techniques. Its qualitative and interpretive foundations make journallength articles difficult. The lack of generally agreed criteria for evaluating action research further complicates the publication review process. These constraints make the approach a difficult choice for academics tied tightly into the journal system of scholarly communication. Investigating Information Systems with Action Research by Richard BaskervilleThe research intentionally seeks to achieve valuable goals for the research subjects, and is popular among consultants as a technique for organizational development. As a result, action research "looks like" consulting. Financial research support from the client is common, and these payments only serve to further cloud the distinctions between the two domains. Indeed, a scholar who consults as a sideline may see a research opportunity in their consultancy setting. Both ethical and professional problems ensue. For example, researchers who do not carefully explain their research orientation may mislead clients who are expecting consulting-type performance, creating an ethical breech regarding informed consent. Professionally, researchers may become to embroiled in the problem setting, and lose contact with their obligations to develop general knowledge about related theories. The action research collaborative framework diminishes the researcher's ability to control the process and the outcomes of the research. The lack of control makes it difficult to apply action research as an instrument in an orchestrated research program. Practitioners with serious problems typically drive the venue for action research. Scholars are not as free to "pick and choose" the problem they wish to investigate. This initiation problem makes action researchers appear opportunistic in their research programs. Further exacerbating this control issue, participatory action research empowers client members of the research team with partial control over theoretical developments. A researcher who does manage to find a problem suitable to their predefined research program may find that the theoretical emergence twists the research in an entirely different direction. Keeping their ethical responsibility to the client and their problem setting in the fore means that the researchers cannot merely walk away from an unfinished project simply because they lost interest in the shifting theoretical domain. Despite these problems, action research responds directly to the pronounced needs for relevance in information systems research, and provides a rewarding experience for researchers who want to work closely with the practitioner community. It can be used in many research modes, both to Investigating Information Systems with Action Research by Richard Baskerville generate new theory and to reinforce or contradict existing theory. It can be combined with other research methods for diversifying a research program. Participatory action research also enriches the research community by drawing researcher-practitioners into the research process.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4" coords="11,105,22,629,52,403,23,98,16"><head></head><label></label><figDesc>and organization, 2. the knowledge obtained can be immediately applied, there is not the sense of the detached observer, but that of an active participant wishing to utilize any new knowledge based on an explicit, clear conceptual framework, Investigating Information Systems with Action Research by Richard Baskerville 3. the research is a (typically cyclical) process linking theory and practice<ref type="bibr" coords="12,122,74,127,95,190,46,11,22" target="#b3">[Baskerville and Wood-Harper, 1996]</ref>.</figDesc><table coords="12,87,69,168,38,420,72,112,30"><row><cell>One clear area of importance in the ideal domain of action research is</cell></row><row><cell>new or changed systems development methodologies. Studying new or</cell></row><row><cell>changed methodologies implicitly involves the introduction of such changes, and</cell></row><row><cell>is necessarily interventionist. From a social-organizational viewpoint, the study</cell></row><row><cell>of a newly invented technique is impossible without intervening in some way to</cell></row><row><cell>inject the new technique into the practitioner environment, i.e., "go into the world</cell></row></table><note>and try them out"[Land as quoted in Wood-Harper, 1989]. Action research is one of the few valid research approaches that we can legitimately employ to study the effects of specific alterations in systems development methodologies in human organizations</note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_0">Two characteristics, a cyclical nature and an ethical framework, are excluded in this adaptation.</note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ABOUT THE AUTHOR</head></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct coords="27,122,74,275,19,385,59,11,26;27,87,69,295,53,420,79,11,26;27,87,69,315,86,29,30,11,22;27,122,74,336,08,385,59,11,26;27,87,69,356,41,266,17,11,26;27,122,74,376,75,385,59,11,22;27,87,69,396,96,420,68,11,26;27,87,69,417,30,193,95,11,22;27,122,74,437,52,385,62,11,26;27,87,69,457,85,209,71,11,26" xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Participatory Action Research and Action Science Compared: A Commentary</title>
+		<author>
+			<persName><forename type="first">Chris</forename><surname>Argyris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Donald</forename><surname>Schön</surname></persName>
+		</author>
+		<idno type="DOI">10.4135/9781412985383.n6</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Participatory Action Research</title>
+				<editor>
+			<persName><forename type="first">W</forename><forename type="middle">F</forename><surname>Whyte</surname></persName>
+		</editor>
+		<meeting><address><addrLine>San Francisco, CA; Reading, MA; Newbury Park, N.J.; Baskerville, R.</addrLine></address></meeting>
+		<imprint>
+			<publisher>SAGE Publications, Inc.</publisher>
+			<date type="published" when="1978">1985. 1978. 1991. 1993</date>
+			<biblScope unit="page" from="85" to="96" />
+		</imprint>
+	</monogr>
+	<note>Semantic Database Prototypes. 3) 2</note>
+</biblStruct>
+
+<biblStruct coords="27,122,74,478,18,385,60,11,22;27,87,69,498,40,420,74,11,26;27,87,69,518,73,16,34,11,22;27,122,74,538,95,385,53,11,22;27,87,69,559,17,420,72,11,22" xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Distinguishing action research from participative case studies</title>
+		<author>
+			<persName coords=""><forename type="first">Richard</forename><forename type="middle">L</forename><surname>Baskerville</surname></persName>
+		</author>
+		<idno type="DOI">10.1108/13287269780000733</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Systems and Information Technology</title>
+		<editor>O. Ngwenyama et al.,</editor>
+		<idno type="ISSN">1328-7265</idno>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="24" to="43" />
+			<date type="published" when="1997-03-01">1997. 1999</date>
+			<publisher>Emerald</publisher>
+		</imprint>
+	</monogr>
+	<note>Distinguishing Action Research From Participative Case Studies</note>
+</biblStruct>
+
+<biblStruct coords="27,87,69,579,45,420,75,11,20;27,87,69,599,72,390,12,11,26;27,122,74,620,05,385,66,11,22;27,87,69,640,27,420,66,11,26;27,87,69,660,60,196,19,11,26" xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Grounded action research: a method for understanding IT in practice</title>
+		<author>
+			<persName><forename type="first">Richard</forename><surname>Baskerville</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jan</forename><surname>Pries-Heje</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0959-8022(98)00017-4</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Accounting, Management and Information Technologies</title>
+		<title level="j" type="abbrev">Accounting, Management and Information Technologies</title>
+		<editor>Baskerville, R. and J. Pries-Heje.</editor>
+		<idno type="ISSN">0959-8022</idno>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="23" />
+			<date type="published" when="1999-01">1999</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,87,69,761,20,374,48,10,32;28,122,74,107,62,385,61,11,22;28,87,69,127,83,420,68,11,26;28,87,69,148,17,232,15,11,26" xml:id="b3">
+	<analytic>
+		<title level="a" type="main">A Critical Perspective on Action Research as a Method for Information Systems Research</title>
+		<author>
+			<persName coords=""><forename type="first">Richard</forename><surname>Baskerville Baskerville</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><forename type="middle">T</forename><surname>Wood-Harper</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Information Technology</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="235" to="246" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note>Investigating Information Systems with Action Research by</note>
+</biblStruct>
+
+<biblStruct coords="28,122,74,168,50,385,51,11,22;28,87,69,188,72,420,68,11,26;28,87,69,209,05,90,04,11,22" xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Diversity in information systems action research methods</title>
+		<author>
+			<persName coords=""><forename type="first">R</forename><surname>Baskerville</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><forename type="middle">T</forename><surname>Wood-Harper</surname></persName>
+		</author>
+		<idno type="DOI">10.1057/palgrave.ejis.3000298</idno>
+	</analytic>
+	<monogr>
+		<title level="j">European Journal of Information Systems</title>
+		<title level="j" type="abbrev">European Journal of Information Systems</title>
+		<idno type="ISSN">0960-085X</idno>
+		<idno type="ISSNe">1476-9344</idno>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="90" to="107" />
+			<date type="published" when="1998-06">1998</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,122,74,229,27,385,60,11,26;28,87,69,249,60,343,41,11,26;28,122,74,269,94,385,62,11,26;28,87,69,290,27,125,23,11,26" xml:id="b5">
+	<analytic>
+		<title level="a" type="main">FROM THE SOCIAL CONSTRUCTION OF REALITY:</title>
+		<author>
+			<persName><forename type="first">Peter</forename><forename type="middle">L</forename><surname>Berger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Thomas</forename><surname>Luckmann</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/j.ctv1f886rp.22</idno>
+	</analytic>
+	<monogr>
+		<title level="m">The New Economic Sociology</title>
+				<meeting><address><addrLine>New York; Blum, F.</addrLine></address></meeting>
+		<imprint>
+			<publisher>Princeton University Press</publisher>
+			<date type="published" when="1955">1966. 1955</date>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="496" to="517" />
+		</imprint>
+	</monogr>
+	<note>Action research--A scientific approach?</note>
+</biblStruct>
+
+<biblStruct coords="28,122,74,310,60,385,62,11,26;28,87,69,330,94,67,42,11,22;28,122,74,351,15,385,57,11,26;28,87,69,371,49,405,49,11,26;28,122,74,391,82,385,59,11,26;28,87,69,412,16,178,82,11,26;28,122,74,432,49,385,60,11,26;28,87,69,452,82,76,66,11,22;28,122,74,473,04,385,54,11,22;28,87,69,493,26,420,74,11,26;28,87,69,513,59,22,87,11,22;28,122,74,533,81,385,64,11,26;28,87,69,554,14,138,31,11,26" xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Emerging Varieties of Action Research: Introduction to the Special Issue</title>
+		<author>
+			<persName coords=""><forename type="first">P</forename><surname>Checkland</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Systems</forename><surname>Systems Thinking</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><surname>Practice</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">U</forename><forename type="middle">K</forename><surname>Chichester</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Wiley</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename><surname>Checkland</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Holwell</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename><surname>Checkland</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Scholes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Action Research and Organizational Change</title>
+		<editor>Harper &amp; Row. Elden, M. and R. F. Chisholm.</editor>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">46</biblScope>
+			<biblScope unit="page" from="799" to="827" />
+			<date type="published" when="1972">1981. 1998. 1990. 1972. 1993. 1979</date>
+			<publisher>John Wiley</publisher>
+		</imprint>
+	</monogr>
+	<note>Sociological Review</note>
+</biblStruct>
+
+<biblStruct coords="28,122,74,574,48,385,57,11,22;28,87,69,594,69,420,68,11,26;28,87,69,615,03,46,36,11,22" xml:id="b7">
+	<analytic>
+		<title level="a" type="main">TOWARDS A DEFINITION OF ACTION RESEARCH: A NOTE AND BIBLIOGRAPHY</title>
+		<author>
+			<persName><forename type="first">Margareta</forename><surname>Hult</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sven-Åke</forename><surname>Lennung</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1467-6486.1980.tb00087.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Management Studies</title>
+		<title level="j" type="abbrev">J Management Studies</title>
+		<idno type="ISSN">0022-2380</idno>
+		<idno type="ISSNe">1467-6486</idno>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="241" to="250" />
+			<date type="published" when="1980-05">1980</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,122,74,635,25,385,66,11,22;28,87,69,655,46,420,61,11,22;28,87,69,675,68,360,58,11,26" xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Back to thinking mode: diaries for the management of information systems development projects</title>
+		<author>
+			<persName><forename type="first">Leif</forename><forename type="middle">Obel</forename><surname>Jepsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lars</forename><surname>Mathiassen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Peter</forename><forename type="middle">Axel</forename><surname>Nielsen</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/01449298908914552</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Behaviour &amp; Information Technology</title>
+		<title level="j" type="abbrev">Behaviour &amp; Information Technology</title>
+		<idno type="ISSN">0144-929X</idno>
+		<idno type="ISSNe">1362-3001</idno>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="207" to="217" />
+			<date type="published" when="1989-06">1989</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,122,74,696,01,385,66,11,22" xml:id="b9">
+	<analytic>
+		<title level="a" type="main">The Critique of Pure Reason Itself</title>
+		<author>
+			<persName coords=""><forename type="first">I</forename><surname>Kant</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/j.ctv47w495.9</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Immanuel Kant</title>
+				<editor>
+			<persName><forename type="first">B</forename><surname>Rand</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Northwestern University Press</publisher>
+			<date type="published" when="1908">1908</date>
+			<biblScope unit="page" from="63" to="88" />
+		</imprint>
+	</monogr>
+	<note>(ed.</note>
+</biblStruct>
+
+<biblStruct coords="28,87,69,716,23,412,56,11,26;29,87,69,761,20,374,48,10,32;29,122,74,107,62,385,61,11,22;29,87,69,127,83,420,66,11,22;29,87,69,148,05,420,73,11,26;29,87,69,168,38,387,21,11,26;29,122,74,188,72,385,55,11,26" xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Investigating Information Systems with Action Research</title>
+		<author>
+			<persName><forename type="first">Richard</forename><forename type="middle">L</forename><surname>Baskerville</surname></persName>
+		</author>
+		<idno type="DOI">10.17705/1cais.00219</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Communications of the Association for Information Systems</title>
+		<title level="j" type="abbrev">CAIS</title>
+		<editor>H.-E. Nissen, H. Klein, and R. Hirschheim</editor>
+		<idno type="ISSNe">1529-3181</idno>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="27" to="49" />
+			<date type="published" when="1986">1991. 1986</date>
+			<publisher>Association for Information Systems</publisher>
+		</imprint>
+	</monogr>
+	<note>Investigating Information Systems with Action Research by. Management Consulting: A Guide to the Profession 2nd</note>
+</biblStruct>
+
+<biblStruct coords="29,87,69,209,05,213,55,11,26;29,122,74,229,38,385,61,11,22;29,87,69,249,60,420,66,11,26;29,87,69,269,94,376,89,11,26;29,122,74,290,27,385,62,11,26;29,87,69,310,60,46,36,11,22" xml:id="b11">
+	<analytic>
+		<title level="a" type="main">A Review On The Use of Action Research in Information Systems Studies</title>
+		<author>
+			<persName coords=""><forename type="first">Ed</forename><surname>Geneva</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Information Systems and Qualitative Research</title>
+				<editor>
+			<persName><forename type="first">K</forename><surname>Lewin</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Chapman &amp; Hall</publisher>
+			<date type="published" when="1947">1997. 1947a</date>
+			<biblScope unit="page" from="5" to="41" />
+		</imprint>
+	</monogr>
+	<note>Human Relations</note>
+</biblStruct>
+
+<biblStruct coords="29,122,74,330,82,385,68,11,26;29,87,69,351,15,79,07,11,22" xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Frontiers in Group Dynamics</title>
+		<author>
+			<persName coords=""><forename type="first">Kurt</forename><surname>Lewin</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/001872674700100201</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Human Relations</title>
+		<title level="j" type="abbrev">Human Relations</title>
+		<idno type="ISSN">0018-7267</idno>
+		<idno type="ISSNe">1741-282X</idno>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="143" to="153" />
+			<date type="published" when="1947-11">1947b</date>
+			<publisher>SAGE Publications</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="29,122,74,371,37,385,60,11,26;29,87,69,391,71,174,11,11,22;29,122,74,411,92,385,59,11,26;29,87,69,432,26,282,21,11,26;29,122,74,452,59,385,58,11,22;29,87,69,472,81,367,82,11,26;29,122,74,493,14,385,59,11,26;29,87,69,513,48,158,52,11,26" xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Computer Systems Work Design: The ETHICS Method</title>
+		<author>
+			<persName coords=""><forename type="first">G</forename><surname>Lippitt</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><surname>Lippit</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">E</forename><surname>Mumford</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">Weir</forename><surname>Peters</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">V</forename><surname>Robinson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Consulting Process In Action</title>
+				<meeting><address><addrLine>San Diego, CA; London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Associated Business Press</publisher>
+			<date type="published" when="1970">1978. 1979. 1984. 1970</date>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="499" to="513" />
+		</imprint>
+	</monogr>
+	<note>Human Relations</note>
+</biblStruct>
+
+<biblStruct coords="29,122,74,533,81,385,58,11,22;29,87,69,554,03,420,68,11,26;29,87,69,574,36,156,28,11,22" xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Whatever Happened to Action Research?</title>
+		<author>
+			<persName coords=""><forename type="first">Nevitt</forename><surname>Sanford</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-1-4613-4262-5_3</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Experimenting with Organizational Life</title>
+				<editor>
+			<persName><forename type="first">A</forename><surname>Clark</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer US</publisher>
+			<date type="published" when="1976">1976</date>
+			<biblScope unit="page" from="19" to="32" />
+		</imprint>
+	</monogr>
+	<note>Whatever Happened to Action Research</note>
+</biblStruct>
+
+<biblStruct coords="29,122,74,594,58,385,62,11,26;29,87,69,614,91,238,00,11,26" xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Process Consultation: Its Role in Organizational Development</title>
+		<author>
+			<persName coords=""><forename type="first">E</forename><surname>Schein</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1969">1969</date>
+			<publisher>Addison-Wesley</publisher>
+			<pubPlace>Reading, MA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="29,122,74,635,25,385,67,11,22;29,87,69,655,46,420,74,11,26;29,87,69,675,80,22,87,11,22;30,87,69,761,20,374,48,10,32;30,122,74,107,62,385,68,11,22" xml:id="b16">
+	<analytic>
+		<title level="a" type="main">An Assessment of the Scientific Merits of Action Research</title>
+		<author>
+			<persName><forename type="first">Gerald</forename><forename type="middle">I</forename><surname>Susman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Roger</forename><forename type="middle">D</forename><surname>Evered</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/2392581</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Administrative Science Quarterly</title>
+		<title level="j" type="abbrev">Administrative Science Quarterly</title>
+		<editor>A. Clark,</editor>
+		<idno type="ISSN">0001-8392</idno>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">582</biblScope>
+			<date type="published" when="1976">1978. 1976</date>
+			<publisher>JSTOR</publisher>
+		</imprint>
+	</monogr>
+	<note>Engaging with Large-scale Systems. (ed.</note>
+</biblStruct>
+
+<biblStruct coords="30,87,69,127,83,420,86,11,26;30,87,69,148,17,129,76,11,22;30,122,74,168,38,385,65,11,22;30,87,69,188,60,420,62,11,26;30,87,69,208,99,420,68,11,20;30,87,69,229,27,171,12,11,22;30,122,74,249,49,385,69,11,22;30,87,69,269,70,278,92,11,26;30,122,74,290,04,385,72,11,22;30,87,69,310,25,420,73,11,26;30,87,69,330,59,365,17,11,22;30,122,74,350,80,385,62,11,22;30,87,69,371,02,420,73,11,22;30,87,69,391,24,377,64,11,26;30,122,74,411,57,385,58,11,22;30,87,69,431,79,420,68,11,26;30,87,69,452,12,324,43,11,26;30,122,74,472,46,385,51,11,22;30,87,69,492,67,420,62,11,22;30,87,69,512,89,106,19,11,22;30,122,74,533,11,385,66,11,26;30,87,69,553,44,334,23,11,26" xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Comparison of Information Systems Definition Methodologies: An Action Research Multiview Perspective</title>
+		<author>
+			<persName coords=""><forename type="first">H</forename><surname>Von Foerster</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">L. Antill and D. E. Avison.</orgName>
+			</affiliation>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><forename type="middle">D</forename><surname>Westfall</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">L. Antill and D. E. Avison.</orgName>
+			</affiliation>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">W</forename><forename type="middle">F</forename><surname>Whyte</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">L. Antill and D. E. Avison.</orgName>
+			</affiliation>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">D</forename><forename type="middle">J</forename><surname>Greenwood</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">L. Antill and D. E. Avison.</orgName>
+			</affiliation>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename><surname>Lazes</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">L. Antill and D. E. Avison.</orgName>
+			</affiliation>
+		</author>
+		<ptr target="http://cais.isworld.org/contents.asp" />
+	</analytic>
+	<monogr>
+		<title level="m">Self-Organization and Management of Social Systems: Insights, Promises, Doubts and Questions</title>
+				<editor>
+			<persName><forename type="first">E</forename><surname>Mumford</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York; Berlin; Warmington, A.; Newbury Park, CA; Amsterdam; Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Blackwell Scientific</publisher>
+			<date type="published" when="1980">1984. 1980. 1999. September. 30 September 1999. 1991. 1985. 1989. 1985</date>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="169" to="191" />
+		</imprint>
+		<respStmt>
+			<orgName>University of East Anglia Ph.D. Thesis. Wood-Harper,</orgName>
+		</respStmt>
+	</monogr>
+	<note>Information Systems Definition: The Multiview Approach</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

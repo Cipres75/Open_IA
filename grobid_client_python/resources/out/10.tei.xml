@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">An open investigation of the reproducibility of cancer biology research</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>eLife Sciences Publications, Ltd</publisher>
+				<availability status="unknown"><p>Copyright eLife Sciences Publications, Ltd</p>
+				</availability>
+				<date type="published" when="2014-12-10">2014-12-10</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName coords="1,168,00,399,18,117,38,9,58"><forename type="first">Timothy</forename><forename type="middle">M</forename><surname>Errington</surname></persName>
+							<idno type="ORCID">0000-0002-4959-5143</idno>
+							<affiliation key="aff0">
+								<orgName type="institution">eLife</orgName>
+								<address>
+									<country key="GB">United Kingdom</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,300,73,399,18,86,25,9,58"><forename type="first">Elizabeth</forename><surname>Iorns</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">eLife</orgName>
+								<address>
+									<country key="GB">United Kingdom</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,395,71,399,18,74,03,9,58"><forename type="first">William</forename><surname>Gunn</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">eLife</orgName>
+								<address>
+									<country key="GB">United Kingdom</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,168,00,411,18,115,65,9,58"><forename type="first">Fraser</forename><forename type="middle">Elisabeth</forename><surname>Tan</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">eLife</orgName>
+								<address>
+									<country key="GB">United Kingdom</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,292,45,411,18,77,38,9,58"><forename type="first">Joelle</forename><surname>Lomax</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">eLife</orgName>
+								<address>
+									<country key="GB">United Kingdom</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName coords="1,398,90,411,18,78,60,9,58"><forename type="first">Brian</forename><forename type="middle">A</forename><surname>Nosek</surname></persName>
+							<email>nosek@virginia.edu</email>
+							<affiliation key="aff0">
+								<orgName type="institution">eLife</orgName>
+								<address>
+									<country key="GB">United Kingdom</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">An open investigation of the reproducibility of cancer biology research</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">eLife</title>
+						<idno type="eISSN">2050-084X</idno>
+						<imprint>
+							<publisher>eLife Sciences Publications, Ltd</publisher>
+							<biblScope unit="volume">3</biblScope>
+							<date type="published" when="2014-12-10" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">E0899BFA09DF354FE2DC802DC8A42E54</idno>
+					<idno type="DOI">10.7554/elife.04333</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.2" ident="GROBID" when="2023-03-06T15:54+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>It is widely believed that research that builds upon previously published findings has reproduced the original work. However, it is rare for researchers to perform or publish direct replications of existing results. The Reproducibility Project: Cancer Biology is an open investigation of reproducibility in preclinical cancer biology research. We have identified 50 high impact cancer biology articles published in the period 2010-2012, and plan to replicate a subset of experimental results from each article. A Registered Report detailing the proposed experimental designs and protocols for each subset of experiments will be peer reviewed and published prior to data collection. The results of these experiments will then be published in a Replication Study. The resulting open methodology and dataset will provide evidence about the reproducibility of high-impact results, and an opportunity to identify predictors of reproducibility.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+		<surface n="9" ulx="0.0" uly="0.0" lrx="612.0" lry="792.0"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Two central features of science are transparency and reproducibility <ref type="bibr" coords="1,251,75,462,41,55,95,8,62">(Bacon, 1267</ref><ref type="bibr" coords="1,312,74,462,41,25,20,8,62">(Bacon, /1859;;</ref><ref type="bibr" coords="1,341,61,462,41,24,39,8,62;1,168,00,474,41,49,12,8,62" target="#b3">Jasny et al., 2011;</ref><ref type="bibr" coords="1,219,31,474,41,50,10,8,62">Kuhn, 1962;</ref><ref type="bibr" coords="1,271,61,474,41,59,57,8,62">Merton, 1942;</ref><ref type="bibr" coords="1,333,38,474,41,32,63,8,62;1,168,00,486,41,18,98,8,62">Popper, 1934</ref><ref type="bibr" coords="1,191,72,486,41,23,72,8,62">Popper, /1992))</ref>. Transparency requires scientists to publish their methodology and data so that the merit of a claim can be assessed on the basis of the evidence rather than the reputation of those making the claim. Reproducibility can refer to both the ability of others to reproduce the findings, given the original data, and to the generation of new data that supports the same conclusions. The focus of this article and project is on the latter-the replication of prior results with new data.</p><p>Despite being a defining feature of science, reproducibility is more an assumption than a practice in the present scientific ecosystem <ref type="bibr" coords="1,332,11,642,41,33,89,8,62;1,168,00,654,41,24,53,8,62">(Collins, 1985;</ref><ref type="bibr" coords="1,196,16,654,41,64,62,8,62">Schmidt, 2009)</ref>. Incentives for scientific achievement prioritize innovation over replication <ref type="bibr" coords="1,186,69,678,41,89,08,8,62" target="#b0">(Alberts et al., 2014;</ref><ref type="bibr" coords="1,278,52,678,41,83,02,8,62">Nosek, et al., 2012)</ref>. Peer review tends to favor manuscripts that contain new findings over those that improve our understanding of a previously published finding.</p><p>Moreover, careers are made by producing exciting new results at the frontiers of knowledge, not by verifying prior discoveries.</p><p>Reproducing prior results is challenging because of insufficient, incomplete, or inaccurate reporting of methodologies <ref type="bibr" coords="1,497,09,510,41,53,57,8,62">(Hess, 2011;</ref><ref type="bibr" coords="1,554,66,510,41,21,34,8,62;1,378,00,522,41,50,95,8,62" target="#b7">Prinz et al., 2011;</ref><ref type="bibr" coords="1,431,68,522,41,89,35,8,62" target="#b9">Steward et al., 2012;</ref><ref type="bibr" coords="1,523,76,522,41,52,24,8,62;1,378,00,534,41,77,08,8,62" target="#b3">Hackam and Redelmeier, 2006;</ref><ref type="bibr" coords="1,457,98,534,41,79,54,8,62">Landis et al., 2011)</ref>. Further, a lack of information about research resources makes it difficult or impossible to determine what was used in a published study <ref type="bibr" coords="1,502,43,570,41,73,57,8,62;1,378,00,582,41,21,93,8,62" target="#b10">(Vasilevsky et al., 2013)</ref>. These challenges are compounded by the lack of funding support available from agencies and foundations to support replication research. When replications are performed, they are rarely published <ref type="bibr" coords="1,419,90,630,41,59,37,8,62">(Collins, 1985;</ref><ref type="bibr" coords="1,481,50,630,41,61,15,8,62">Schmidt, 2009)</ref>. A literature review in psychological science, for example, estimated that 0.15% of the published results were direct replications of prior published results <ref type="bibr" coords="1,378,00,678,41,82,67,8,62" target="#b4">(Makel et al., 2012)</ref>. Finally, reproducing analyses with prior data is difficult because researchers are often reluctant to share data, even when required by funding bodies or scientific societies  <ref type="bibr" coords="2,168,00,558,15,48,59,8,62">et al., 2014)</ref>.</p><p>If all published results were true and their effect sizes estimated precisely, then a singular focus on innovation over verification might be inconsequential, because the effect size (which is a measure of the strength of the association between variables, or the magnitude of the differences between experimental conditions) would be reliable. In such a context, the most efficient means of knowledge accumulation would be to spend all resources on discovery and trust that each published result provided an accurate estimate of effects on which to build or extend. However, if not all published results are true and if effect sizes are misestimated, then an absence of replication and verification will lead to a published literature that misrepresents reality. The consequences of that scenario would depend on the magnitude of the misestimation.</p><p>The accumulating evidence suggests an alarming degree of misestimation. Across disciplines, most published studies demonstrate positive results-results that indicate an expected association between variables or a difference between experimental conditions <ref type="bibr" coords="2,512,60,666,22,63,40,8,62">(Sterling, 1959;</ref><ref type="bibr" coords="2,378,00,678,26,50,89,8,62" target="#b3">Fanelli, 2010</ref><ref type="bibr" coords="2,436,76,678,26,21,18,8,62">Fanelli, , 2012))</ref>. Simultaneously, across disciplines, the average power of studies to detect positive results is quite low <ref type="bibr" coords="2,474,26,702,35,58,76,8,62">(Cohen, 1962;</ref><ref type="bibr" coords="2,535,50,702,35,40,50,8,62;2,378,00,714,39,24,17,8,62">Ioannidis, 2005;</ref><ref type="bibr" coords="2,405,01,714,39,82,44,8,62" target="#b2">Button et al., 2013)</ref>. In neuroscience, for ILLUSTRATION: www.claudiastocker.com example, Button et al. observed the median power of studies to be 21% <ref type="bibr" coords="3,280,34,66,38,81,35,8,62" target="#b2">(Button et al., 2013)</ref>, which means that assuming the finding being investigated is true and accurately estimated, then only 21 of every 100 studies investigating that effect would detect statistically significant evidence for the effect. Most studies would miss detecting the true effect.</p><p>The implication of very low power is that the research literature would be filled with lots of negative results, regardless of whether the effects actually exist or not. In the case of neuroscience, assuming all investigated effects in the published literature are true, only 21% of the studies should have obtained a significant, positive result detecting that effect. However, Fanelli observed a positive result rate of 85% in neuroscience <ref type="bibr" coords="3,333,33,246,38,32,67,8,62;3,168,00,258,38,22,30,8,62" target="#b3">(Fanelli, 2010)</ref>. The samples in these two studies were not the same, but both were large and there is little reason to expect lack of comparability. This discrepancy between observed power and observed positive results is not statistically possible. Instead, it suggests systematic exclusion of negative results <ref type="bibr" coords="3,247,33,330,38,78,97,8,62">(Greenwald, 1975)</ref> and possibly the exaggeration of positive results by employing flexibility in analytic and reporting practices that inflate the likelihood of false positives <ref type="bibr" coords="3,189,01,378,38,91,74,8,62">(Simmons et al., 2011)</ref>.</p><p>The small amount of direct evidence about reproducibility converges with the conclusions of these systematic reviews. A survey of faculty and trainees at the MD Anderson Cancer Center found half of those researchers reported an inability to reproduce data on at least one occasion <ref type="bibr" coords="3,188,17,462,38,91,98,8,62" target="#b5">(Mobley et al., 2013)</ref>. More dramatically, two industrial laboratories, Bayer and Amgen, reported reproducibility rates of 11% and 25% in two independent efforts to reproduce findings from dozens of groundbreaking basic science studies in oncology and related areas <ref type="bibr" coords="3,333,80,522,38,32,20,8,62;3,168,00,534,38,64,33,8,62">(Begley and Ellis, 2011;</ref><ref type="bibr" coords="3,234,83,534,38,72,59,8,62" target="#b7">Prinz et al., 2011)</ref>.</p><p>The available evidence suggests that published research is less reproducible than assumed and desired, perhaps because of an inflation of false positives and a culture of incentives that values publication over accuracy <ref type="bibr" coords="3,306,58,594,38,59,41,8,62;3,168,00,606,38,21,18,8,62" target="#b6">(Nosek et al., 2012)</ref>, but, the evidence is incomplete. The Bayer and Amgen reports of failing to reproduce a high proportion of results provide the most direct evidence. However, neither report made available the effects investigated, the sampling process, the methodology, or the data that comprised the replication efforts <ref type="bibr" coords="3,257,23,678,38,59,42,8,62">(Nature, 2012)</ref>.</p><p>It is vitally important to obtain transparent evidence about the reproducibility of scientific research. To that end, this article introduces the Reproducibility Project: Cancer Biology. This project will conduct replications of findings from 50 high-impact articles in the field of cancer biology published between 2010 and 2012. We selected cancer biology as the area of focus because of the Bayer and Amgen reports, and because of the direct importance of efficient progress in this research discipline for the treatment of disease. The project follows a protocol similar to the Reproducibility Project: Psychology (Open Science <ref type="bibr" coords="3,449,80,174,38,88,27,8,62">Collaboration, 2012</ref><ref type="bibr" coords="3,548,78,174,38,22,68,8,62">Collaboration, , 2014))</ref>, and-in conjunction with eLife-adopts an approach in which the proposed experiments and protocols are written up in a Registered Report that is peer reviewed and published prior to data collection <ref type="bibr" coords="3,475,56,234,38,100,44,8,62" target="#b2">(Chambers et al., 2014;</ref><ref type="bibr" coords="3,378,00,246,38,111,49,8,62">Nosek and Lakens, 2014)</ref>. Following completion of data collection and analysis for each study, the results of the experiments detailed in the Registered Report are published in a Replication Study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The Reproducibility Project: Cancer Biology</head><p>Replicating a large number of randomly selected studies is the best approach to obtain an estimate of the rate of reproducibility. However, the current incentive structures that strongly favor innovation over replication mean that it is not in the professional interest of any individual scientist or laboratory to conduct and publish replications, particularly many replications. The Reproducibility Project: Cancer Biology circumvents these barriers by establishing a core team to design, prepare, and monitor project operations, and by spreading the data collection effort across multiple researchers and laboratories.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Selecting experiments for replication</head><p>Resources are finite. Replication is not needed for findings that have no impact, but it can be of substantial value for increasing the confidence and precision of effects that have substantial impact. We identified a sampling frame that balanced breadth of sampling for general inference with sensible investment of resources on replication projects.</p><p>The sampling frame was defined as the 400 most cited papers from both Scopus and Web of Science using the search terms (cancer, onco*, tumor*, metasta*, neoplas*, malignan*, carcino*) for 2010, 2011, and 2012. Citations were counted from all sources, which include primary research articles and reviews. This produced an initial sample of 501 articles from 2010, 444 from 2011, and 438 from 2012. Altmetrics scores from Mendeley and Altmetric.com were collected for the entire dataset and used to create a final impact score for each paper. Citation rates and altmetric scores were each standardized by dividing each metric by the highest in the dataset to give each paper a normalized metric score between 0 and 1, which was summed to create an aggregate impact score. Within each year, articles were reviewed for inclusion eligibility starting with the highest aggregate impact article. Articles were removed if they were clinical trials, case studies, reviews, or if they required specialized samples, techniques, or equipment that would be difficult or impossible to obtain. Also, articles reporting sequencing results, such as publications from The Cancer Genome Atlas project, were excluded. However, if sequencing or proteomic experiments were only part of an article, the other experiments in those papers could still be eligible. Review of articles continued until a total of 50 articles, about one-third from each year, were identified as eligible. The final set included 17 papers from 2010, 17 from 2011, and 16 from 2012. From each paper, a subset of experiments were identified for replication, prioritizing those that support the main conclusions of the paper while also attending to feasibility and resource constraints. Details on the selection process and a list of the selected and excluded papers are available at the Open Science Framework.</p><p>There are a variety of alternative sampling strategies that could be pursued in parallel efforts such as community nomination of findings that are important to replicate, request from authors to have their published findings replicated (e.g., the Reproducibility Initiative project), or selection of a sample from a particular journal or on a specific topic for focused investigation. The present sampling strategy focuses replication efforts on high impact papers. This could limit the generalizability of inference to all cancer biology research, but has the benefit of increasing precision and attention to the research that is shaping the field.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Preparing and conducting the replications</head><p>The replication experiments are being coordinated by a core group of researchers and conducted by research providers from the Science Exchange network. Because the network consists of over 900 labs skilled in the techniques necessary for replicating the experiments within the chosen studies, the likelihood of a failed replication due to lack of relevant expertise is minimized. The providers are matched to an experiment on the basis of their skills and available instrumentation, often with multiple providers contributing to each replication. An advantage of these labs -commercial contract research organizations (CROs) and core facilities-is that they are less likely to be biased for or against replicating the effect. This may reduce the effect of experimenter expectations on observed results <ref type="bibr" coords="4,513,74,138,46,62,26,8,62;4,378,00,150,48,51,54,8,62" target="#b8">(Rosenthal and Fode, 1963)</ref>. However, it does not necessarily eliminate expectancy effects as the replicating researchers are aware of the original findings, and they may have expectations about whether the same result is likely to be obtained or not. Another advantage of this approach is that the time and cost of replicating an experiment via Science Exchange is less than that required to establish a collaboration with another academic lab, allowing the project to scale up efficiently.</p><p>A community of volunteers, largely composed of postdocs in the life sciences, contributed to the project by extracting information from the original papers and drafting protocols for replication experiments. Information about the project including its coordination, planning, execution, and ultimately the replication data is available publicly at the Open Science Framework. Conducting the project in an open manner increases the accountability, and ideally, the quality of the project and the replications.</p><p>A standardized procedure is followed to minimize irrelevant variation between each replication and to maximize the quality of the replication efforts. We aim to conduct the experimental procedure as closely as possible to the original experiment using the same materials and instrumentation, if available. The replication protocol requires the core team to contact the original corresponding author to request materials and any available information that could improve the quality of the replication attempt.</p><p>Each replication experiment must have high statistical power (1-ß ≥ 0.80) for observing the original effect size in order to minimize the likelihood of failing to replicate because of low power (i.e., a false negative). However, it is common in biomedical research for some experiments to be presented with representative images or graphs without any inferential testing. In these cases, we will inquire with the original authors if there are additional unpublished replications, if it is not already stated in the article, and if any details are available about the results. Further, these qualitative experiments will be replicated three times and all results will be presented. Because the original representative image presents a mean, but no variability information from sampling, it is not possible to compute a standardized effect size. Using the mean of the replication to calculate post-hoc power would be invalid for computing the needed effect size, but the variability of the three replications may be a less biased estimator. So, to determine if more than three replications are needed, we will use the original experiment for estimating the mean and the replications for estimating the variability needed to compute power. This strategy will provide an opportunity to identify the need for more sampling than the default of three. As such, it can only result in increasing the overall power of the investigation.</p><p>An easy way to fail to replicate a result is to do a terrible job of implementing the Materials and methods or conducting the data analysis. Our priority is to maximize the quality of each replication to adequately test the research question. We do this by conducting the entire project transparently so that error in sampling, design, data collection, and analysis can be identified. Moreover, replications describe in detail the entire experimental design, including controls, conditions, assay optimizations, materials, protocols, and analysis plans prior to initiating data collection. Next, a key part of matching experiments with laboratories is to identify labs with the appropriate expertise to maximize research quality. This is particularly important with new and innovative techniques, though most techniques called for in the selected experiments are standard techniques for which expertise is widely available. As experiments are matched to labs, it is possible that no appropriate service provider can be identified. If appropriate expertise is not available, then the finding or paper will be excluded from the project.</p><p>Once the experimental designs and protocols are prepared, the core team solicits feedback from the original authors to identify ways to improve the design. Author input is incorporated into the designs and protocols prior to data collection; suggestions or concerns from the original authors that are not implemented are recorded in the Registered Report. The replication team will also conduct a literature review for evidence of existing replications although, as noted above, direct replication is likely to be rare. Existing published evidence for replication might indicate the likelihood of reproducing the original results.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Registered Reports</head><p>In addition to the informal information exchange between the core team and the original authors, each study will undergo peer review prior to data collection following the Registered Report format <ref type="bibr" coords="5,396,26,66,38,97,44,8,62" target="#b2">(Chambers et al., 2014;</ref><ref type="bibr" coords="5,496,82,66,38,79,18,8,62;5,378,00,78,38,21,93,8,62">Nosek and Lakens, 2014)</ref>. Peer reviewers at eLife, including subject experts and a statistician, will evaluate the appropriateness and quality of the experimental designs and protocols for replication, as described in the Registered Report. If the Registered Report passes peer review, it will be published prior to data collection. Publication of the Replication Study is then contingent on the replication team following through with the approved design, data collection, and analysis plan; publication of the Replication Study is not contingent on the results. This places the incentives for the replication team and the reviewers on maximizing the quality of methodology and minimizes incentives for achieving a specific result.</p><p>The accepted experimental designs and protocols described in the Registered Report will be preregistered publicly at the Open Science Framework and the Registered Report for each study will be published by eLife before any experiments are performed. Following completion of data collection and analysis the Replication Study will be published by eLife with all data, analysis scripts, reports, and other research mate rials added to the project on the Open Science Framework for the research community to view, critique, or extend. The collected body of evidence will be the largest public dataset for inves tigating reproducibility in cancer biology.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Evaluation of reproducibility</head><p>What is a successful replication? A seemingly easy answer is that the replication produces the same result as the original. However, few results are easily categorized as either the same or different. One approach is to consider whether the replication achieves a p-value of less than 0.05 with the same direction of association or ordinal ranking between conditions as the original. This provides some information but still treats experimental outputs dichotomously, with an arbitrary significance threshold. For example, the above approach would classify a replication with p = 0.06 as a failure. An alternative approach in the null hypothesis significance testing framework is to treat the original effect size as the null and test whether the replication is significantly different from that value. This provides complementary information to the first approach because effects can succeed or fail on one or both tests. For example, a replication with p = 0.06 fails the first test but may not be distinguishable from the original on the second test.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Feature article</head><p>Another approach is to compare the effect sizes of the original and replication studies and to then compare whether the estimates are within each other's confidence intervals. This starts to move the inference process away from dichotomous classification and toward estimating effect magnitude and precision of estimation. In another approach, the totality of evidence for an effect is represented by the meta-analytic estimate combining the original and new experiments. This combines all evidence and provides an indication of the present knowledge of the effect.</p><p>There is no single answer to the question 'what is a successful replication?' <ref type="bibr" coords="6,290,45,222,38,75,54,8,62;6,168,00,234,38,22,68,8,62" target="#b9">(Valentine et al., 2011)</ref>. As such, we will report multiple indicators of comparison and combination of original and replication effects in order to gain a better understanding of the findings examined and of reproducibility more generally.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>What will and will not be learned</head><p>The primary goals of this project are to produce an initial estimate of the reproducibility of cancer biology research and to identify predictors of These are big questions for one study to address. Nevertheless, the results will provide an initial empirical basis to evaluate reproducibility and may help guide the broader discussion about reproducibility toward areas of significant challenge, productive areas for further inquiry, and possible interventions for improvement. Given the importance of these questions, it is important to recognize what will and will not be learned from the results of the Reproducibility Project: Cancer Biology.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Does a failure to replicate mean that the original result was a false positive?</head><p>No. There are many reasons that two studies of the same phenomenon could obtain different results, and only one of those is that the original was a false positive. The project design minimizes but does not eliminate the possibility of other explanations such as the replication being a false negative due to insufficient power, error in analysis, differences in statistical methods, or error in the design and implementation of the study procedures such as reagent variability/lack of validation, unintentional selective reporting, lack of appropriate controls, lack of equipment calibration, or unrecognized experimental variables <ref type="bibr" coords="6,168,00,678,38,74,51,8,62">(Ioannidis, 2005;</ref><ref type="bibr" coords="6,247,40,678,38,118,60,8,62" target="#b5">Nieuwenhuis et al., 2011;</ref><ref type="bibr" coords="6,168,00,690,38,63,57,8,62" target="#b4">Loscalzo, 2012;</ref><ref type="bibr" coords="6,233,60,690,38,100,57,8,62" target="#b3">Haibe-Kains et al., 2013;</ref><ref type="bibr" coords="6,336,20,690,38,29,80,8,62;6,168,00,702,38,49,34,8,62" target="#b8">Pusztai et al., 2013;</ref><ref type="bibr" coords="6,219,64,702,38,94,86,8,62" target="#b10">Vasilevsky et al., 2013;</ref><ref type="bibr" coords="6,316,80,702,38,49,19,8,62;6,168,00,714,38,23,81,8,62" target="#b3">Hines et al., 2014;</ref><ref type="bibr" coords="6,194,32,714,38,90,97,8,62">Ioannidis et al., 2014;</ref><ref type="bibr" coords="6,287,79,714,38,52,93,8,62">Perrin, 2014)</ref>.</p><p>Other causes for different research outcomes between original and replication have implications for understanding the phenomenon itself. For instance, the original effect may be real but overestimated by the original study. As such, replication may provide new insight, not of the truth of the effect, but of its practical implications. Another reason for different outcomes is that the conditions necessary to obtain the result are not yet understood. Together the replication protocol and peer review of the Registered Report are intended to produce an experimental design for which there is no reason to expect a priori a different result than the original. Those expectations are based on the present theoretical understanding of how and why the effect occurs. However, that understanding may be incorrect or incomplete. Particular features of the original experimental protocol might be critical but unidentified. Therefore, if there is no reason to expect a different result, and a different result is obtained, then differences between the original and replication deemed previously to be nonconsequential are now targets for hypothesizing and investigation. This may produce new discoveries and enhance understanding of the effect, the conditions necessary to obtain it, and its implications for biology. This type of discovery is unlikely to occur without direct replication.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Does a successful replication mean that the original interpretation is correct?</head><p>No. Successful direct replication can verify that a result can be obtained and establishes some generalizability by showing that it can be obtained in different circumstances. However, direct replication does not confirm the interpretation of the result. For example, if an original design has an unidentified confounding influence, then the direct replication is also likely to be influenced by that confound.</p><p>Developing understanding for the meaning of research findings is often clarified more productively through conceptual replication <ref type="bibr" coords="6,536,67,570,38,39,34,8,62;6,378,00,582,38,21,93,8,62">(Schmidt, 2009)</ref>. In direct replication the original methodology is reproduced as faithfully as possible; in conceptual replication the original research question is tested again with different methods. Conceptual replication can include changes to the model system used, leveraging a new technology or improved procedure, or an operational change to the manipulation or measurement of critical variables. Such changes are done to remove alternative explanations and demonstrate that the phenomenon is not idiosyncratic to the original procedures. Conceptual replication is as vital for Feature article gaining understanding of an effect as direct replication is for increasing confidence that the effect occurs.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>Replication is central to the progress of science: if others cannot reproduce the evidence backing a scientific claim, then the claim loses status as scientific knowledge. This process differentiates science from other ways of knowing for which the power, authority, ideology, or persuasiveness of the person making the claim determines its truth.</p><p>The Reproducibility Project: Cancer Biology uses an open methodology to examine reproducibility in cancer biology research. The implications of the project may depend on its outcomes. A high rate of reproducibility might affirm current research and reporting practices, which may suggest that the potentially dysfunctional incentives in the present ecosystem are relatively inert <ref type="bibr" coords="7,168,00,306,38,110,36,8,62">(See Ioannidis et al., 2014</ref> for a review). On the other hand, a low rate of reproducibility might foster changes by researchers, scientific societies, universities, publishers, and funding agencies to improve research practices and to adjust the training and incentives that maintain them <ref type="bibr" coords="7,168,00,378,38,132,38,8,62" target="#b3">(Ioannidis and Khoury, 2011;</ref><ref type="bibr" coords="7,305,40,378,38,60,60,8,62;7,168,00,390,38,24,17,8,62">Landis et al., 2012;</ref><ref type="bibr" coords="7,195,16,390,38,84,98,8,62" target="#b5">Miguel et al., 2014;</ref><ref type="bibr" coords="7,283,12,390,38,82,88,8,62" target="#b6">Nosek et al., 2012;</ref><ref type="bibr" coords="7,168,00,402,38,119,94,8,62">Wagenmakers et al., 2012;</ref><ref type="bibr" coords="7,292,03,402,38,73,97,8,62" target="#b11">Wadmann, 2013;</ref><ref type="bibr" coords="7,168,00,414,38,90,05,8,62" target="#b0">Alberts et al., 2014;</ref><ref type="bibr" coords="7,262,30,414,38,103,70,8,62" target="#b0">Asendorpf et al., 2013;</ref><ref type="bibr" coords="7,168,00,426,38,100,87,8,62" target="#b2">Collins and Tabak, 2014)</ref>.</p><p>Self-examination is not without challenge. A low reproducibility estimate might prompt concern that the reputation of cancer biology research will be damaged <ref type="bibr" coords="7,243,38,474,38,59,66,8,62">(Bissell, 2013)</ref>. However, we believe that there is much greater risk in having a low reproducibility rate and failing to discover it. Science can only self-correct if there is awareness of what needs correcting. If reproducibility is much lower than expected, then the generation of new knowledge will suffer because it is difficult to pursue innovation and discovery if the foundation of evidence is not reliable <ref type="bibr" coords="7,324,68,570,38,41,32,8,62;7,168,00,582,38,22,30,8,62">(Forscher, 1963)</ref>. A culture that values and practices reproducible science can push out the boundaries of knowledge with confidence that new discoveries have potential to lead to new knowledge and, in the case of cancer biology, cures to one of the greatest challenges to human health.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0" coords="2,63,12,478,02,512,07,7,66;2,63,12,489,02,224,80,7,66;2,63,12,500,02,103,46,7,66;2,63,12,54,00,512,88,412,68"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. The Reproducibility Project: Cancer Biology will replicate selected experiments from a set of 50 research papers in an effort to estimate the rate of reproducibility in preclinical cancer biology research. DOI: 10.7554/eLife.04333.002</figDesc><graphic coords="2,63,12,54,00,512,88,412,68" type="bitmap" /></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgements</head><p>We would like to thank the following companies for generously donating reagents to the Reproducibility Project: Cancer Biology; BioLegend, Charles River Laboratories, Corning Incorporated,</p></div>
+			</div>
+
+
+			<div type="funding">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Funding</head><p>Funder</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Competing interests: EI, FET, JL: Employed by and hold shares in Science Exchange Inc. The other authors declare that no competing interests exist. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author contributions</head></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct coords="7,378,00,585,11,192,87,7,66;7,378,00,595,11,180,82,7,66;7,378,00,605,11,195,04,7,66;7,378,00,615,11,196,99,7,66;7,378,00,625,11,186,38,7,66;7,378,00,635,11,192,65,7,66;7,378,00,645,11,161,59,7,66;7,378,00,655,11,197,72,7,66;7,378,00,665,11,178,46,7,66;7,378,00,675,11,195,80,7,66;7,378,00,685,11,181,29,7,58;7,378,00,695,11,166,77,7,58" xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Recommendations for increasing replicability in psychology</title>
+		<author>
+			<persName coords=""><forename type="first">B</forename><surname>Alberts</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">W</forename><surname>Kirschner</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Tilghman</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">H</forename><surname>Varmus</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">B</forename><surname>Asendorpf</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Conner</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">De</forename><surname>Fruyt</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">F</forename></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">De</forename><surname>Houwer</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Denissen</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">J</forename><surname>Fiedler</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Fiedler</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Funder</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">D</forename><forename type="middle">C</forename><surname>Kliegl</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><surname>Nosek</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">B</forename><forename type="middle">A</forename></persName>
+		</author>
+		<idno type="DOI">10.1002/per.1919</idno>
+		<idno>doi: 10.1002/per.1919. Bacon R. 1267/1859</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the National Academy of Sciences of USA 111</title>
+				<meeting>the National Academy of Sciences of USA 111</meeting>
+		<imprint>
+			<date type="published" when="2013">2014. 2013</date>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="108" to="119" />
+		</imprint>
+	</monogr>
+	<note>containing I.-Opus tertium. II.-Opus minus. III.-Compendium philosophiae</note>
+</biblStruct>
+
+<biblStruct coords="7,378,00,705,11,190,79,7,66;7,378,00,715,11,198,00,7,66;8,84,60,36,21,52,45,7,92;8,168,00,54,67,166,72,7,66;8,168,00,64,67,174,74,7,66;8,168,00,74,67,80,94,7,66" xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Feature article Begley CG, Ellis LM. 2012. Raise standards for preclinical cancer research</title>
+		<author>
+			<persName coords=""><surname>Longman</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><surname>Longman</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><surname>Roberts</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/483531a</idno>
+		<ptr target="http://books.google.com/books?id=wMUKAAAAYAAJ" />
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">483</biblScope>
+			<biblScope unit="page" from="531" to="533" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="8,168,00,84,67,177,12,7,66;8,168,00,94,67,159,33,7,66;8,168,00,104,67,194,78,7,66;8,168,00,114,67,183,67,7,66;8,168,00,124,67,164,02,7,66;8,168,00,134,67,171,49,7,66;8,168,00,144,67,114,74,7,66;8,168,00,154,67,190,00,7,66;8,168,00,164,67,188,38,7,66;8,168,00,174,67,191,80,7,66;8,168,00,184,67,197,45,7,66;8,168,00,194,67,130,17,7,66;8,168,00,204,67,179,47,7,66;8,168,00,214,67,176,72,7,66;8,168,00,224,67,162,73,7,66;8,168,00,234,67,85,69,7,66;8,168,00,244,67,177,87,7,66;8,168,00,254,67,181,99,7,66;8,168,00,264,67,33,06,7,66;8,168,00,274,67,185,25,7,66;8,168,00,284,67,162,13,7,66" xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Instead of &quot;playing the game&quot; it is time to change the rules: Registered Reports at AIMS Neuroscience and beyond</title>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Bissell</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><forename type="middle">S</forename><surname>Button</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">P</forename><surname>Ioannidis</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><surname>Mokrysz</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">B</forename><forename type="middle">A</forename><surname>Nosek</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Flint</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">E</forename><forename type="middle">S</forename><surname>Robinson</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">R</forename><surname>Munafo</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><forename type="middle">D</forename><surname>Chambers</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">E</forename><surname>Feredoes</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><forename type="middle">D</forename><surname>Muthukumaraswamy</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Pj ;</forename><surname>Etchells</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">F</forename><forename type="middle">S</forename><surname>Collins</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><forename type="middle">A</forename><surname>Tabak</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/505612a</idno>
+		<idno>doi: 10.1038</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Abnormal and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">503</biblScope>
+			<biblScope unit="page" from="612" to="613" />
+			<date type="published" when="2013">2013. 2013. 2014. 2014</date>
+			<publisher>Sage</publisher>
+		</imprint>
+	</monogr>
+	<note>Nature. / 505612a. Collins HM. 1985. Changing Order: Replication and Induction in Scientific Practice</note>
+</biblStruct>
+
+<biblStruct coords="8,168,00,294,67,188,85,7,66;8,168,00,304,67,172,41,7,66;8,168,00,314,67,128,68,7,66;8,168,00,324,67,180,22,7,66;8,168,00,334,67,183,61,7,66;8,168,00,344,67,166,16,7,66;8,168,00,354,67,185,09,7,66;8,168,00,364,67,161,86,7,66;8,168,00,374,67,180,24,7,66;8,168,00,384,67,176,78,7,66;8,168,00,394,67,119,17,7,66;8,168,00,404,67,178,73,7,66;8,168,00,414,67,175,82,7,66;8,168,00,424,67,174,31,7,66;8,168,00,434,67,178,12,7,66;8,168,00,444,67,150,61,7,66;8,168,00,454,67,175,66,7,66;8,168,00,464,67,173,72,7,66;8,168,00,474,67,197,89,7,66;8,168,00,484,67,189,86,7,66;8,168,00,494,67,190,76,7,66;8,168,00,504,67,182,68,7,66;8,168,00,514,67,170,73,7,66;8,168,00,524,67,195,07,7,66;8,168,00,534,67,177,56,7,66;8,168,00,544,67,148,93,7,66;8,168,00,554,67,131,18,7,66;8,168,00,564,67,188,24,7,66;8,168,00,574,67,156,79,7,66;8,168,00,584,67,153,88,7,66;8,168,00,594,67,178,65,7,66;8,168,00,604,67,194,82,7,66;8,168,00,614,67,174,91,7,66;8,168,00,624,67,192,22,7,66;8,168,00,634,67,112,95,7,66;8,168,00,644,67,179,92,7,66;8,168,00,654,67,182,43,7,66;8,168,00,664,67,174,58,7,66;8,168,00,674,67,55,60,7,66;8,168,00,684,67,194,14,7,66;8,168,00,694,67,160,53,7,66;8,168,00,704,67,164,55,7,66;8,168,00,714,67,183,76,7,66;8,378,00,54,34,190,75,7,66;8,378,00,64,34,197,41,7,66;8,378,00,74,34,160,82,7,66;8,378,00,84,34,47,45,7,66" xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Publication and other reporting biases in cognitive sciences: Detection, prevalence, and prevention</title>
+		<author>
+			<persName coords=""><forename type="first">D</forename><surname>Fanelli</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">D</forename><forename type="middle">G</forename><surname>Hackam</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Redelmeier</forename><surname>Da ; Haibe-Kains</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">B</forename><surname>El-Hachem</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">N</forename><surname>Birkbak</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">N</forename><forename type="middle">J</forename><surname>Jin</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><forename type="middle">C</forename><surname>Beck</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><forename type="middle">H</forename><surname>Aerts</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">H</forename><forename type="middle">J</forename><surname>Quackenbush</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J ;</forename><surname>Hines</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">W</forename><forename type="middle">C</forename><surname>Su</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Y</forename><surname>Kuhn</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">I</forename><surname>Polyak</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Bissell</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">J</forename><surname>Ioannidis</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">P</forename><surname>Khoury</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">J</forename><surname>Ioannidis</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">P</forename><surname>Munafo</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">R</forename><surname>Fusar-Poli</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename><surname>Nosek</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">B</forename><forename type="middle">A</forename><surname>David</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Sp ;</forename><surname>Jasny</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">B</forename><forename type="middle">R</forename><surname>Chin</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">G</forename><surname>Chong</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>Vignieri</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Sg</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Asadullah</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><forename type="middle">P</forename><surname>Austin</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><surname>Blumenstein</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">E</forename><forename type="middle">W</forename><surname>Bradley</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><forename type="middle">G</forename><surname>Cyrstal</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><forename type="middle">B</forename><surname>Darnell</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><forename type="middle">J</forename><surname>Ferrante</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">H</forename><surname>Fillit</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/nature11556</idno>
+		<idno>doi: 10.1038/ nature11556</idno>
+	</analytic>
+	<monogr>
+		<title level="m">The Structure of Scientific Revolutions</title>
+				<meeting><address><addrLine>Chicago, Illinois; Landis SC, Amara</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Chicago Press</publisher>
+			<date type="published" when="2006">2010. 2006. 2013. 2014. 2011. 2014. 2011</date>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="187" to="190" />
+		</imprint>
+	</monogr>
+	<note>Nature</note>
+</biblStruct>
+
+<biblStruct coords="8,378,00,94,34,192,65,7,66;8,378,00,104,34,170,77,7,66;8,378,00,114,34,148,94,7,66;8,378,00,124,34,96,22,7,66;8,378,00,134,34,191,33,7,66;8,378,00,144,34,173,17,7,66;8,378,00,154,34,170,43,7,66;8,378,00,164,34,156,41,7,66;8,378,00,174,34,168,66,7,66;8,378,00,184,34,168,10,7,66;8,378,00,194,34,77,08,7,66" xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Irreproducible experimental results: causes, (mis)interpretations, and consequences</title>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Loscalzo</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">C</forename><surname>Makel</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">A</forename><surname>Plucker</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">B</forename><surname>Hagerty</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1745691612460688</idno>
+		<idno>doi: 10.1177/1745691612460688. Merton RK. 1942</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Legal and Political Sociology</title>
+		<imprint>
+			<biblScope unit="volume">125</biblScope>
+			<biblScope unit="page" from="115" to="126" />
+			<date type="published" when="2012">2012. 2012</date>
+		</imprint>
+	</monogr>
+	<note>Perspectives on Psychological Science</note>
+</biblStruct>
+
+<biblStruct coords="8,378,00,204,34,196,69,7,66;8,378,00,214,34,182,36,7,66;8,378,00,224,34,180,54,7,66;8,378,00,234,34,186,38,7,66;8,378,00,244,34,168,56,7,66;8,378,00,254,34,171,26,7,66;8,378,00,264,34,109,85,7,66;8,378,00,274,34,185,94,7,66;8,378,00,284,34,171,06,7,66;8,378,00,294,34,183,48,7,66;8,378,00,304,34,197,11,7,66;8,378,00,314,34,182,88,7,66;8,378,00,324,34,177,97,7,66;8,378,00,334,34,81,24,7,66;8,378,00,344,34,179,49,7,66;8,378,00,354,34,152,86,7,66;8,378,00,364,34,170,77,7,66;8,378,00,374,34,185,87,7,66;8,378,00,384,34,176,81,7,66;8,378,00,394,34,195,34,7,66;8,378,00,404,34,160,07,7,66;8,378,00,414,34,74,27,7,66" xml:id="b5">
+	<analytic>
+		<title level="a" type="main">A survey on data reproducibility in cancer research provides insights into our limited ability to translate findings from the laboratory to the clinic</title>
+		<author>
+			<persName coords=""><forename type="first">E</forename><surname>Miguel</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><surname>Camerer</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Casey</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><forename type="middle">M</forename><surname>Esterling</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Gerber</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><surname>Glennerster</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">D</forename><forename type="middle">P</forename><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Humphreys</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">G</forename><surname>Imbens</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">D</forename><surname>Laitin</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">T</forename><surname>Madon</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>Nelson</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">B</forename><forename type="middle">A</forename><surname>Nosek</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Petersen</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><surname>Sedlmayr</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">P</forename><surname>Simmons</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">U</forename><surname>Simonsohn</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Van Der Laan</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Mobley</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><forename type="middle">K</forename><surname>Linder</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><surname>Braeuer</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><forename type="middle">M</forename><surname>Ellis</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>Zwelling</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Nieuwenhuis</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">B</forename><forename type="middle">U</forename><surname>Forstmann</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">E</forename><forename type="middle">J</forename><surname>Wagenmakers</surname></persName>
+		</author>
+		<idno type="DOI">10.1027/1864-9335/a000192</idno>
+		<idno>doi: 10.1027/ 1864-9335/a000192</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Neuroscience</title>
+		<imprint>
+			<biblScope unit="volume">343</biblScope>
+			<biblScope unit="page" from="137" to="141" />
+			<date type="published" when="2011">2014. 2013. 2012. 2011. 2014</date>
+			<publisher>Nosek BA, Lakens D</publisher>
+		</imprint>
+	</monogr>
+	<note>Social Psychology</note>
+</biblStruct>
+
+<biblStruct coords="8,378,00,424,34,193,98,7,66;8,378,00,434,34,187,67,7,66;8,378,00,444,34,194,86,7,66;8,378,00,454,34,193,00,7,66;8,378,00,464,34,164,62,7,66;8,378,00,474,34,167,95,7,66;8,378,00,484,34,189,69,7,66;8,378,00,494,34,181,12,7,66;8,378,00,504,34,73,39,7,66;8,378,00,514,34,145,05,7,66;8,378,00,524,34,165,41,7,66;8,378,00,534,34,193,89,7,66;8,378,00,544,34,194,53,7,66;8,378,00,554,34,184,68,7,58;8,378,00,564,34,145,73,7,66;8,378,00,574,34,197,98,7,66;8,378,00,584,34,177,60,7,66;8,378,00,594,34,161,38,7,66;8,378,00,604,34,117,25,7,66" xml:id="b6">
+	<analytic>
+		<title level="a" type="main">An open, large-scale, collaborative effort to estimate the reproducibility of psychological science</title>
+		<author>
+			<persName coords=""><forename type="first">B</forename><forename type="middle">A</forename><surname>Nosek</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">Open Science Collaboration ; Open Science Collaboration</orgName>
+			</affiliation>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">R</forename><surname>Spies</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">Open Science Collaboration ; Open Science Collaboration</orgName>
+			</affiliation>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Motyl</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">Open Science Collaboration ; Open Science Collaboration</orgName>
+			</affiliation>
+		</author>
+		<idno type="DOI">10.1038/507423a</idno>
+		<idno>doi: 10.1038/507423a. Popper K. 1934/1992</idno>
+	</analytic>
+	<monogr>
+		<title level="m">The Reproducibility Project: a model of large-scale collaboration for empirical research on reproducibility</title>
+				<editor>
+			<persName><forename type="first">V</forename><surname>Stodden</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">V</forename><forename type="middle">F</forename><surname>Leish</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Peng</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York; New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2012">2012. 2012. 2014. 2014</date>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="423" to="425" />
+		</imprint>
+	</monogr>
+	<note>The Logic of Scientific Discovery</note>
+</biblStruct>
+
+<biblStruct coords="8,378,00,614,34,185,26,7,66;8,378,00,624,34,174,34,7,66;8,378,00,634,34,196,38,7,66;8,378,00,644,34,120,36,7,66" xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Believe it or not: how much can we rely on published data on potential drug targets?</title>
+		<author>
+			<persName><forename type="first">Florian</forename><surname>Prinz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Thomas</forename><surname>Schlange</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Khusru</forename><surname>Asadullah</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/nrd3439-c1</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Reviews Drug Discovery</title>
+		<title level="j" type="abbrev">Nat Rev Drug Discov</title>
+		<idno type="ISSN">1474-1776</idno>
+		<idno type="ISSNe">1474-1784</idno>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="712" to="712" />
+			<date type="published" when="2011-08-31">2011</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="8,378,00,654,34,189,77,7,66;8,378,00,664,34,175,04,7,66;8,378,00,674,34,170,13,7,66;8,378,00,684,34,153,14,7,66;8,378,00,694,34,197,63,7,66;8,378,00,704,34,185,14,7,66;8,378,00,714,34,173,23,7,66;9,84,60,36,21,52,45,7,92;9,168,00,54,67,174,88,7,66;9,168,00,64,67,180,98,7,66;9,168,00,74,67,163,05,7,66;9,168,00,84,67,127,77,7,66;9,168,00,94,67,175,48,7,66;9,168,00,104,67,179,90,7,66;9,168,00,114,67,187,78,7,66;9,168,00,124,67,182,27,7,66;9,168,00,134,67,121,27,7,66;9,168,00,144,67,178,73,7,66;9,168,00,154,67,178,05,7,66;9,168,00,164,67,183,80,7,66;9,168,00,174,67,114,53,7,66" xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Falsepositive psychology: Undisclosed flexibility in data collection and analysis allows presenting anything as &quot;significant</title>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>Pusztai</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><surname>Hatzis</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">F ;</forename><surname>Andre</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><surname>Rosenthal</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><forename type="middle">L</forename><surname>Fode</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Simmons</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>Nelson</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">U</forename><surname>Simonsohn</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0956797611417632</idno>
+		<idno>TD. 1959</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="30" to="34" />
+			<date type="published" when="1963">2013. 1963. 2009. 2011</date>
+		</imprint>
+	</monogr>
+	<note>Nature Reviews Clinical Oncology</note>
+</biblStruct>
+
+<biblStruct coords="9,168,00,184,67,186,57,7,66;9,168,00,194,67,181,99,7,66;9,168,00,204,67,194,59,7,66;9,168,00,214,67,136,98,7,66;9,168,00,224,67,164,90,7,66;9,168,00,234,67,195,52,7,66;9,168,00,244,67,182,90,7,66;9,168,00,254,67,195,79,7,66" xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Replication and reproducibility in spinal cord injury research</title>
+		<author>
+			<persName coords=""><forename type="first">O</forename><surname>Steward</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename><forename type="middle">G</forename><surname>Popovich</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">W</forename><forename type="middle">D</forename><surname>Dietrich</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">N ;</forename><surname>Kleitman</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">C</forename><surname>Valentine</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Biglan</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><forename type="middle">F</forename><surname>Boruch</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">F</forename><forename type="middle">G</forename><surname>Castro</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><forename type="middle">M</forename><surname>Collins</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">B</forename><forename type="middle">R</forename><surname>Flay</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Kellam</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">E</forename><forename type="middle">K</forename><surname>Moscicki</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><forename type="middle">P</forename><surname>Schinke</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11121-011-0217-6</idno>
+		<idno>doi: 10.1007/s11121-011-0217-6</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Experimental Neurology</title>
+		<imprint>
+			<biblScope unit="volume">233</biblScope>
+			<biblScope unit="page" from="103" to="117" />
+			<date type="published" when="2011">2012. 2011</date>
+		</imprint>
+	</monogr>
+	<note>Prevention Science</note>
+</biblStruct>
+
+<biblStruct coords="9,378,00,54,67,178,31,7,66;9,378,00,64,67,190,47,7,66;9,378,00,74,67,177,42,7,66;9,378,00,84,67,189,89,7,66;9,378,00,94,67,113,39,7,66;9,378,00,104,67,193,07,7,66;9,378,00,114,67,194,32,7,66;9,378,00,124,67,181,27,7,66;9,378,00,134,67,180,05,7,66;9,378,00,144,67,114,14,7,66" xml:id="b10">
+	<analytic>
+		<title level="a" type="main">On the reproducibility of science: unique identification of research resources in the biomedical literature</title>
+		<author>
+			<persName coords=""><forename type="first">N</forename><forename type="middle">A</forename><surname>Vasilevsky</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">H</forename><surname>Brush</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">H</forename><surname>Paddock</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>Ponting</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><forename type="middle">J</forename><surname>Tripathy</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">G</forename><forename type="middle">M</forename><surname>Larocca</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">A</forename><surname>Haendel</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">T</forename><forename type="middle">H</forename><surname>Vines</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><forename type="middle">Y</forename><surname>Albert</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><forename type="middle">L</forename><surname>Andrew</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">F</forename><surname>Debarre</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">D</forename><forename type="middle">G</forename><surname>Bock</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">T</forename><surname>Franklin</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><forename type="middle">J</forename><surname>Gilbert</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">S</forename><surname>Moore</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Renaut</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">D</forename><forename type="middle">J</forename><surname>Rennison</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.cub.2013.11.014</idno>
+		<idno>doi: 10.1016/j.cub.2013.11.014</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Current Biology</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="94" to="97" />
+			<date type="published" when="2013">2013. 2014</date>
+		</imprint>
+	</monogr>
+	<note>PeerJ</note>
+</biblStruct>
+
+<biblStruct coords="9,378,00,154,67,192,19,7,66;9,378,00,164,67,178,01,7,66;9,378,00,174,67,156,42,7,66;9,378,00,184,67,163,18,7,66;9,378,00,194,67,174,64,7,66;9,378,00,204,67,169,84,7,66;9,378,00,214,67,73,39,7,66;9,378,00,224,67,194,03,7,66;9,378,00,234,67,195,82,7,66;9,378,00,244,67,181,39,7,66;9,378,00,254,67,122,30,7,66" xml:id="b11">
+	<analytic>
+		<title level="a" type="main">The poor availability of psychological research data for reanalysis</title>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Wadmann</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">E</forename><forename type="middle">J</forename><surname>Wagenmakers</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><surname>Wetzels</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">D</forename><surname>Borsboom</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">H</forename><forename type="middle">L</forename><surname>Van Der Maas</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><forename type="middle">A</forename><surname>Kievit</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">M</forename><surname>Wicherts</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">D</forename><surname>Borsboom</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Kats</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">D</forename><surname>Molenaar</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0003-066X.61.7.726</idno>
+		<idno>doi: 10.1037/0003-066X.61.7.726</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Perspectives on Psychological Science</title>
+		<imprint>
+			<biblScope unit="volume">500</biblScope>
+			<biblScope unit="page" from="726" to="728" />
+			<date type="published" when="2006">2013. 2012. 2006</date>
+		</imprint>
+	</monogr>
+	<note>The American Psychologist</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,2125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">A Mixed Methods Investigation of Mixed Methods Sampling Designs in Social and Health Science Research</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>SAGE Publications</publisher>
+				<availability status="unknown"><p>Copyright SAGE Publications</p>
+				</availability>
+				<date type="published" when="2007-07">2007-07</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName coords="2,64,50,203,40,140,47,13,72"><forename type="first">Kathleen</forename><forename type="middle">M T</forename><surname>Collins</surname></persName>
+							<email>kcollinsknob@cs.com</email>
+							<affiliation key="aff0">
+								<orgName type="institution">University of Arkansas at Fayetteville</orgName>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department" key="dep1">Department of Curriculum and Instruction</orgName>
+								<orgName type="department" key="dep2">College of Education and Health Professions</orgName>
+								<orgName type="institution">University of Arkansas</orgName>
+								<address>
+									<addrLine>310 Peabody Hall</addrLine>
+									<settlement>Fayetteville</settlement>
+									<region>AR</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="2,64,50,236,04,154,49,13,72"><forename type="first">Anthony</forename><forename type="middle">J</forename><surname>Onwuegbuzie</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">University of South Florida</orgName>
+								<address>
+									<settlement>Tampa</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="2,64,50,268,68,72,75,13,72"><forename type="first">Qun</forename><forename type="middle">G</forename><surname>Jiao</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="institution" key="instit1">Baruch College</orgName>
+								<orgName type="institution" key="instit2">City University of New York</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">A Mixed Methods Investigation of Mixed Methods Sampling Designs in Social and Health Science Research</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Journal of Mixed Methods Research</title>
+						<title level="j" type="abbrev">Journal of Mixed Methods Research</title>
+						<idno type="ISSN">1558-6898</idno>
+						<idno type="eISSN">1558-6901</idno>
+						<imprint>
+							<publisher>SAGE Publications</publisher>
+							<biblScope unit="volume">1</biblScope>
+							<biblScope unit="issue">3</biblScope>
+							<biblScope unit="page" from="267" to="294"/>
+							<date type="published" when="2007-07" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">E71A7419053B8338F691DD973CDE9952</idno>
+					<idno type="DOI">10.1177/1558689807299526</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.2" ident="GROBID" when="2023-03-06T12:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>sampling</term>
+					<term>sample size</term>
+					<term>interpretive consistency</term>
+					<term>representation</term>
+					<term>generalization</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>A sequential design utilizing identical samples was used to classify mixed methods studies via a twodimensional model, wherein sampling designs were grouped according to the time orientation of each study's components and the relationship of the qualitative and quantitative samples. A quantitative analysis of 121 studies representing nine elds in the social or health sciences revealed that more studies utilized a sampling design that was concurrent (66.1%) than sequential (33.9%). Also, identical sampling designs were the most prevalent, followed by nested sampling, multilevel sampling, and parallel sampling, respectively. Qualitative analysis suggested that across a number of studies the researchers made statistical generalizations that were not sufciently warranted-culminating in interpretive inconsistency and contributing to crises of representation, legitimation, integration, and politics.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="9" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="10" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="11" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="12" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="13" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="14" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="15" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="16" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="17" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="18" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="19" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="20" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="21" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="22" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="23" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="24" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="25" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="26" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="27" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="28" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+		<surface n="29" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>includes the use of induction (or discovery of patterns), deduction (testing of theories and hypotheses), and abduction (uncovering and relying on the best of a set of explanations for understanding one's results). <ref type="bibr" coords="3,215,35,116,45,51,75,10,55">(pp. 17-18)</ref> The past decade has seen a proliferation in the number of mixed methods studies undertaken. The popularization of mixed methods research has led to an increase in the number of publications devoted to methodological issues in this eld-the most comprehensive of which, to date, has been the Handbook of Mixed Methods in Social &amp; Behavioral Research <ref type="bibr" coords="3,117,18,204,55,157,71,11,61">(Tashakkori &amp; Teddlie, 2003a)</ref>, which has provided researchers with some theoretical and practical tools for conducting mixed methods research. Nevertheless, as noted by <ref type="bibr" coords="3,83,35,234,86,160,89,11,61" target="#b80">Teddlie and Tashakkori (2003)</ref>, six unresolved issues and controversies in the use of mixed methods in the social and behavioral sciences still prevail, namely, (a) the nomenclature and basic denitions used in mixed methods research, (b) the utility of mixed methods research, (c) the paradigmatic underpinning for mixed methods research, (d) design issues in mixed methods research, (e) issues in making inferences in mixed methods research, and (f) the logistics of conducting mixed methods research. Moreover, <ref type="bibr" coords="3,66,16,325,85,108,69,11,61" target="#b54">Onwuegbuzie (2007)</ref> has identied the following four crises or challenges that researchers face when undertaking mixed methods research: representation, legitimation, integration, and politics. Each of these challenges, which incorporates one or more of Teddlie and Tashakkori's six unresolved issues, is discussed in the following section.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Four Challenges in Mixed Methods Research</head><p>The challenge of representation refers to the fact that sampling problems characterize both quantitative and qualitative research. With respect to quantitative research, the majority of studies utilize sample sizes that are too small to detect statistically signicant differences or relationships (i.e., statistical power typically ranging from .4 to .6, with an average statistical power of .5; <ref type="bibr" coords="3,183,59,507,67,62,74,11,61" target="#b8">Cohen, 1962</ref><ref type="bibr" coords="3,255,44,507,67,22,96,11,61" target="#b9">Cohen, , 1965</ref><ref type="bibr" coords="3,287,49,507,67,22,96,11,61" target="#b10">Cohen, , 1988</ref><ref type="bibr" coords="3,319,54,507,67,28,95,11,61" target="#b10">Cohen, , 1992;;</ref><ref type="bibr" coords="3,351,97,507,67,78,04,11,61" target="#b67">Schmidt, 1996;</ref><ref type="bibr" coords="3,433,50,507,67,97,80,11,61;3,66,16,522,79,28,95,11,61" target="#b68">Schmidt &amp; Hunter, 1997;</ref><ref type="bibr" coords="3,98,93,522,79,165,13,11,61" target="#b69">Schmidt, Hunter, &amp; Urry, 1976;</ref><ref type="bibr" coords="3,267,82,522,79,162,29,11,61" target="#b71">Sedlmeier &amp; Gigerenzer, 1989)</ref> and utilize nonrandom samples that prevent effect-size estimates from being generalized to the underlying population <ref type="bibr" coords="3,124,41,553,12,193,27,11,61" target="#b57">(Onwuegbuzie, Jiao, &amp; Bostick 2004)</ref>. In qualitative research, the challenge of representation refers to the difculties researchers encounter in capturing lived experiences via their social texts <ref type="bibr" coords="3,174,36,583,45,132,70,11,61" target="#b21">(Denzin &amp; Lincoln, 2005)</ref>. In mixed methods research, the challenge of representation often is intensied because both the qualitative and quantitative components of studies bring to the study their own unique challenges. In mixed methods studies, the challenge of representation refers to the difculty in capturing (i.e., representing) the lived experience using text in general and words and numbers in particular.</p><p>The second challenge in mixed methods research pertains to legitimation or validity. With respect to quantitative research, the importance of legitimation, or what is more commonly referred to as ''validity,'' has been long acknowledged and is well documented in the literature, including measurement-related validity (e.g., construct-related validity, criterion-related validity, content-related validity) and design-related validity (e.g., internal validity, external validity; American Educational Research Association, American Psychological Association, &amp; National Council on Measurement in <ref type="bibr" coords="3,440,42,750,23,90,95,11,61">Education, 1999;</ref><ref type="bibr" coords="4,64,50,88,83,119,09,11,61" target="#b3">Bracht &amp; Glass, 1968;</ref><ref type="bibr" coords="4,188,17,88,83,87,10,11,61" target="#b4">Campbell, 1957;</ref><ref type="bibr" coords="4,279,85,88,83,144,96,11,61" target="#b5">Campbell &amp; Stanley, 1963;</ref><ref type="bibr" coords="4,429,38,88,83,100,29,11,61;4,64,50,103,95,29,25,11,61" target="#b14">Cook &amp; Campbell, 1979;</ref><ref type="bibr" coords="4,98,66,103,95,73,97,11,61" target="#b44">Messick, 1989</ref><ref type="bibr" coords="4,183,32,103,95,29,25,11,61" target="#b45">Messick, , 1995;;</ref><ref type="bibr" coords="4,217,48,103,95,187,02,11,61" target="#b72">Shadish, Cook, &amp; Campbell, 2001;</ref><ref type="bibr" coords="4,409,42,103,95,114,77,11,61" target="#b75">Smith &amp; Glass, 1987)</ref>. With respect to the qualitative research paradigm, the issue of legitimation has been more controversial. However, some prominent qualitative researchers argue for ''a serious rethinking of such terms as validity, generalizability, and reliability, terms already retheorized in postpositivist . . . , constructivist-naturalistic, feminist . . . , interpretive . . . , poststructural . . . , and critical . . . discourses'' <ref type="bibr" coords="4,309,51,179,71,169,54,11,61">(Denzin &amp; Lincoln, 2005, p. 17)</ref> and have reconceptualized traditional validity in ways such as the following: credibility (replacement for quantitative concept of internal validity), transferability (replacement for quantitative concept of external validity), dependability (replacement for quantitative concept of reliability), and conrmability (replacement for quantitative concept of objectivity; <ref type="bibr" coords="4,64,50,255,55,121,15,11,61" target="#b41">Lincoln &amp; Guba, 1985)</ref>. As is the case for the challenge of representation, the challenge of legitimation is greater in mixed methods studies than in monomethod studies (i.e., quantitative research or qualitative alone). The challenge of legitimation refers to the difculty in obtaining ndings and/or making inferences that are credible, trustworthy, dependable, transferable, and/or conrmable <ref type="bibr" coords="4,297,17,316,15,167,85,11,61" target="#b58">(Onwuegbuzie &amp; Johnson, 2006)</ref>.</p><p>The third challenge in mixed methods research pertains to integration. This challenge compels mixed methods researchers to ask questions such as the following: Is it appropriate to triangulate, expand, compare, or consolidate quantitative data originating from a large, random sample with qualitative data arising from a small, purposive sample? How much weight should researchers and/or consumers place on qualitative data compared to quantitative data?</p><p>The fourth challenge in mixed methods research is the challenge of politics. This challenge refers to the tensions that come to the fore as a result of combining qualitative and quantitative approaches. These tensions include any conicts that occur when different investigators are used for the qualitative and quantitative components of an investigation, as well as the contradictions and paradoxes that come to the fore when qualitative and quantitative data are compared and contrasted. The challenge of politics also pertains to the difculty in persuading the consumers of mixed methods research, including stakeholders and policy makers, to value the ndings stemming from both the qualitative and quantitative phases of a study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Addressing the Four Challenges in Mixed Methods Research</head><p>For mixed methods research to maximize its credibility as a paradigm <ref type="bibr" coords="4,451,64,619,25,73,04,11,61;4,64,51,634,45,298,20,11,61">(i.e., investigation validity, communicative validity, and action validity;</ref><ref type="bibr" coords="4,366,09,634,45,64,95,11,61">Kvale, 1995)</ref>, it is essential that these four challenges be addressed. Of the 13 steps in the mixed methods research process identied by <ref type="bibr" coords="4,137,08,664,78,221,20,11,61" target="#b12">Collins, Onwuegbuzie, and Sutton (2006)</ref>, 1 we believe that selecting the sampling design, which comprises making decisions about the sampling scheme(s) and sample size(s), is a pivotal step for addressing simultaneously these four challenges. In particular, as noted by <ref type="bibr" coords="4,199,18,710,20,195,42,11,61">Onwuegbuzie and Collins (in press</ref>), representation can be improved by ensuring that sampling decisions stem from (a) the research goal (predict; add to the knowledge base; have a personal, social, institutional, and/or organizational impact; measure change; understand complex phenomena; test new ideas; generate new ideas; inform constituencies; or examine the past <ref type="bibr" coords="5,346,71,88,83,184,64,11,61;5,66,16,103,95,81,07,11,61" target="#b52">[Newman, Ridenour, Newman, &amp; DeMarco, 2003]</ref>), (b) research objective (i.e., exploration, description, explanation, prediction, or inuence <ref type="bibr" coords="5,158,78,119,15,157,63,11,61" target="#b33">[Johnson &amp; Christensen, 2004]</ref>), (c) rationale of the study and rationale for mixing qualitative and quantitative approaches (i.e., participant enrichment, instrument delity, treatment integrity, and signicance enhancement <ref type="bibr" coords="5,370,23,149,47,155,73,11,61;5,66,16,164,59,50,37,11,61" target="#b12">[Collins, Onwuegbuzie, &amp; Sutton, 2006]</ref>), (d) purpose of the study and purpose for mixing qualitative and quantitative approaches (e.g., recruit participants, assess the appropriateness and/or utility of existing instrument(s); assess delity of intervention; augment interpretation of ndings <ref type="bibr" coords="5,487,21,194,91,44,08,11,61;5,66,16,210,03,156,84,11,61" target="#b12">[Collins, Onwuegbuzie, &amp; Sutton, 2006]</ref>), and (e) research question(s). For example, with respect to the research goal, the goal of predicting as opposed to understanding complex phenomena likely will lead to a different research objective (i.e., prediction vs. exploration, description, or explanation), rationale (e.g., instrument delity vs. participant enrichment), research purpose (e.g., triangulation vs. expansion), and research questions-thereby culminating in different sampling designs, sampling schemes, and sample sizes that yield more rigorous research studies. Representation also can be enhanced by ensuring that the sample selected for each component of the mixed methods study is compatible with the research design.</p><p>Furthermore, the samples that are selected for the qualitative and quantitative components should (a) generate adequate data pertaining to the phenomenon of interest under study-these data allow thick, rich description that increases descriptive validity and interpretive validity <ref type="bibr" coords="5,175,17,376,81,86,19,11,61" target="#b43">(Maxwell, 1992)</ref>; (b) help the researcher to obtain data saturation, theoretical saturation, and/or informational redundancy <ref type="bibr" coords="5,365,03,392,01,68,66,11,61" target="#b24">(Flick, 1998;</ref><ref type="bibr" coords="5,439,21,392,01,92,14,11,61;5,66,16,407,14,29,25,11,61" target="#b41">Lincoln &amp; Guba, 1985;</ref><ref type="bibr" coords="5,98,67,407,14,68,39,11,61" target="#b51">Morse, 1995;</ref><ref type="bibr" coords="5,170,32,407,14,123,54,11,61" target="#b76">Strauss &amp; Corbin, 1990)</ref>; and (c) allow the researcher to make statistical and/or analytical generalizations. In other words, the sampling design should allow mixed methods researchers to make generalizations to other participants, populations, settings, locations, contexts, events, incidents, activities, experiences, times, and/or processes-such that it facilitates internal and/or external generalizations <ref type="bibr" coords="5,478,22,467,80,53,12,11,61;5,66,16,482,93,27,60,11,61" target="#b43">(Maxwell, 1992)</ref>. In the context of a mixed methods design, the researcher may purposively extend the conclusions based on the quantitative and qualitative components to the group or context studied (i.e., internal generalizations) or extend the conclusions to another context or group of individuals who are representative of the study's sample (i.e., external or crosspopulation generalizations) <ref type="bibr" coords="5,209,73,543,57,68,33,11,61" target="#b30">(Hood, 2006;</ref><ref type="bibr" coords="5,281,25,543,57,81,27,11,61" target="#b43">Maxwell, 1992;</ref><ref type="bibr" coords="5,365,71,543,57,158,82,11,61" target="#b60">Onwuegbuzie &amp; Leech, 2005a)</ref>.</p><p>Legitimation can be enhanced by ensuring that inferences stem directly from the underlying sample of units <ref type="bibr" coords="5,181,40,573,88,225,49,11,61" target="#b18">(Curtis, Gesler, Smith, &amp; Washburn, 2000;</ref><ref type="bibr" coords="5,411,01,573,88,120,35,11,61;5,66,16,589,08,75,69,11,61" target="#b36">Kemper, Stringeld, &amp; Teddlie, 2003;</ref><ref type="bibr" coords="5,145,63,589,08,137,39,11,61" target="#b47">Miles &amp; Huberman, 1994;</ref><ref type="bibr" coords="5,286,87,589,08,171,06,11,61">Onwuegbuzie &amp; Collins, in press</ref>). In addition, an appropriate sampling design also can increase theoretical validity <ref type="bibr" coords="5,439,81,604,20,86,06,11,61" target="#b43">(Maxwell, 1992)</ref>. Also, the sampling design can enhance legitimation by incorporating audit trails <ref type="bibr" coords="5,482,46,619,32,48,85,11,61;5,66,16,634,52,29,25,11,61" target="#b28">(Halpern, 1983;</ref><ref type="bibr" coords="5,98,60,634,52,118,17,11,61" target="#b41">Lincoln &amp; Guba, 1985)</ref>.</p><p>The challenge of integration can be reduced by utilizing sampling designs that help researchers to make meta-inferences (i.e., both sets of inferences are combined into a coherent whole; <ref type="bibr" coords="5,121,83,679,95,147,96,11,61" target="#b79">Tashakkori &amp; Teddlie, 2003b)</ref> that adequately represent the quantitative and qualitative ndings and allow the appropriate emphasis to be placed. Finally, the challenge of politics can be decreased by employing sampling designs that are realistic (i.e., leads to an accurate account of the phenomenon), efcient (i.e., can be undertaken using the available resources), practical (i.e., compatible with the researcher's competencies, experiences, interests, and work style; within the scope of the potential sample members), and ethical (i.e., adheres to the ethical guidelines stipulated by organizations such as institutional review boards to ensure that the integrity of the study is maintained throughout and that all sample members are protected).</p><p>Thus, as can be seen, choice of sampling designs is a vital step in the mixed methods research process. Thus, it is somewhat surprising that the issue of sampling was not included as one of <ref type="bibr" coords="6,163,84,149,47,170,40,11,61" target="#b80">Teddlie and Tashakkori's (2003)</ref> six issues of concern in mixed methods research. It is even more surprising that a comprehensive review of the literature revealed that, to date, only four articles were identied that deal specically with the topic of sampling within a mixed methods framework (i.e., <ref type="bibr" coords="6,363,30,194,91,166,41,11,61;6,64,51,210,03,29,25,11,61" target="#b11">Collins, Onwuegbuzie, &amp; Jiao, 2006;</ref><ref type="bibr" coords="6,96,96,210,03,105,28,11,61" target="#b36">Kemper et al., 2003;</ref><ref type="bibr" coords="6,205,43,210,03,174,25,11,61">Onwuegbuzie &amp; Collins, in press;</ref><ref type="bibr" coords="6,382,88,210,03,105,36,11,61" target="#b81">Teddlie &amp; Yu, 2007)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sampling Designs</head><p>As noted by <ref type="bibr" coords="6,143,71,277,71,183,06,11,61">Onwuegbuzie and Collins (in press)</ref>, sampling designs comprise two major components: the sampling scheme and the sample size. The sampling scheme denotes the explicit strategies used to select units (e.g., people, groups, settings, and events), whereas the sample size indicates the number of units selected for the study. In mixed methods studies, the researcher must make sampling scheme and sample size considerations for both the qualitative and quantitative phases of the study. Thus, mixed methods sampling designs represent the framework within which the sampling occurs, including the number and types of sampling schemes, as well as the sample size.</p><p>Sampling schemes. Using the frameworks of <ref type="bibr" coords="6,317,79,412,91,71,87,11,61" target="#b65">Patton (1990)</ref> and <ref type="bibr" coords="6,417,96,412,91,111,71,11,61;6,64,49,428,11,32,05,11,61" target="#b47">Miles and Huberman (1994)</ref>, <ref type="bibr" coords="6,106,49,428,11,169,45,11,61" target="#b62">Onwuegbuzie and Leech (2007)</ref> identied 24 sampling schemes that qualitative and quantitative researchers have available for use. All of these sampling schemes fall into one of two classes: random sampling (i.e., probabilistic sampling; n ¼ 5) schemes or nonrandom sampling (i.e., nonprobabilistic sampling; n ¼ 19) schemes. These 24 sampling schemes are presented in Table <ref type="table" coords="6,228,36,488,70,4,81,11,61" target="#tab_0">1</ref>. 2;3   Sample size. To increase representation, it is essential that power analyses are conducted in both quantitative (cf. <ref type="bibr" coords="6,229,43,533,00,70,52,11,61" target="#b10">Cohen, 1988)</ref> and qualitative (cf. <ref type="bibr" coords="6,405,90,533,00,123,78,11,61;6,64,49,548,19,29,92,11,61" target="#b62">Onwuegbuzie &amp; Leech, 2007)</ref> research. Such power analyses provide researchers with information regarding appropriate sample sizes for both quantitative and qualitative phases of a mixed methods investigation. Table <ref type="table" coords="6,173,30,578,44,6,41,11,61" target="#tab_1">2</ref> presents minimum sample sizes for several of the most common quantitative and qualitative research designs. The sample sizes corresponding to the traditional quantitative research designs (i.e., correlational, causal-comparative, experimental) are the result of the statistical power analyses undertaken by <ref type="bibr" coords="6,389,19,623,95,140,53,11,61">Onwuegbuzie et al. (2004)</ref> that represent sizes for detecting moderate effect sizes with .80 statistical power at the 5% level of signicance. Conversely, the criteria for sample size in qualitative research are not based on probability computations but represent expert opinion. 4   </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Generalizability</head><p>According to <ref type="bibr" coords="6,149,61,739,40,169,48,11,61" target="#b60">Onwuegbuzie and Leech (2005a)</ref>, there are three major types of generalizations: (a) statistical generalizations (i.e., making generalizations or inferences on data extracted from a representative statistical sample to the population from which the sample was drawn), (b) analytic generalizations (i.e., ''applied to wider theory on the basis of how selected cases 't' with general constructs'' <ref type="bibr" coords="8,327,42,466,86,97,92,11,61" target="#b18">[Curtis et al., 2000</ref><ref type="bibr" coords="8,450,07,466,86,26,71,11,61">[Curtis et al., , p. 1002]]</ref>), and (c) case-to-case transfer (i.e., making generalizations from one case to another similar case <ref type="bibr" coords="8,64,50,497,17,88,50,11,61" target="#b23">[Firestone, 1993;</ref><ref type="bibr" coords="8,156,99,497,17,80,25,11,61" target="#b37">Kennedy, 1979]</ref>). More specically, statistical generalizability refers to representativeness, whereas analytic generalizability and case-to-case transfer relate to conceptual power <ref type="bibr" coords="8,162,62,527,49,144,04,11,61" target="#b47">(Miles &amp; Huberman, 1994)</ref>. Sampling designs play a pivotal role in determining the type of generalizations that is justiable. In particular, whereas large and random samples tend to allow statistical generalizations, small and purposive samples tend to facilitate analytical generalizations and case-to-case transfers. As such, quantitative researchers tend to make statistical generalizations, whereas qualitative researchers tend to make either analytic generalizations or case-to-case transfers. However, in mixed methods research, because quantitative and qualitative research approaches are combined, making appropriate generalizations become even more complex. <ref type="bibr" coords="8,78,49,648,75,208,26,11,61" target="#b11">Collins, Onwuegbuzie, and Jiao (2006)</ref> coined the phrase interpretive consistency to denote the consistency between the inferences made by the researcher(s) and the sampling design (e.g., sampling scheme, sample size) used. Figure <ref type="figure" coords="8,372,54,679,08,6,41,11,61" target="#fig_0">1</ref> provides a two-dimensional representation that indicates sampling designs that can yield statistical generalizations with interpretive consistency. In this gure, it can be seen that statistical generalizations typically represent interpretive consistency when both sets of quantitative and qualitative samples are large and, preferably, random-that is, when both sets of samples are representative of the population to which the meta-inferences are being made. When the one  <ref type="bibr" coords="8,240,64,254,90,68,96,9,50" target="#b15">(Creswell, 1998)</ref>; 6 <ref type="bibr" coords="8,324,68,254,90,55,08,9,50" target="#b50">(Morse, 1994</ref>) Grounded theory</p><p>15-20 <ref type="bibr" coords="8,209,92,267,70,68,96,9,50" target="#b16">(Creswell, 2002)</ref>; 20-30 <ref type="bibr" coords="8,314,93,267,70,65,69,9,50" target="#b15">(Creswell, 1998</ref>) Ethnography 1 cultural group <ref type="bibr" coords="8,250,91,280,50,68,96,9,50" target="#b16">(Creswell, 2002)</ref>; 30-50 interviews <ref type="bibr" coords="8,402,36,280,50,55,08,9,50" target="#b50">(Morse, 1994</ref>) Ethological 100-200 units of observation <ref type="bibr" coords="8,306,51,293,38,60,04,9,50" target="#b50">(Morse, 1994)</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Research method</head><p>Focus group 6-9 participants <ref type="bibr" coords="8,251,26,318,98,65,98,9,50" target="#b39">(Krueger, 2000)</ref>; 6-10 participants <ref type="bibr" coords="8,399,86,318,98,108,64,9,50;8,191,54,331,85,47,35,9,50" target="#b40">(Langford, Schoenfeld, &amp; Izzo, 2002;</ref><ref type="bibr" coords="8,241,50,331,85,61,33,9,50" target="#b49">Morgan, 1997)</ref>; 6-12 participants <ref type="bibr" coords="8,385,40,331,85,124,44,9,50" target="#b33">(Johnson &amp; Christensen, 2004</ref>); 6-12 participants <ref type="bibr" coords="8,266,98,344,65,65,45,9,50" target="#b2">(Bernard, 1995)</ref>; 8-12 participants <ref type="bibr" coords="8,415,05,344,65,94,29,9,50;8,191,54,357,45,74,97,9,50" target="#b1">(Baumgartner, Strong, &amp; Hensley, 2002)</ref> a. For correlational, causal-comparative, and experimental research designs, the recommended sample sizes represent those needed to detect a medium (using <ref type="bibr" coords="8,195,20,390,92,58,56,8,44" target="#b10">Cohen's [1988]</ref> criteria), one-tailed and/or two-tailed statistically signicant relationship or difference with .80 power at the 5% level of signicance.</p><p>Collins et al. / Mixed Methods Sampling Designs 273 set of samples is large (i.e., representative) and the other set small (i.e., purposive), then statistical generalizations might still represent interpretive consistency, especially if the component containing the large sample(s) represents the dominant research approach in the mixed methods study. In contrast, statistical generalizations typically represent interpretive inconsistency when both sets of quantitative and qualitative samples are small. However, for this latter scenario, interpretive consistency likely would occur if analytical generalizations/case-to-case transfers are made instead.</p><p>Figure <ref type="figure" coords="9,116,70,620,25,6,41,11,61" target="#fig_1">2</ref> represents a two-dimensional diagram portraying two sets of poles, namely, (a) a vertical pole representing the quantitative phase, with analytical generalization/case-tocase transfer and statistical generalization at the opposite ends of the continuum; and (b) a horizontal line representing the qualitative phase, with analytical generalization/case-tocase transfer and statistical generalization at the opposite ends of the continuum. That is, the vertical pole represents the inferences stemming from the quantitative ndings, whereas the horizontal line represents the inferences stemming from the qualitative ndings. In Figure <ref type="figure" coords="9,521,72,711,24,4,81,11,61" target="#fig_1">2</ref>, the upper left quadrant, labeled as ''(1),'' represents meta-inferences that involve purely analytical generalization/case-to-case transfer(s). In stark contrast, the bottom right quadrant, labeled as ''(4),'' represents meta-inferences that involve purely statistical generalizations. The upper right quadrant, labeled as ''(2),'' represents meta-inferences that involve a combination of statistical generalizations from the qualitative phase and analytical generalization/ case-to-case transfer(s) from the quantitative phase. Finally, the lower left quadrant, marked as ''(3),'' represents meta-inferences that involve a combination of statistical generalizations from the quantitative phase and analytical generalization/case-to-case transfer(s) from the qualitative phase. Meta-inferences made by mixed methods researchers typically fall into one of these four quadrants, with the exact point on the quadrant being determined by the extent to which statistical generalizations versus analytical generalizations/case-to-case transfers are derived from the data stemming from each phase.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Framework for Mixed Methods Sampling Designs</head><p>Onwuegbuzie and Collins (in press) have provided a useful framework for helping mixed methods researchers identify rigorous sampling designs as well as classify mixed methods studies in the extant literature with respect to their sampling strategies. This framework incorporates a two-dimensional mixed methods sampling model. Specically, this model provides a typology in which mixed methods sampling designs can be categorized according to (a) the time orientation of the components and (b) the relationship of the qualitative and quantitative samples. Time orientation refers to whether the qualitative and quantitative phases occur sequentially or concurrently. A sequential sampling design involves the qualitative phase rst being conducted to inform the subsequent quantitative phase, or vice versa. That is, a sequential sampling design involves some or all of the ndings stemming from the sample selected for one phase being needed to drive the second phase and, subsequently, the sample pertaining to this phase. Conversely, when a concurrent sampling design is utilized, data stemming from the sample selected for one phase do not inform the data stemming from the sample selected for the other phase. However, data obtained from both samples are integrated and interpreted at the data interpretation stage.</p><p>According to <ref type="bibr" coords="11,150,47,708,25,177,16,11,61">Onwuegbuzie and Collins (in press</ref>), the relationship of the qualitative and quantitative samples either can be identical, parallel, nested, or multilevel. An identical relationship indicates that exactly the same sample members participate in both the qualitative and quantitative phases of the study. In contrast, a parallel relationship denotes that the samples for the qualitative and quantitative components of the investigation are different but are drawn from the same underlying population (e.g., elementary school students from one school in one phase and elementary school students from another school for the other phase). A nested relationship implies that the sample members selected for one component of the inquiry represent a subset of those participants chosen for the other phase of the study. Finally, a multilevel relationship involves the use of two or more sets of samples that are obtained from different levels of the investigation (i.e., different populations). For example, whereas one phase of the study (e.g., quantitative phase) might involve the sampling of students within a high school, the other phase (e.g., qualitative) might involve the sampling of their teachers, guidance counselors, principal, and/or parents.</p><p>The two criteria, namely, time orientation and sample relationship, yield eight unique sample designs that typify the various ways that the quantitative and qualitative samples are selected by mixed methods researchers. 5 Figure <ref type="figure" coords="12,338,56,270,68,6,41,11,61" target="#fig_2">3</ref> provides a visual representation of this two-dimensional mixed methods sampling model developed by <ref type="bibr" coords="12,434,30,285,88,95,39,11,61;12,64,50,301,01,87,20,11,61">Onwuegbuzie and Collins (in press</ref>). The following section provides a description of study designs that exemplify each of the eight sample designs that comprise the two-dimensional mixed methods sampling model.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Two-Dimensional Mixed Methods Sampling Model</head><p>Design 1 involves a concurrent design using identical samples for both quantitative and qualitative components of the investigation. An example of a Design 1 sampling design is the study conducted by <ref type="bibr" coords="12,192,61,422,27,166,67,11,61" target="#b25">Forsbach and Thompson (2003)</ref>. Utilizing survey methodology, these researchers examined the perceptions of 111 adult survivors of childhood cancer about the quality of their interpersonal adult relationships with peers and siblings. Participants' answers to an online survey were quantitatively analyzed. The survey also contained one open-ended question.</p><p>Responses to the open-ended question were qualitatively analyzed. By collecting within the same time frame quantitative and qualitative data from the same sample members, the researchers used a concurrent, identical sampling design. Critical case purposive sampling was used to select the identical samples <ref type="bibr" coords="12,443,34,528,35,80,28,11,61;12,64,51,543,48,57,77,11,61" target="#b47">(Miles &amp; Huberman, 1994;</ref><ref type="bibr" coords="12,125,47,543,48,66,81,11,61" target="#b65">Patton, 1990)</ref>.</p><p>Design 2 involves a concurrent design using parallel samples for the qualitative and quantitative components of the study. An example of a Design 2 sampling design is the study conducted by <ref type="bibr" coords="12,171,99,589,01,75,84,11,61" target="#b26">Gordon (2002)</ref>. This researcher examined music educators' perceptions about teacher stress and the degree that classroom management and discipline are perceived as stressors within the educational environment. Participants comprised two samples of music teachers. The rst sample consisted of 103 music educators who completed a questionnaire designed to measure teacher stress levels. The second sample consisted of 4 music teachers who served as case study participants and who provided interview data about job stress. These samples were selected purposively utilizing a homogeneous sampling scheme <ref type="bibr" coords="12,201,83,695,13,139,71,11,61" target="#b47">(Miles &amp; Huberman, 1994;</ref><ref type="bibr" coords="12,344,66,695,13,66,89,11,61" target="#b65">Patton, 1990)</ref>.</p><p>Design 3 involves a concurrent design using nested samples for the quantitative and qualitative facets of the study. An example of a Design 3 sampling design is the study conducted by <ref type="bibr" coords="12,121,04,740,59,162,49,11,61" target="#b42">Mactavish and Schleien (2004)</ref>. The purpose of this study was to investigate family recreation as a factor impacting dynamics in families that included children with developmental disabilities. In the quantitative phase of the study, 65 families completed a questionnaire. In the qualitative phase of the study, a subset of 16 families who had expressed an interest in participating in a follow-up interview was interviewed. These samples were selected purposively utilizing a criterion sampling scheme <ref type="bibr" coords="13,444,43,134,27,80,81,11,61;13,66,16,149,47,57,77,11,61" target="#b47">(Miles &amp; Huberman, 1994;</ref><ref type="bibr" coords="13,127,12,149,47,66,81,11,61" target="#b65">Patton, 1990)</ref>.</p><p>Design 4 involves a concurrent design using multilevel samples for the quantitative and qualitative components of the study. An example of a Design 4 sampling design is an inquiry undertaken by <ref type="bibr" coords="13,183,78,194,91,106,20,11,61" target="#b70">Schrum, Skeele, and</ref><ref type="bibr" coords="13,293,52,194,91,94,49,11,61" target="#b70">Grant (2002-2003)</ref>. These researchers utilized a case study approach to evaluate the integration of technology in a college curriculum during a 2-year period from the perspectives of faculty, students, administrators, and technology project directors. In the quantitative component, 13 faculty and students, 183 in Year 1 and 135 in Year 2, completed a prequestionnaire and a postquestionnaire designed to assess their technology skills. In the qualitative component, faculty members, technology project directors, and university administrators participated in focus groups to discuss ways to improve the technology project. The multilevel samples were selected purposively utilizing a criterion sampling scheme <ref type="bibr" coords="13,230,82,316,15,137,67,11,61" target="#b47">(Miles &amp; Huberman, 1994;</ref><ref type="bibr" coords="13,371,59,316,15,65,71,11,61" target="#b65">Patton, 1990)</ref>.</p><p>Design 5 involves a sequential design using identical samples for both the quantitative and qualitative components of the investigation. An example of a Design 5 sampling design is a study conducted by <ref type="bibr" coords="13,226,26,361,68,252,11,11,61" target="#b48">Minor, Onwuegbuzie, Witcher, and James (2002)</ref>, in which 134 preservice teachers respond to a questionnaire asking them to identify characteristics that exemplify excellent college teaching. They also responded to a second questionnaire designed to assess educational beliefs. In the qualitative phase, preservice teachers' responses pertaining to effective college teaching were developed into themes. In the quantitative stage, preservice teachers' themes and their responses to the educational belief questionnaire were analyzed to determine if a relationship existed between the qualitative themes and preservice teachers' beliefs. The sample was selected purposively utilizing a convenience sampling scheme <ref type="bibr" coords="13,267,23,482,93,139,71,11,61" target="#b47">(Miles &amp; Huberman, 1994;</ref><ref type="bibr" coords="13,410,14,482,93,66,81,11,61" target="#b65">Patton, 1990)</ref>.</p><p>Design 6 involves a sequential design using parallel samples for the quantitative and qualitative components of the study. An example of a Design 6 sampling design is the study conducted by <ref type="bibr" coords="13,169,91,528,45,117,77,11,61" target="#b53">O'Cathain et al. (2004)</ref>. The study's purpose was to assess the consistency of nurses' triage decisions, the relationship between nurses' clinical backgrounds and decision variations, and nurses' perceptions regarding factors impacting the clinical decision-making process. In the qualitative component, semistructured interviews were undertaken utilizing a sample of 24 nurses to examine, in general, nurses' attitudes toward the decision-support software used in the context of a 24-hour telephone medical helpline, their use of the software to arrive at decisions concerning health care, and the degree that nurses' clinical backgrounds inuence the type of advice given to callers. The quantitative component consisted of analysis of software log data collected on all triaged calls during a period of 1 month and the clinical and demographic characteristics of 296 nurses who were employed by the helpline service during this period. Qualitative data were used to identify hypotheses for quantitative component and to provide insight interpreting the quantitative results. These samples were selected purposively utilizing a homogeneous sampling scheme <ref type="bibr" coords="13,158,24,725,47,139,71,11,61" target="#b47">(Miles &amp; Huberman, 1994;</ref><ref type="bibr" coords="13,301,14,725,47,66,81,11,61" target="#b65">Patton, 1990)</ref>.</p><p>Design 7 involves a sequential design using nested samples for the quantitative and qualitative components of the study. An example of a Design 7 sampling design is the inquiry conducted by <ref type="bibr" coords="14,179,61,88,83,193,88,11,61" target="#b32">Igo, Bruning, and McCrudden (2005)</ref>. These researchers examined the impact of undergraduate students' use of the computer's copy-and-paste function on students' learning outcomes in the context of memory of facts, conceptual learning, and relational inferences. In the quantitative component, students were randomly assigned to two conditions. In the qualitative component, a subset of 24 students was interviewed to determine their thoughts and feeling while engaged in note-taking activities. These samples were selected purposively utilizing a convenience sampling scheme <ref type="bibr" coords="14,442,77,179,71,80,87,11,61;14,64,50,194,91,57,77,11,61" target="#b47">(Miles &amp; Huberman, 1994;</ref><ref type="bibr" coords="14,125,47,194,91,66,81,11,61" target="#b65">Patton, 1990)</ref>.</p><p>Finally, Design 8 involves a sequential design using multilevel samples for the qualitative and quantitative components of the study. An example of a Design 8 sampling design is the study conducted by <ref type="bibr" coords="14,204,29,240,36,80,62,11,61" target="#b22">Drennan (2002)</ref>. The purpose of the study was to analyze the role of the clinical placement coordinator (CPC) in the context of providing student support in clinical settings. In the qualitative component, nurse education and training centers were randomly selected using a cluster sampling scheme. Individual and focus group interviews were collected from 166 key stakeholders associated with these centers. In the quantitative component, questionnaires were distributed to a sample consisting of 120 CPCs, 300 clinical nurses, and 200 student nurses. This sample was chosen utilizing a random stratied sampling scheme <ref type="bibr" coords="14,230,76,346,48,139,71,11,61" target="#b47">(Miles &amp; Huberman, 1994;</ref><ref type="bibr" coords="14,373,66,346,48,66,81,11,61" target="#b65">Patton, 1990)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Previous Study Examining Mixed Methods Sampling Designs</head><p>Collins, <ref type="bibr" coords="14,124,68,407,08,165,42,11,61" target="#b11">Onwuegbuzie, and Jiao (2006)</ref> used <ref type="bibr" coords="14,325,32,407,08,199,28,11,61">Onwuegbuzie and Collins's (in press</ref>) two-dimensional mixed methods sampling model to investigate the prevalence of sampling designs utilized in mixed methods research. Their second purpose was to use qualitative techniques to examine the consistency between the inferences made by the researcher(s) and the sampling design used (i.e., interpretive consistency).</p><p>Collins, <ref type="bibr" coords="14,121,75,482,85,156,72,11,61" target="#b11">Onwuegbuzie, and Jiao (2006)</ref> purposively selected (i.e., criterion sampling) all 42 mixed methods studies that were published in the following four leading journals in the school psychology eld (i.e., Journal of School Psychology, Psychology in the Schools, School Psychology Quarterly, and School Psychology Review) over a 4-year period (i.e., 2001 through 2004). Specically, these researchers selected all mixed methods articles identied by <ref type="bibr" coords="14,133,90,558,71,295,42,11,61" target="#b46">Mihalas, Powell, Onwuegbuzie, Suldo, and Daley (2005)</ref>, who attempted to determine the prevalence rate of mixed methods articles in the eld of school psychology. <ref type="bibr" coords="14,78,50,589,04,203,26,11,61" target="#b11">Collins, Onwuegbuzie, and Jiao (2006)</ref> found that a sequential design using multilevel samples was the most frequent mixed methods sampling design, being used in 40.5% of the studies. More studies involved a mixed methods sampling design that was sequential (66.6%) than concurrent (33.4%). Also, multilevel sampling designs were the most prevalent (54.8%), followed by identical sampling (23.8%), nested sampling (14.3%), and parallel sampling (7.1%), respectively. Their qualitative analysis suggested a degree of interpretive inconsistency in many studies. In particular, regardless of the size of the sample or of the discrepancy between the size of the samples in the quantitative and qualitative phases, the majority of researchers made meta-inferences. Yet in several instances, making such meta-inferences was not sufciently justied-resulting in interpretive inconsistency.</p><p>However, it is not clear how statistically generalizable <ref type="bibr" coords="14,384,20,740,62,145,47,11,61;14,64,51,755,82,68,96,11,61" target="#b11">Collins, Onwuegbuzie, and Jiao's (2006)</ref> ndings are because they involved mixed methods studies from only one discipline-school psychology. Also, in none of the 42 studies did the researcher(s) explicitly label the study as representing mixed methods research. By not framing their studies in this way, the school psychology researchers likely were not maximizing the extent to which they utilized mixed methodologies. As such, their mixed methods designs were not optimized. Thus, replications of Collins, Onwuegbuzie, and Jiao's study are needed to address the challenges of representation, legitimation, integration, and politics associated with Collins, Onwuegbuzie, and Jiao's results.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Purpose of the Current Study</head><p>With this in mind, the purpose of the current mixed methods research was to replicate and extend <ref type="bibr" coords="15,129,39,270,68,218,24,11,61" target="#b11">Collins, Onwuegbuzie, and Jiao's (2006)</ref> study. Specically, in the present inquiry, we investigated the prevalence of sampling designs utilized in mixed methods research. In addition, we examined interpretive consistency among these articles. This study represented an extension because it not only involved an examination of a larger sample of mixed methods research articles, but it also involved an examination of studies published in journals representing numerous elds (e.g., psychology, sociology, education, business, nursing). In addition, this investigation utilized studies that were more intentionally mixed methods in nature.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head><p>This study was mixed methods in nature because it utilized both quantitative and qualitative techniques to analyze sampling designs used in mixed methods studies in a multitude of elds. To assess the prevalence rates of the eight mixed methods sampling designs conceptualized by <ref type="bibr" coords="15,163,30,498,03,179,44,11,61">Onwuegbuzie and Collins (in press</ref>), we conducted an extensive search utilizing the entire population of electronic bibliographic records of all available elds of social and health sciences at the time of the study. Specically, 15 electronic bibliographic databases that represent the most widely used electronic sources in the elds of social and health sciences were identied: ABI/Inform Global (ProQuest), Academic Search Premier (EBSCOHost), Business Source Premier (EBSCOHost), CINAHL (EBSCOHost), Education Full-Text (WilsonWeb), ERIC (EBSCOHost), Health Reference Center (Gale InfoTrac), Health Source: Nursing/Academic Edition (EBSCOHost), PsycARTICLES (EBSCOHost), PsycINFO (EBSCOHost), EconLit (EBSCOHost), Education: A SAGE Full-Text Collection (CSA Illumina), Sociological Abstracts (CSA Illumina), Social Services Abstracts (CSA Illumina), and PAIS International (SilverPlatter).</p><p>To identify mixed method research articles, the following two keyword search terms were used: mixed method and mixed methodology. Our rationale for using these keywords was that they would yield articles that were likely to be the most focused with respect to utilizing mixed methods research approaches. Indeed, an examination of the nal pool of selected articles supported this prediction because most of these articles (e.g., <ref type="bibr" coords="15,485,81,725,44,45,58,11,61;15,66,16,740,57,107,01,11,61" target="#b19">Daley &amp; Onwuegbuzie, 2004;</ref><ref type="bibr" coords="15,176,37,740,57,72,05,11,61" target="#b31">Hurley, 2001)</ref> contained one or more citations of the most prominent methodological works in the eld of mixed methods research such as <ref type="bibr" coords="15,459,87,755,77,71,50,11,61;16,64,50,88,83,72,66,11,61" target="#b6">Caracelli and Greene (1993)</ref>; <ref type="bibr" coords="16,145,77,88,83,195,20,11,61" target="#b27">Greene, Caracelli, and Graham (1989)</ref>; and <ref type="bibr" coords="16,371,28,88,83,79,53,11,61">Tashakkori and</ref><ref type="bibr" coords="16,454,01,88,83,75,72,11,61;16,64,50,103,95,33,31,11,61">Teddlie (1998, 2003a)</ref>.</p><p>For each database, we examined all the years for which records existed. Our initial search yielded 703 articles that were then exported into a bibliographic management software (i.e., <ref type="bibr" coords="16,119,70,149,47,87,05,11,61">RefWorks, 2006)</ref>. After eliminating the 207 articles that appeared in more than one database (i.e., duplicate records), 496 articles remained. 6  A second screening was conducted based on the list of 496 articles. The abstracts of all these articles were scrutinized for relevance. After eliminating the hidden duplicate records of articles, book reviews, ERIC documents, doctoral dissertations, and pure methodological articles (i.e., nonempirical articles), 128 potentially relevant articles were identied.</p><p>Copies of these 128 articles were obtained through either the electronic databases or interlibrary loan services. These articles were then read in their entirety to determine whether they met our inclusion criteria: (a) empirical article that used mixed methods techniques and (b) published in a peer-reviewed English-language journal. 7 Another 7 articles that did not t these inclusion criteria were eliminated, 8 resulting in a nal sample of 121 mixed methods research articles.</p><p>We utilized a sequential design using identical samples (Design 5) to conduct our investigation. In this sampling design, the quantitative phase preceded the qualitative phase such that the quantitative phase informed the qualitative phase. For the quantitative phase of our study, the 121 articles were classied using Onwuegbuzie and Collins's (in press) two-dimensional mixed methods sampling model. The frequency rates then were compared and contrasted with respect to (a) the eight mixed methods sampling designs, (b) the time orientation of the components (i.e., concurrent vs. sequential), and (c) the relationship of the qualitative and quantitative samples (i.e., identical vs. parallel vs. nested vs. multilevel). Interrater reliability-a form of double coding <ref type="bibr" coords="16,422,42,452,61,107,29,11,61;16,64,49,467,75,34,79,11,61" target="#b47">(Miles &amp; Huberman, 1994)</ref>-was used as a means of assessing the validity of the categorizations made. Thus, the verication component of categorization was empirical in nature <ref type="bibr" coords="16,418,90,482,88,78,68,11,61" target="#b13">(Constas, 1992)</ref>. Spe-cically, two of the researchers independently coded each study by classifying the underlying sampling design into one of the eight mixed methods sampling designs that comprise Onwuegbuzie and Collins's (in press) typology. Kappa's index was used to assess the interrater reliability of the two sets of classications. This index measures the degree to which observers achieve the possible agreement over and above any agreement than can be expected to occur by chance alone <ref type="bibr" coords="16,310,15,573,87,72,18,11,61" target="#b7">(Cohen, 1960)</ref>. Because interrater reliability represents a quantitative technique, as well as being empirical, the verication component of categorization was technical and was accomplished a posteriori <ref type="bibr" coords="16,444,27,604,20,79,95,11,61" target="#b13">(Constas, 1992)</ref>. The following criteria were used to interpret the Kappa coefcient: &lt; .20 = poor agreement, .21-.40 = fair agreement, .41-.60 = moderate agreement, .61-.80 = good agreement, .81-1.00 = very good agreement <ref type="bibr" coords="16,278,33,649,66,77,95,11,61" target="#b0">(Altman, 1991)</ref>. For our inquiry, Kappa's index was .98 (SE = .014), which suggested extremely good agreement between the two raters.</p><p>The qualitative phase involved a within-case analysis for each mixed methods study to examine further the time orientation of the quantitative and qualitative components and the relationship between the quantitative and qualitative samples. This analysis involved evaluating the sample size and sampling scheme used for both the qualitative and quantitative components of each mixed methods study. Furthermore, the underlying mixed methods sampling design, sample sizes, and sampling schemes were compared and contrasted with the interpretations, recommendations, conclusions, and meta-inferences made in the discussion section of the article. In particular, an effects matrix <ref type="bibr" coords="17,366,35,103,95,140,93,11,61" target="#b47">(Miles &amp; Huberman, 1994)</ref> was used to determine the extent to which the researchers' interpretations, inferences, and/or conclusions were consistent with the overall mixed methods sampling design used (i.e., interpretive consistency). According to <ref type="bibr" coords="17,235,02,149,47,147,44,11,61" target="#b47">Miles and Huberman (1994)</ref>, effects matrices are useful when there are ''ultimate'' outcomes and ''effects'' (p. 137). In the present investigation, the interpretations, conclusions, meta-inferences, and recommendations that were made by the researchers represented the ultimate outcomes. The research question, sample size, sampling scheme, mixed methods sampling design, mixed methods research design, and data analysis techniques primarily represented the effects. As such, this effects matrix allowed us, for each study, to compare directly these effects to the ultimate outcomes. Moreover, this series of matrices facilitated an examination of the extent to which interpretive consistency prevailed among these 121 articles. Excel spreadsheets were used to create these effects matrices, wherein the cell entries in these effect matrices contained either verbatim statements made by the author(s) of the article under examination or our own brief eld notes. Consequently, these effects matrices yielded an audit trail (i.e., address the challenge of legitimation), which many qualitative researchers recommended as a method of evaluating legitimation, enhancing legitimation, or both <ref type="bibr" coords="17,200,83,346,48,80,01,11,61" target="#b28">(Halpern, 1983;</ref><ref type="bibr" coords="17,285,12,346,48,120,31,11,61" target="#b41">Lincoln &amp; Guba, 1985;</ref><ref type="bibr" coords="17,409,73,346,48,121,64,11,61;17,66,16,361,68,26,78,11,61" target="#b59">Onwuegbuzie &amp; Leech, 2004)</ref>. Also, a cross-case analysis <ref type="bibr" coords="17,244,34,361,68,140,97,11,61" target="#b47">(Miles &amp; Huberman, 1994)</ref> was undertaken to compare the levels and types of inferences/meta-inferences made across the 121 studies.</p><p>According to <ref type="bibr" coords="17,153,59,392,01,175,09,11,61" target="#b63">Onwuegbuzie and Teddlie (2003)</ref>, there are seven stages of the mixedmethods data analysis process: (a) data reduction, (b) data display, (c) data transformation, (d) data correlation, (e) data consolidation, (f) data comparison, and (g) data integration. Specically, data reduction involves reducing the dimensionality of the qualitative data (e.g., via exploratory thematic analysis, memoing) and quantitative data (e.g., via descriptive statistics, exploratory factor analysis, multiple dimensional scaling, cluster analysis). Data display, the second stage, represents describing visually the qualitative data (e.g., matrices, charts, graphs, lists, networks, rubrics, maps, and Venn diagrams) and quantitative data (e.g., tables, graphs). The third stage is the data transformation stage, whereby qualitative data are converted into numerical codes that can be analyzed statistically (i.e., quantitized; <ref type="bibr" coords="17,132,56,543,57,155,43,11,61" target="#b77">Tashakkori &amp; Teddlie, 1998)</ref> and/or quantitative data are transformed into narrative data that can be represented qualitatively (i.e., qualitized; <ref type="bibr" coords="17,414,40,558,76,116,95,11,61;17,66,16,573,88,27,60,11,61" target="#b77">Tashakkori &amp; Teddlie, 1998)</ref>. Data correlation, the fourth stage, involves qualitative data being correlated with quantitized data and/or quantitative data being correlated with qualitized data. The fth stage is data consolidation, whereby both qualitative and quantitative data are combined to create new or consolidated variables. The sixth stage, data comparison, involves comparing and contrasting data from the qualitative and quantitative data sources. Data integration, the seventh and nal stage, represents quantitative and qualitative data being integrated into either a coherent whole or two separate sets (i.e., qualitative and quantitative) of coherent wholes. In evaluating the interpretive consistency used in the 121 mixed methods investigations, the data consolidation stage was not used. This was because the quantitative and qualitative data were not combined to develop unique or consolidated variables. However, the remaining six stages of <ref type="bibr" coords="17,313,59,725,47,182,33,11,61" target="#b63">Onwuegbuzie and Teddlie's (2003)</ref> model were utilized: data reduction, data display, data transformation, data correlation, data comparison, and data integration.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Quantitative Phase</head><p>Table <ref type="table" coords="18,111,60,346,78,6,41,11,61" target="#tab_2">3</ref> provides results from our analysis of the 121 mixed methods studies. It can be seen from this table that by far the most frequent mixed methods sampling design contained in the set of selected investigations was concurrent design using identical samples. With respect to time orientation, more studies utilized a mixed methods sampling design that was concurrent (66.1%) than sequential (33.9%). Furthermore, with regard to the relationship of the qualitative and quantitative samples, identical sampling designs were the most prevalent (36.3%), followed by nested sampling (28.9%), multilevel sampling (25.7%), and parallel sampling (9.1%), respectively.</p><p>Table <ref type="table" coords="18,111,40,468,06,6,41,11,61" target="#tab_3">4</ref> presents a breakdown of the sampling designs across articles representing each the nine elds. It can be seen from the last column that education was the best represented eld. Nursing was the next most represented eld, followed closely by social work, public health, psychology, medicine, sociology, business, and library science, respectively. With the exception of the eld of business (28.6% vs. 71.4%), the elds were represented by a higher proportion of concurrent sampling designs than sequential sampling designs: education (64.1% vs. 35.9%), library science (100% vs. 0%), nursing (66.7% vs. 33.3%), medicine (88.9% vs. 11.1%), public health (53.9% vs. 46.2%), psychology (72.7% vs. 27.3%), social work (66.7% vs. 33.3%), and sociology (87.5% vs. 12.5%).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Qualitative and Mixed Methods Phases</head><p>The majority of the researchers (93.4%) were clear in delineating the sample sizes used in the various phases of their investigations. In the remaining studies, the sample size was not stated clearly in the quantitative phase (2.5%), qualitative phase (5.0%), or both phases (6.6%). Overall, this picture was much more positive than that found for the mixed methods studies from the eld of school psychology examined by <ref type="bibr" coords="18,411,14,710,54,118,54,11,61;18,64,51,725,66,78,95,11,61" target="#b11">Collins, Onwuegbuzie, and Jiao (2006)</ref>. These researchers found that in only 57.8% of the studies were the sample sizes of both the quantitative and qualitative phases specied clearly. Excluding identical samples, which, by denition utilize the same sample for both the quantitative and   qualitative phases, no relationship emerged between the discrepancy of the quantitative and qualitative sample sizes and (a) the time orientation of the components (i.e., concurrent vs. sequential) and (b) whether the sampling design utilized parallel, nested, or multilevel sampling.</p><p>With respect to the random sampling scheme, only 14.9% of the studies involved random sampling in one or both phases. In contrast, the vast majority (91.7%) involved some form of purposive sampling in one or both phases of the study. 9 Although due to the lack of sufcient information provided, it was not always clear which of the 19 purposive sampling schemes identied by <ref type="bibr" coords="20,208,66,361,90,165,15,11,61" target="#b62">Onwuegbuzie and Leech (2007)</ref> were utilized, it appeared that convenient sampling and criterion sampling represented the most common purposive schemes. Of the 8.3% of studies that utilized random sampling, exactly one half utilized some form of an identical sampling scheme (i.e., either concurrent identical sampling or sequential identical sampling). Table <ref type="table" coords="20,283,15,422,54,6,41,11,61" target="#tab_4">5</ref> presents the overall prevalence of sampling schemes used (i.e., purposive vs. random) for the quantitative and qualitative phases pertaining to the 121 articles.</p><p>Regardless of the size of the sample or of the discrepancy between the size of the samples in the quantitative and qualitative phases, the majority of researchers made metainferences <ref type="bibr" coords="20,121,15,498,33,159,94,11,61" target="#b79">(Tashakkori &amp; Teddlie, 2003b)</ref>, in which both sets of inferences are combined into a coherent whole. Moreover, the majority of these researchers tended to make some type of statistical generalization, rather than making analytic generalizations or case-to-case transfers. Specically, 58.7% of the articles made some type of statistical generalizationwhose justication depended, to a large degree, on the sampling scheme, sample size, and/ or sampling design used. The more the statistical generalization made was compatible with these sampling elements, the higher the level of interpretive consistency, and vice versa. For example, an article contained statistical generalizations that were justied (i.e., interpretative consistency) if the set of ndings being generalized (i.e., quantitative vs. qualitative phase[s]) stemmed from a large sample. Interpretive consistency was even higher if the sample was random in addition to being large. The level of interpretive consistency across the 121 articles lay on a continuum from interpretive inconsistent to interpretive consistent. <ref type="bibr" coords="20,78,49,695,44,123,22,11,61" target="#b29">Harwood et al.'s (2003)</ref> study provides an excellent example of an article that had high interpretive consistency. These researchers examined how communities, neighborhoods, and stores affect retail pricing and the promotion of beer. Using a multistage, random sampling procedure, the researchers randomly selected 2,024 retail stores from 160 communities. Each store was unobtrusively observed by trained eld staff teams who collected information on alcohol process, product placement, extent of related advertising and promotions, and type of size of the store. Using hierarchical regression models and mixed methods data analysis techniques, the researchers found that community, neighborhood, and store characteristics predict beer price, although only community and store characteristics predicted beer promotions. The researchers concluded that ''the ndings of this study conrm that beer promotion and pricing vary systematically by some characteristics of communities, neighborhoods and stores'' (p. 726). Whereas this clearly represents a statistical generalization, involving inferences that go far beyond the underlying sample, it could be argued that the use of a sample that was large and random justied such a generalization-although the researchers might have tempered their ndings by using words such as appears, may, might, or perhaps-bearing in mind the several limitations that the researchers wisely noted such as the predominance of White or less integrated neighborhoods in the sample. Notwithstanding, the meta-inferences made by the researchers appear to indicate interpretive consistency (cf. Type 1 sampling design in Figure <ref type="figure" coords="21,501,40,285,88,6,41,11,61" target="#fig_0">1</ref> and Quadrant 4 in Figure <ref type="figure" coords="21,174,91,301,02,4,56,11,61" target="#fig_1">2</ref>). Disturbingly, of the 54 studies that included a quantitative and/or a qualitative phase involving a sample of 30 or less participants, 53.7% contained meta-inferences that represented inappropriate statistical generalizations-leading to interpretive inconsistency. <ref type="bibr" coords="21,66,17,361,68,131,05,11,61" target="#b38">Kneebone et al.'s (2003)</ref> article provides such an example. These researchers examined the potential of an innovative, scenario-based technique that links a simulated patient with a computer-driven virtual reality (VR) training device for exible sigmoidoscopy (i.e., visual examination of the lower third of the colon in a search for a nonmalignant growth or tumor). This device provides a safe yet realistic quasi-clinical setting for learners to carry out the procedure while interacting with the ''patient.'' Communication skills are assessed by simulated patients, and quantitative performance data relating to the technique are produced automatically by the VR simulator. Kneebone et al. described their investigation as a pilot study that took place within a nurse practitioner endoscopy course. Seven nurses were selected for the study using a concurrent design with identical samples for both quantitative and qualitative components of the investigation. Qualitative (observation and interviews) and quantitative (communication rating scales and a range of computergenerated output measures from the VR simulator) data were collected. The participants found the procedure to provide a powerful and effective learning experience. However, they all experienced high levels of anxiety. Simulated patients identied strengths in participants' communication skills, alongside areas for development. The simulator-based approach led to an improvement in the quantitative performance measures. Based on the ndings pertaining to seven nurses, and despite stating that ''we recognise the limitations of our sample size'' (p. 57), the researchers made the following unjustied statistical generalization: ''Scenario-based training provides a powerful learning experience, allowing participants to build their technical expertise and apply it within a holistic clinical context without the risk of causing harm' <ref type="bibr" coords="21,239,85,679,95,43,27,11,61">' (p. 50)</ref>. This meta-inference, which represented interpretive inconsistency (cf. Type 4 sampling design in Figure <ref type="figure" coords="21,375,38,695,15,6,41,11,61" target="#fig_0">1</ref> and Quadrant 4 in Figure <ref type="figure" coords="21,517,43,695,15,4,63,11,61" target="#fig_1">2</ref>), would have been more justied if the authors had used the phrase ''scenario-based training can provide a powerful learning experience'' rather than ''scenario-based training provides a powerful learning experience.'' Or more appropriately, the authors could have stated that ''the scenario-based training provides a powerful learning experience for the seven nurses.'' Thus, a subtle change in the phrasing of the meta-inference or the adding of specic information pertaining to the study's sample would have conveyed a more warranted interpretation of the study's ndings.</p><p>Interestingly, several researchers made interpretive inconsistent meta-inferences despite acknowledging the limitations of their study. For instance, dela <ref type="bibr" coords="22,400,52,149,47,129,14,11,61;22,64,50,164,59,32,05,11,61" target="#b20">Cruz, Brehm, and Harris (2004)</ref>, who examined focus group tapes and transcripts and three completed quantitative measures (i.e., demographic form, measure of attitudes toward homelessness, and an attendance form) of 15 family nurse practitioners students, acknowledged that ''because the sample size was small (n ¼ 15), the results of the study can apply only to this sample and cannot be generalized' <ref type="bibr" coords="22,206,47,225,22,50,63,11,61">' (p. 553)</ref>. Despite this statement, the researchers concluded that ''a required clinical experience in an HOC [homeless outreach clinic]-as a servicetraining strategy-signicantly changes attitudes toward homeless people and instills in the students social responsibility for the case of one of the fast-growing, underserved, and misunderstood segments of our society' <ref type="bibr" coords="22,267,37,285,88,46,52,11,61">' (p. 553)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>This investigation has replicated and extended the initial study in the area of sampling conducted by <ref type="bibr" coords="22,139,48,376,76,204,67,11,61" target="#b11">Collins, Onwuegbuzie, and Jiao (2006)</ref>, who used mixed methods techniques to examine the types of sampling designs, sampling schemes, and sample sizes used by mixed methods researchers. That is, as was undertaken in the initial study, this research has involved the use of mixed methods techniques to study the mixed methods literature. However, whereas Collins, Onwuegbuzie, and Jiao focused on studies published in school psychology journals (N ¼ 42) in which both qualitative and quantitative techniques were used (typically not explicitly labeled as mixed methods research by the investigators), the current study was much broader in scope, examining studies across nine elds (N ¼ 121) that the respective researchers actually labeled as using mixed methods research. Indeed, the 121 studies examined in the present investigation represent the entire population of mixed methods studies-at the time of writing.</p><p>A sequential design utilizing identical samples was used to classify this population of mixed methods studies on a two-dimensional model in which sampling designs were grouped according to time orientation of study's components and relationship of the qualitative and quantitative samples. A quantitative analysis of 121 studies representing nine elds revealed that a concurrent design using identical samples was the most frequent mixed methods sampling design. Furthermore, twice as many studies utilized a mixed methods sampling design that was concurrent than sequential. Also, identical sampling designs were the most prevalent. These ndings are in direct contrast with the results of <ref type="bibr" coords="22,64,51,664,84,199,84,11,61" target="#b11">Collins, Onwuegbuzie, and Jiao (2006)</ref>, who found that (a) a sequential design using multilevel samples was the most frequent mixed methods sampling design, (b) twice as many studies utilized a mixed methods sampling design that was sequential than concurrent, and (c) multilevel sampling designs were the most prevalent. However, these discrepancies likely underscore the difference in the elds examined in the two studies. As noted earlier, whereas in the initial study the researchers analyzed school psychology mixed methods studies, the current investigation cast a much wider net by examining articles from nine elds. The discrepancy in the distribution of sampling designs could reect the differences in intentionality to conduct mixed methods research, with all the studies examined in the current investigation deliberately being set up as mixed methods investigations. The difference in the distribution of sampling designs also could be indicative of the types of research goals, objectives, rationale of the study, rationale for mixing qualitative and quantitative approaches, purpose of the study, and/or purpose for mixing qualitative and quantitative approaches that distinguish school psychology research from research underlying other elds and disciplines.</p><p>The eld examined that was closest to the eld of school psychology, in terms of discipline or orientation, was psychology. From Table <ref type="table" coords="23,329,00,225,22,4,81,11,61" target="#tab_3">4</ref>, it can be seen that the vast majority (72.7%) of articles classied as belonging to the eld of psychology utilized concurrent sampling designs. These articles tended to represent clinical psychology, counseling psychology, and social psychology. It is possible that these branches of psychology (i.e., clinical psychology, counseling psychology) have different rationales for mixing qualitative and quantitative approaches than does the eld of school psychology, leading to different emphases on sampling designs. For example, in <ref type="bibr" coords="23,319,22,316,15,212,13,11,61" target="#b11">Collins, Onwuegbuzie, and Jiao's (2006)</ref> initial inquiry, the rationale that the researchers used for mixing qualitative and quantitative approaches tended to be either instrument delity (i.e., quantitative or qualitative approaches used by the researcher to develop new instruments or maximize the appropriateness and/or utility of new or existing instruments used in the study <ref type="bibr" coords="23,424,04,376,81,100,68,11,61;23,66,16,392,01,108,45,11,61" target="#b12">[Collins, Onwuegbuzie, &amp; Sutton, 2006]</ref>) or treatment integrity (i.e., assessing the delity of interventions, treatments, or programs; <ref type="bibr" coords="23,193,85,407,14,199,74,11,61" target="#b12">Collins, Onwuegbuzie, &amp; Sutton, 2006)</ref>. In particular, using qualitative techniques (e.g., interviews, observations) to develop an instrument (i.e., instrument delity) or to collect baseline data (i.e., treatment integrity) tends to lead to sequential designs. In contrast, the rationale of a signicant proportion of the studies examined in the present investigation was signicance enhancement (i.e., enhancing researchers' interpretations of data <ref type="bibr" coords="23,161,67,482,93,208,57,11,61" target="#b12">[Collins, Onwuegbuzie, &amp; Sutton, 2006]</ref>). That the majority of studies (54.8%) conducted in the eld of school psychology tended to utilize multilevel sampling designs has intuitive appeal because many school psychology researchers tend to sample both students (typically for the quantitative phase) and their school psychologists, teachers, and/or parents (typically for the qualitative stage).</p><p>Sampling is even more complex in the mixed methods research process because the meta-inferences that stem from these studies involve combining inferences from the quantitative and qualitative phases of the study that are highly dependent on the sampling scheme and sample size used. Moreover, the quantitative and qualitative components bring into the mixed methods investigation their own challenges of representation, legitimation, integration, and politics. As noted by <ref type="bibr" coords="23,308,84,634,52,182,21,11,61">Onwuegbuzie and Collins (in press</ref>), these combined challenges are likely to yield an additive effect or even a multiplicative effect that adversely impacts the quality of meta-inferences made.</p><p>In this study, the majority of researchers (i.e., 58.7%) made statistical generalizations. Unfortunately, in many instances (i.e., 53.7% of studies with small samples in at least one phase), such statistical generalizations were not sufciently warranted-culminating in interpretive inconsistency and contributing to all four crises, namely, representation, legitimation, integration, and politics. The crisis of representation was exacerbated in these studies because the meta-inferences did not adequately represent the ndings stemming from the quantitative and/or qualitative phases of these investigations. That is, the metainferences made in these inquiries have inadequate external validity (i.e., the extent to which the ndings of a study can be generalized across different populations of persons, settings, contexts, and times <ref type="bibr" coords="24,164,13,134,27,154,67,11,61" target="#b33">[Johnson &amp; Christensen, 2004]</ref>) and/or external credibility (i.e., conrmability and transferability of ndings and conclusions <ref type="bibr" coords="24,337,39,149,47,81,62,11,61" target="#b43">[Maxwell, 1992]</ref>). The crisis of legitimation was intensied in these investigations because the meta-inferences did not stem directly from the underlying sample of units <ref type="bibr" coords="24,294,26,179,71,99,39,11,61">(Curtis et al., 2003;</ref><ref type="bibr" coords="24,397,23,179,71,103,48,11,61" target="#b36">Kemper et al., 2003)</ref>. The crisis of integration was made worse in these inquiries because the meta-inferences did not arise from a Type 1 mixed methods sampling scheme (cf. Figure <ref type="figure" coords="24,407,40,210,03,4,57,11,61" target="#fig_0">1</ref>). Finally, the crisis of politics was exacerbated in these studies because the meta-inferences leave these studies open for criticism by the consumers of these studies, including stakeholders and policy makers.</p><p>A limitation of this study is that it is not clear the extent to which interpretive consistency may differ as a function of the rationale and purpose guiding the research design within a specic discipline. Subsequently, more research is needed using a larger sample of mixed methods studies to determine why and how different elds and disciplines are mixing qualitative and quantitative approaches. A second limitation of this investigation is that the interpretation of the researchers' meta-inferences may be inuenced by the word choice used by the researcher(s) when interpreting the ndings. Specically, semantics involved in the researchers' choice of words when interpreting results may lead to the appearance of overgeneralization even in cases when the researchers' goal was not to make generalizations beyond the underlying sample. Unfortunately, it was beyond the scope of the present investigation to determine the researchers' intentionality to generalize. At best, we could only ascertain whether the statement made suggested or implied overgeneralization. Future studies should address the extent to which statements that suggest or imply overgeneralization reect the researchers' intentions.</p><p>Notwithstanding, it should be noted that all 42 studies in Collins, Onwuegbuzie, and Jiao's (2006) initial investigation and all 121 studies in the present inquiry could be classi-ed into one of the eight mixed methods sampling designs provides incremental validity to <ref type="bibr" coords="24,81,43,528,45,203,59,11,61">Onwuegbuzie and Collins's (in press</ref>) two-dimensional sampling design modelalthough we recognize that this model might not be applicable for classifying more complex mixed methods sampling designs (cf. Note 5). However, although these two studies have shown the utility of Onwuegbuzie and Collins's model for classifying and understanding the sampling decisions made by researchers in mixed methods studies, the greatest appeal of this model is that it can help researchers to identify a rigorous sampling design for their mixed methods studies, which is a much more complex process than is the case for monomethod studies. In particular, this model can be used to guide sampling decisions made by the researcher, such as selecting a sampling scheme (e.g., random vs. purposive), selecting an appropriate sample size for the quantitative and qualitative phases of the study to enable appropriate generalizations and inferences, and identifying the relationship of the samples <ref type="bibr" coords="24,110,41,695,15,222,76,11,61">(i.e., identical, parallel, nested, multilevel)</ref> relative to the study's design. Using our model provides a framework for making these decisions explicit and promotes interpretive consistency between the interpretations made in mixed methods studies and the sampling design used, as well as the other components that characterize the formulation (i.e., goal, objective, purpose, rationale, and research question), planning (i.e., research design), and implementation (i.e., data collection, analysis, legitimation, and interpretation) stages of the mixed methods research process. Another positive aspect of this model is that it does not have a bias toward either quantitative or qualitative approaches, allowing samples to be selected for both phases methodically and rigorously. Thus, we hope that researchers from the social and behavioral sciences and beyond consider using this sampling design model so that they can design their mixed methods studies in a manner that addresses the challenges of representation, legitimation, integration, and politics.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes</head><p>1. <ref type="bibr" coords="25,92,16,248,40,181,02,9,50" target="#b12">Collins, Onwuegbuzie, and Sutton (2006)</ref> conceptualized mixed methods research as comprising the following 13 distinct steps: (a) determining the goal of the study, (b) formulating the research objective(s), (c) determining the research/mixing rationale(s), (d) determining the research/mixing purpose(s), (e) determining the research question(s), (f) selecting the sampling design, (g) selecting the mixed methods research design, (h) collecting the data, (i) analyzing the data, (j) validating/legitimating the data and data interpretations, (k) interpreting the data, (l) writing the nal report, and (m) reformulating the research question(s).</p><p>2. For a useful alternative typology of sampling schemes, we refer you to <ref type="bibr" coords="25,391,11,325,36,94,43,9,50" target="#b81">Teddlie and Yu (2007)</ref>, who subdivided sampling schemes into the following four types: probability sampling, purposive sampling, convenience sampling, and mixed methods sampling. In our typology, we included convenience sampling and mixed methods sampling under the label of purposive sampling schemes, which is consistent with many authors (e.g., <ref type="bibr" coords="25,90,11,376,63,52,46,9,50" target="#b30">Hood, 2006;</ref><ref type="bibr" coords="25,145,18,376,63,110,92,9,50" target="#b47">Miles &amp; Huberman, 1994;</ref><ref type="bibr" coords="25,258,70,376,63,126,77,9,50" target="#b62">Onwuegbuzie &amp; Leech, 2007;</ref><ref type="bibr" coords="25,388,14,376,63,54,69,9,50" target="#b65">Patton, 1990)</ref>.</p><p>3. Many authors link sampling schemes with the paradigm. In particular, they associate random sampling schemes with quantitative research designs and purposive schemes with qualitative research designs. However, we think that this dichotomy is problematic for several reasons. First, as noted by <ref type="bibr" coords="25,408,70,415,11,122,68,9,50;25,66,16,427,91,19,62,9,50">Onwuegbuzie and Collins (in press</ref>), choice of sampling scheme (i.e., random vs. purposive) should be based on the type of generalization of interest (i.e., statistical vs. analytic). Thus, although not very common, qualitative research can involve random sampling. Similarly, quantitative research can involve purposive sampling-as is the case in the vast majority of quantitative studies <ref type="bibr" coords="25,160,43,466,39,103,53,9,50" target="#b73">(Shaver &amp; Norton, 1980a</ref><ref type="bibr" coords="25,263,96,466,39,34,66,9,50" target="#b74">, 1980b)</ref>. Thus, we believe that the dichotomy between research paradigm and sampling scheme is false. For a lengthier discussion of this false dichotomy, we refer the readers to <ref type="bibr" coords="25,76,90,492,06,137,34,9,50" target="#b61">Onwuegbuzie and Leech (2005b)</ref>.</p><p>4. It should be noted that the issue of sample size in qualitative research is a controversial one. However, as noted by <ref type="bibr" coords="25,121,82,517,66,84,21,9,50" target="#b66">Sandelowski (1995)</ref>, a general rule is that sample sizes in qualitative research should not be too small that it is difcult to obtain data saturation, theoretical saturation, or informational redundancy. At the same time, the sample should not be so large that it is difcult to undertake a deep, case-oriented analysis. <ref type="bibr" coords="25,66,16,556,14,95,40,9,50" target="#b81">Teddlie and Yu (2007)</ref> referred to this balancing act in qualitative sampling as the representativeness/saturation trade-off.</p><p>5. Although <ref type="bibr" coords="25,133,56,581,82,154,70,9,50">Onwuegbuzie and Collins's (in press</ref>) typology is comprehensive, representing a large proportion of mixed methods sampling designs, it is not exhaustive. In particular, this typology does not incorporate mixed methods studies in which the quantitative and/or the qualitative phases involve two or more different sampling schemes (e.g., a qualitative phase involving individual interviews and focus groups that necessitate two different sampling schemes and a quantitative phase involving the administration of a survey and an achievement test that necessitate two different sampling schemes). In other words, Onwuegbuzie and Collins's typology does not incorporate mixed methods studies wherein the quantitative and/or the qualitative phases involve mixed purposeful, multistage purposeful, or random multistage purposeful sampling schemes (cf. Table <ref type="table" coords="25,467,47,671,57,3,73,9,50" target="#tab_0">1</ref>).</p><p>6. This set of 496 articles revealed that the rst study in which the term mixed methods was used appeared in 1972 <ref type="bibr" coords="25,101,58,697,24,96,30,9,50" target="#b64">(Parkhurst et al., 1972)</ref>. However, this study was eliminated in the next round because it represented an unpublished study (i.e., paper presentation).</p><p>7. We decided to focus only on published studies that had been peer-reviewed because we believed that they were more likely to have been grounded in mixed methods research due to undergoing a peer-review process.</p><p>8. It should be noted that all seven articles that were eliminated at this stage contained the term mixed method(s) at least once. However, no evidence was provided that suggested the researcher(s) has used mixed methods approaches. In most cases, these articles had been selected because they had contained the term mixed method or its variant in the literature review section. 9. The proportion of studies involving random sampling in one or both phases (i.e., 14.9%) and the proportion of studies involving some form of purposive sampling in one or both phases of the study (i.e., 91.7%) do not sum to 100% because a few studies contained a phase that involved both random sampling and purposive sampling.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0" coords="9,275,74,88,78,46,01,11,50;9,122,02,103,90,353,50,11,50;9,118,91,119,10,359,73,11,50;9,105,05,148,29,387,58,299,95"><head>Figure 1</head><label>1</label><figDesc>Figure 1 Two-Dimensional Matrix Indicating Sampling Designs That Can Yield Statistical Generalizations That Are Interpretive Consistent</figDesc><graphic coords="9,105,05,148,29,387,58,299,95" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1" coords="10,274,08,88,78,46,01,11,50;10,173,70,103,90,246,81,11,50;10,163,75,119,10,266,74,11,50;10,103,37,148,29,387,58,356,68"><head>Figure 2</head><label>2</label><figDesc>Figure 2 Two-Dimensional Representation of Types of Generalizations Made in Mixed Methods Studies</figDesc><graphic coords="10,103,37,148,29,387,58,356,68" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2" coords="11,275,74,88,78,46,01,11,50;11,159,24,103,90,279,06,11,50;11,138,08,119,10,321,36,11,50;11,105,05,148,29,387,58,297,14"><head>Figure 3</head><label>3</label><figDesc>Figure 3 Two-Dimensional Mixed Methods Sampling Model Providing a Typology of Mixed Methods Sampling Designs</figDesc><graphic coords="11,105,05,148,29,387,58,297,14" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3" coords="19,237,27,722,36,9,50,43,24;19,237,27,641,28,9,50,10,48;19,237,27,572,31,9,50,12,78;19,237,27,503,62,9,50,14,52;19,237,27,426,50,9,50,22,72;19,237,27,365,36,9,50,9,29;19,237,27,301,69,9,50,11,58;19,237,27,235,60,9,50,13,33;19,237,27,163,72,9,50,21,52;19,237,27,92,90,9,50,22,28;19,259,03,728,37,9,50,37,24;19,259,03,647,40,9,50,13,12;19,259,03,632,57,9,50,12,23;19,259,03,579,61,9,50,13,12;19,259,03,564,70,9,50,12,23;19,259,03,511,81,9,50,13,12;19,259,03,496,90,9,50,12,23;19,259,03,438,70,9,50,13,12;19,259,03,423,86,9,50,12,23;19,259,03,370,90,9,50,13,12;19,259,03,356,07,9,50,12,23;19,259,03,308,35,9,50,13,12;19,259,03,293,51,9,50,12,23;19,259,03,245,79,9,50,13,12;19,259,03,230,95,9,50,12,23;19,259,03,178,00,9,50,13,12;19,259,03,163,16,9,50,12,23;19,259,03,104,96,9,50,13,12;19,259,03,90,12,9,50,12,23;19,271,83,722,90,9,50,42,70;19,271,83,647,40,9,50,13,12;19,271,83,632,57,9,50,12,23;19,271,83,579,61,9,50,13,12;19,271,83,564,70,9,50,12,23;19,271,83,511,81,9,50,13,12;19,271,83,496,90,9,50,12,23;19,271,83,438,70,9,50,13,12;19,271,83,423,86,9,50,12,23;19,271,83,370,90,9,50,13,12;19,271,83,356,07,9,50,12,23;19,271,83,308,35,9,50,13,12;19,271,83,293,51,9,50,12,23;19,271,83,245,79,9,50,13,12;19,271,83,230,95,9,50,12,23;19,271,83,178,00,9,50,13,12;19,271,83,163,16,9,50,12,23;19,271,83,104,96,9,50,18,36;19,271,83,84,88,9,50,17,48;19,284,63,734,04,9,50,31,56;19,284,63,700,37,9,50,31,00;19,284,63,647,39,9,50,13,12;19,284,63,632,56,9,50,12,23;19,284,63,579,60,9,50,13,12;19,284,63,564,69,9,50,12,23;19,284,63,511,80,9,50,13,12;19,284,63,496,89,9,50,12,23;19,284,63,438,69,9,50,13,12;19,284,63,423,85,9,50,12,23;19,284,63,370,89,9,50,13,12;19,284,63,356,06,9,50,12,23;19,284,63,308,34,9,50,13,12;19,284,63,293,50,9,50,12,23;19,284,63,245,78,9,50,13,12;19,284,63,230,94,9,50,12,23;19,284,63,177,99,9,50,13,12;19,284,63,163,15,9,50,12,23;19,284,63,104,95,9,50,13,12;19,284,63,90,11,9,50,12,23;19,297,51,731,85,9,50,33,75;19,297,51,647,40,9,50,13,12;19,297,51,632,57,9,50,12,23;19,297,51,579,61,9,50,13,12;19,297,51,564,70,9,50,12,23;19,297,51,511,81,9,50,13,12;19,297,51,496,90,9,50,12,23;19,297,51,438,70,9,50,13,12;19,297,51,423,86,9,50,12,23;19,297,51,370,90,9,50,13,12;19,297,51,356,07,9,50,12,23;19,297,51,308,35,9,50,13,12;19,297,51,293,51,9,50,12,23;19,297,51,245,79,9,50,13,12;19,297,51,230,95,9,50,12,23;19,297,51,178,00,9,50,13,12;19,297,51,163,16,9,50,12,23;19,297,51,104,96,9,50,18,36;19,297,51,84,88,9,50,17,48;19,310,31,725,86,9,50,39,75;19,310,31,647,40,9,50,13,12;19,310,31,632,57,9,50,12,23;19,310,31,579,61,9,50,13,12;19,310,31,564,70,9,50,12,23;19,310,31,511,81,9,50,13,12;19,310,31,496,90,9,50,12,23;19,310,31,438,70,9,50,13,12;19,310,31,423,86,9,50,12,23;19,310,31,370,90,9,50,13,12;19,310,31,356,07,9,50,12,23;19,310,31,308,35,9,50,13,12;19,310,31,293,51,9,50,12,23;19,310,31,245,79,9,50,13,12;19,310,31,230,95,9,50,12,23;19,310,31,178,00,9,50,13,12;19,310,31,163,16,9,50,12,23;19,310,31,104,96,9,50,13,12;19,310,31,90,12,9,50,12,23;19,323,11,738,73,9,50,26,87;19,323,11,710,31,9,50,25,77;19,323,11,647,39,9,50,13,12;19,323,11,632,56,9,50,12,23;19,323,11,579,60,9,50,13,12;19,323,11,564,69,9,50,12,23;19,323,11,511,80,9,50,13,12;19,323,11,496,89,9,50,12,23;19,323,11,438,69,9,50,13,12;19,323,11,423,85,9,50,12,23;19,323,11,370,89,9,50,13,12;19,323,11,356,06,9,50,12,23;19,323,11,308,34,9,50,13,12;19,323,11,293,50,9,50,12,23;19,323,11,245,78,9,50,13,12;19,323,11,230,94,9,50,12,23;19,323,11,177,99,9,50,13,12;19,323,11,163,15,9,50,12,23;19,323,11,104,95,9,50,18,36;19,323,11,84,87,9,50,17,48;19,335,91,716,66,9,50,48,95;19,335,91,647,40,9,50,13,12;19,335,91,632,57,9,50,12,23;19,335,91,579,61,9,50,13,12;19,335,91,564,70,9,50,12,23;19,335,91,511,81,9,50,13,12;19,335,91,496,90,9,50,12,23;19,335,91,438,70,9,50,13,12;19,335,91,423,86,9,50,12,23;19,335,91,370,90,9,50,13,12;19,335,91,356,07,9,50,12,23;19,335,91,308,35,9,50,13,12;19,335,91,293,51,9,50,12,23;19,335,91,245,79,9,50,13,12;19,335,91,230,95,9,50,12,23;19,335,91,178,00,9,50,13,12;19,335,91,163,16,9,50,12,23;19,335,91,104,96,9,50,13,12;19,335,91,84,88,9,50,17,48;19,348,79,739,29,9,50,26,32;19,348,79,715,09,9,50,21,52;19,348,79,647,40,9,50,13,12;19,348,79,632,57,9,50,12,23;19,348,79,579,61,9,50,13,12;19,348,79,564,70,9,50,12,23;19,348,79,511,81,9,50,13,12;19,348,79,496,90,9,50,12,23;19,348,79,438,70,9,50,13,12;19,348,79,423,86,9,50,12,23;19,348,79,370,90,9,50,13,12;19,348,79,356,07,9,50,12,23;19,348,79,308,35,9,50,13,12;19,348,79,293,51,9,50,12,23;19,348,79,245,79,9,50,13,12;19,348,79,230,95,9,50,12,23;19,348,79,178,00,9,50,13,12;19,348,79,163,16,9,50,12,23;19,348,79,104,96,9,50,18,36;19,348,79,84,88,9,50,17,48;19,361,59,722,99,9,50,42,61;19,361,59,647,40,9,50,13,12;19,361,59,632,57,9,50,12,23;19,361,59,579,61,9,50,13,12;19,361,59,564,70,9,50,12,23;19,361,59,511,81,9,50,13,12;19,361,59,496,90,9,50,12,23;19,361,59,438,70,9,50,13,12;19,361,59,423,86,9,50,12,23;19,361,59,370,90,9,50,13,12;19,361,59,356,07,9,50,12,23;19,361,59,308,35,9,50,13,12;19,361,59,293,51,9,50,12,23;19,361,59,245,79,9,50,13,12;19,361,59,230,95,9,50,12,23;19,361,59,178,00,9,50,13,12;19,361,59,163,16,9,50,12,23;19,361,59,104,96,9,50,13,12;19,361,59,90,12,9,50,12,23;19,374,39,743,33,9,50,22,28;19,374,39,647,39,9,50,18,36;19,374,39,627,31,9,50,17,48;19,374,39,579,60,9,50,13,12;19,374,39,564,69,9,50,12,23;19,374,39,511,79,9,50,18,36;19,374,39,491,64,9,50,17,48;19,374,39,438,69,9,50,18,36;19,374,39,418,60,9,50,17,48;19,374,39,370,89,9,50,13,12;19,374,39,356,06,9,50,12,23;19,374,39,308,34,9,50,13,12;19,374,39,293,50,9,50,12,23;19,374,39,245,78,9,50,13,12;19,374,39,225,70,9,50,17,48;19,374,39,177,99,9,50,13,12;19,374,39,157,90,9,50,17,48;19,374,39,112,81,9,50,15,74;19,374,39,87,45,9,50,22,73;19,396,17,744,83,8,44,20,77;19,396,17,739,41,8,44,3,11;19,397,15,728,27,6,20,7,28;19,396,17,689,51,8,44,34,84;19,396,17,682,03,8,44,5,15;19,397,15,670,88,6,20,7,28;19,396,17,636,29,8,44,30,73;19,396,17,627,28,8,44,6,70;19,397,15,616,08,6,20,7,28;19,396,17,585,78,8,44,26,44;19,396,17,569,45,8,44,13,98;19,397,15,558,37,6,20,7,28;19,396,17,513,84,8,44,40,60;19,396,17,505,31,8,44,6,21;19,397,15,494,15,6,20,7,28;19,396,17,447,76,8,44,42,53;19,396,17,440,30,8,44,5,15;19,397,15,429,13,6,20,7,28;19,396,17,385,06,8,44,40,22;19,396,17,368,16,8,44,14,56;19,396,22,340,59,9,63,25,27;19,396,17,330,99,8,44,7,28;19,396,17,285,15,8,44,43,51;19,396,17,248,62,8,44,34,20;19,396,17,234,89,8,44,11,45;19,396,17,204,00,8,44,28,55;19,396,17,193,99,8,44,7,77;19,396,17,162,28,8,44,29,40"><head></head><label></label><figDesc>gures in parentheses represent the number of articles.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0" coords="7,66,15,88,78,465,18,660,54"><head>Table 1</head><label>1</label><figDesc>Major Sampling Schemes in Mixed Methods Research</figDesc><table coords="7,66,15,128,25,465,18,621,07"><row><cell>Sampling Scheme</cell><cell>Description</cell></row><row><cell>Simple a</cell><cell>Every individual in the sampling frame (i.e., desired population) has an equal</cell></row><row><cell></cell><cell>and independent chance of being chosen for the study.</cell></row><row><cell>Stratied a</cell><cell>Sampling frame is divided into subsections comprising groups that are</cell></row><row><cell></cell><cell>relatively homogeneous with respect to one or more characteristics and a</cell></row><row><cell></cell><cell>random sample from each stratum is selected.</cell></row><row><cell>Cluster a</cell><cell>Selecting intact groups representing clusters of individuals rather than choosing</cell></row><row><cell></cell><cell>individuals one at a time.</cell></row><row><cell>Systematic a</cell><cell>Choosing individuals from a list by selecting every kth sampling frame member,</cell></row><row><cell></cell><cell>where k typies the population divided by the preferred sample size.</cell></row><row><cell>Multistage random a</cell><cell>Choosing a sample from the random sampling schemes in multiple stages.</cell></row><row><cell>Maximum variation</cell><cell>Choosing settings, groups, and/or individuals to maximize the range of</cell></row><row><cell></cell><cell>perspectives investigated in the study.</cell></row><row><cell>Homogeneous</cell><cell>Choosing settings, groups, and/or individuals based on similar or specic</cell></row><row><cell></cell><cell>characteristics.</cell></row><row><cell>Critical case</cell><cell>Choosing settings, groups, and/or individuals based on specic</cell></row><row><cell></cell><cell>characteristic(s) because their inclusion provides researcher with</cell></row><row><cell></cell><cell>compelling insight about a phenomenon of interest.</cell></row><row><cell>Theory-based</cell><cell>Choosing settings, groups, and/or individuals because their inclusion helps the</cell></row><row><cell></cell><cell>researcher to develop a theory.</cell></row><row><cell cols="2">Conrming/disconrming After beginning data collection, the researcher conducts subsequent analyses to</cell></row><row><cell></cell><cell>verify or contradict initial results.</cell></row><row><cell>Snowball/chain</cell><cell>Participants are asked to recruit individuals to join the study.</cell></row><row><cell>Extreme case</cell><cell>Selecting outlying cases and conducting comparative analyses.</cell></row><row><cell>Typical case</cell><cell>Selecting and analyzing average or normal cases.</cell></row><row><cell>Intensity</cell><cell>Choosing settings, groups, and/or individuals because their experiences</cell></row><row><cell></cell><cell>relative to the phenomena of interest are viewed as intense but not extreme.</cell></row><row><cell>Politically important</cell><cell>Choosing settings, groups, and/or individuals to be included or excluded based</cell></row><row><cell>cases</cell><cell>on their political connections to the phenomena of interest.</cell></row><row><cell>Random purposeful</cell><cell>Selecting random cases from the sampling frame consisting of a purposefully</cell></row><row><cell></cell><cell>selected sample.</cell></row><row><cell>Stratied purposeful</cell><cell>Sampling frame is divided into strata to obtain relatively homogeneous</cell></row><row><cell></cell><cell>subgroups and a purposeful sample is selected from each stratum.</cell></row><row><cell>Criterion</cell><cell>Choosing settings, groups, and/or individuals because they represent one</cell></row><row><cell></cell><cell>or more criteria.</cell></row><row><cell>Opportunistic</cell><cell>Researcher selects a case based on specic characteristics (i.e., typical, negative,</cell></row><row><cell></cell><cell>or extreme) to capitalize on developing events occurring during data collection.</cell></row><row><cell>Mixed purposeful</cell><cell>Choosing more than one sampling strategy and comparing the results emerging</cell></row><row><cell></cell><cell>from both samples.</cell></row><row><cell>Convenience</cell><cell>Choosing settings, groups, and/or individuals that are conveniently available</cell></row><row><cell></cell><cell>and willing to participate in the study.</cell></row><row><cell>Quota</cell><cell>Researcher identies desired characteristics and quotas of sample members to</cell></row><row><cell></cell><cell>be included in the study.</cell></row><row><cell>Multistage purposeful</cell><cell>Choosing settings, groups, and/or individuals representing a sample in two or</cell></row><row><cell>random</cell><cell>more stages. The rst stage is random selection and the following</cell></row><row><cell></cell><cell>stages are purposive selection of participants.</cell></row><row><cell>Multistage purposeful</cell><cell>Choosing settings, groups, and/or individuals representing a sample in two or</cell></row><row><cell></cell><cell>more stages in which all stages reect purposive sampling of participants.</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1" coords="8,64,50,88,78,465,13,175,61"><head>Table 2</head><label>2</label><figDesc>Minimum Sample Size Recommendations for Most Common Quantitative and Qualitative Research Designs</figDesc><table coords="8,64,50,143,38,465,13,121,01"><row><cell>Research Design/Method</cell><cell>Minimum Sample Size Suggestion</cell></row><row><cell>Research design a</cell><cell></cell></row><row><cell>Correlational</cell><cell>64 participants for one-tailed hypotheses; 82 participants for two-tailed hypotheses</cell></row><row><cell></cell><cell>(Onwuegbuzie, Jiao, &amp; Bostick, 2004)</cell></row><row><cell>Causal-comparative</cell><cell>51 participants per group for one-tailed hypotheses; 64 participants for two-tailed</cell></row><row><cell></cell><cell>hypotheses (Onwuegbuzie et al., 2004)</cell></row><row><cell>Experimental</cell><cell>21 participants per group for one-tailed hypotheses (Onwuegbuzie et al., 2004)</cell></row><row><cell>Case study</cell><cell>3-5 participants (Creswell, 2002)</cell></row><row><cell>Phenomenological</cell><cell>10 interviews</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2" coords="18,64,50,55,40,465,21,208,99"><head>Table 3</head><label>3</label><figDesc>Frequency of Sampling Designs in Mixed Methods Studies Published in Journals From Nine Fields (N = 121)</figDesc><table coords="18,64,50,143,38,142,02,9,50"><row><cell>Mixed Methods Sampling Design</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3" coords="19,197,80,155,76,26,76,538,86"><head>Table 4</head><label>4</label><figDesc>Mixed Method Sampling Designs Published in Journals From Nine Fields (N =</figDesc><table coords="19,212,92,155,76,11,64,110,42"><row><cell>121) (in percentages)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4" coords="20,64,49,55,41,465,22,162,03"><head>Table 5</head><label>5</label><figDesc>Mixed Methods Sampling Schemes Published in Journals From Nine Fields (N = 121) = purposive; R = random; QUAN = quantitative; QUAL = qualitative; MS = multistage. a. Total does not sum to 242 because the quantitative sample for one study was not identied.</figDesc><table coords="20,64,50,55,41,465,21,150,42"><row><cell>PQUAN 90.1 109 121 Note: P Collins et al. / Mixed Methods Sampling Designs 285 PQUAL RQUAN RQUAL MS TOTAL Percentage 93.4 8.3 5.6 1.7 Number 113 10 7 2 241 a Sample size 121 121 121 121 121</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0">at SAGE Publications on September 9, 2009 http://mmr.sagepub.com Downloaded from</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="270" xml:id="foot_1">Journal of Mixed Methods Research at SAGE Publications on September 9, 2009 http://mmr.sagepub.com Downloaded from</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_2">Collins et al. / Mixed Methods Sampling Designs 271 at SAGE Publications on September 9, 2009 http://mmr.sagepub.com Downloaded from</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_3">a. Represent random (i.e., probabilistic) sampling schemes. All other schemes are nonrandom (purposive) sampling schemes.</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_4">Collins et al. / Mixed Methods Sampling Designs 277 at SAGE Publications on September 9, 2009 http://mmr.sagepub.com Downloaded from</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="278" xml:id="foot_5">Journal of Mixed Methods Research at SAGE Publications on September 9, 2009 http://mmr.sagepub.com Downloaded from</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_6">Collins et al. / Mixed Methods Sampling Designs 279 at SAGE Publications on September 9, 2009 http://mmr.sagepub.com Downloaded from</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="282" xml:id="foot_7">Journal of Mixed Methods Research at SAGE Publications on September 9, 2009 http://mmr.sagepub.com Downloaded from</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="286" xml:id="foot_8">Journal of Mixed Methods Research at SAGE Publications on September 9, 2009 http://mmr.sagepub.com Downloaded from</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_9">Collins et al. / Mixed Methods Sampling Designs 287 at SAGE Publications on September 9, 2009 http://mmr.sagepub.com Downloaded from</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="288" xml:id="foot_10">Journal of Mixed Methods Research at SAGE Publications on September 9, 2009 http://mmr.sagepub.com Downloaded from</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_11">Collins et al. / Mixed Methods Sampling Designs 289 at SAGE Publications on September 9, 2009 http://mmr.sagepub.com Downloaded from</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="292" xml:id="foot_12">Journal of Mixed Methods Research at SAGE Publications on September 9, 2009 http://mmr.sagepub.com Downloaded from</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_13">http://mmr.sagepub.com Downloaded from</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="294" xml:id="foot_14">Journal of Mixed Methods Research at SAGE Publications on September 9, 2009 http://mmr.sagepub.com Downloaded from</note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct coords="26,64,50,226,78,345,39,8,44;26,64,50,238,46,465,18,8,44;26,78,50,250,07,451,24,8,44;26,78,50,261,75,106,57,8,44" xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Estándares para Pruebas Educativas y Psicológicas</title>
+		<idno type="DOI">10.2307/j.ctvr43hg2</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Standards for educational and psychological testing</title>
+				<meeting><address><addrLine>London; Washington, DC</addrLine></address></meeting>
+		<imprint>
+			<publisher>American Educational Research Association</publisher>
+			<date type="published" when="1991">1991. 1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,64,50,273,42,465,20,8,44;26,78,50,285,10,160,26,8,44" xml:id="b1">
+	<monogr>
+		<author>
+			<persName coords=""><forename type="first">T</forename><forename type="middle">A</forename><surname>Baumgartner</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><forename type="middle">H</forename><surname>Strong</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><forename type="middle">D</forename><surname>Hensley</surname></persName>
+		</author>
+		<title level="m">Conducting and reading research in health and human performance</title>
+				<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>McGraw-Hill</publisher>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note>3rd ed.</note>
+</biblStruct>
+
+<biblStruct coords="26,64,50,296,71,465,22,8,44;26,78,50,308,39,36,59,8,44" xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Research methods in anthropology: Qualitative and quantitative approaches</title>
+		<author>
+			<persName coords=""><forename type="first">H</forename><forename type="middle">R</forename><surname>Bernard</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+			<publisher>AltaMira</publisher>
+			<pubPlace>Walnut Creek, CA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,64,50,320,07,465,17,8,44;26,78,50,331,75,33,42,8,44" xml:id="b3">
+	<analytic>
+		<title level="a" type="main">The External Validity of Experiments</title>
+		<author>
+			<persName><forename type="first">Glenn</forename><forename type="middle">H</forename><surname>Bracht</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gene</forename><forename type="middle">V</forename><surname>Glass</surname></persName>
+		</author>
+		<idno type="DOI">10.3102/00028312005004437</idno>
+	</analytic>
+	<monogr>
+		<title level="j">American Educational Research Journal</title>
+		<title level="j" type="abbrev">American Educational Research Journal</title>
+		<idno type="ISSN">0002-8312</idno>
+		<idno type="ISSNe">1935-1011</idno>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="437" to="474" />
+			<date type="published" when="1968-11">1968</date>
+			<publisher>American Educational Research Association (AERA)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,64,50,343,36,465,18,8,44;26,78,50,355,04,33,42,8,44" xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Factors relevant to the validity of experiments in social settings.</title>
+		<author>
+			<persName coords=""><forename type="first">Donald</forename><forename type="middle">T</forename><surname>Campbell</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/h0040950</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Bulletin</title>
+		<title level="j" type="abbrev">Psychological Bulletin</title>
+		<idno type="ISSN">0033-2909</idno>
+		<idno type="ISSNe">1939-1455</idno>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="297" to="312" />
+			<date type="published" when="1957">1957</date>
+			<publisher>American Psychological Association (APA)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,64,50,366,71,465,16,8,44;26,78,49,378,32,58,25,8,44" xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Experimental and quasi-experimental designs for research</title>
+		<author>
+			<persName coords=""><forename type="first">D</forename><forename type="middle">T</forename><surname>Campbell</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">C</forename><surname>Stanley</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1963">1963</date>
+			<publisher>Rand-McNally</publisher>
+			<pubPlace>Chicago</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,64,49,390,00,465,29,8,44;26,78,49,401,68,143,02,8,44" xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Data Analysis Strategies for Mixed-Method Evaluation Designs</title>
+		<author>
+			<persName><forename type="first">Valerie</forename><forename type="middle">J</forename><surname>Caracelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jennifer</forename><forename type="middle">C</forename><surname>Greene</surname></persName>
+		</author>
+		<idno type="DOI">10.3102/01623737015002195</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Educational Evaluation and Policy Analysis</title>
+		<title level="j" type="abbrev">Educational Evaluation and Policy Analysis</title>
+		<idno type="ISSN">0162-3737</idno>
+		<idno type="ISSNe">1935-1062</idno>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="195" to="207" />
+			<date type="published" when="1993-06">1993</date>
+			<publisher>American Educational Research Association (AERA)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,64,49,413,36,454,73,8,44" xml:id="b7">
+	<analytic>
+		<title level="a" type="main">A Coefficient of Agreement for Nominal Scales</title>
+		<author>
+			<persName coords=""><forename type="first">Jacob</forename><surname>Cohen</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/001316446002000104</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Educational and Psychological Measurement</title>
+		<title level="j" type="abbrev">Educational and Psychological Measurement</title>
+		<idno type="ISSN">0013-1644</idno>
+		<idno type="ISSNe">1552-3888</idno>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="37" to="46" />
+			<date type="published" when="1960-04">1960</date>
+			<publisher>SAGE Publications</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,64,49,424,97,465,20,8,44;26,78,49,436,65,120,73,8,44" xml:id="b8">
+	<analytic>
+		<title level="a" type="main">The statistical power of abnormal-social psychological research: A review.</title>
+		<author>
+			<persName coords=""><forename type="first">Jacob</forename><surname>Cohen</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/h0045186</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Abnormal and Social Psychology</title>
+		<title level="j" type="abbrev">The Journal of Abnormal and Social Psychology</title>
+		<idno type="ISSN">0096-851X</idno>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="145" to="153" />
+			<date type="published" when="1962-09">1962</date>
+			<publisher>American Psychological Association (APA)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,64,49,448,32,465,12,8,44;26,78,49,460,00,148,06,8,44" xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Some statistical issues in psychological research</title>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Cohen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of clinical psychology</title>
+				<editor>
+			<persName><forename type="first">B</forename><forename type="middle">B</forename><surname>Wolman</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>McGraw-Hill</publisher>
+			<date type="published" when="1965">1965</date>
+			<biblScope unit="page" from="95" to="121" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,64,49,471,61,433,49,8,44;26,64,49,483,29,272,38,8,44" xml:id="b10">
+	<analytic>
+		<title level="a" type="main">A power primer.</title>
+		<author>
+			<persName coords=""><forename type="first">Jacob</forename><surname>Cohen</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0033-2909.112.1.155</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Bulletin</title>
+		<title level="j" type="abbrev">Psychological Bulletin</title>
+		<editor>Lawrence Erlbaum. Cohen, J.</editor>
+		<idno type="ISSN">0033-2909</idno>
+		<idno type="ISSNe">1939-1455</idno>
+		<imprint>
+			<biblScope unit="volume">112</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="155" to="159" />
+			<date type="published" when="1988">1988. 1992</date>
+			<publisher>American Psychological Association (APA)</publisher>
+		</imprint>
+	</monogr>
+	<note>A power primer</note>
+</biblStruct>
+
+<biblStruct coords="26,64,49,494,97,465,23,8,44;26,78,49,506,58,268,39,8,44" xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Prevalence of Mixed-methods Sampling Designs in Social Science Research</title>
+		<author>
+			<persName><forename type="first">Kathleen</forename><forename type="middle">M T</forename><surname>Collins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anthony</forename><forename type="middle">J</forename><surname>Onwuegbuzie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Qun</forename><forename type="middle">G</forename><surname>Jiao</surname></persName>
+		</author>
+		<idno type="DOI">10.2167/eri421.0</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Evaluation &amp; Research in Education</title>
+		<title level="j" type="abbrev">Evaluation &amp; Research in Education</title>
+		<idno type="ISSN">0950-0790</idno>
+		<idno type="ISSNe">1747-7514</idno>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="83" to="101" />
+			<date type="published" when="2006-05-15">2006</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,64,50,518,26,465,27,8,44;26,78,50,529,93,434,06,8,44" xml:id="b12">
+	<analytic>
+		<title level="a" type="main">A model incorporating the rationale and purpose for conducting mixed methods research in special education and beyond</title>
+		<author>
+			<persName coords=""><forename type="first">K</forename><forename type="middle">M T</forename><surname>Collins</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><forename type="middle">J</forename><surname>Onwuegbuzie</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">I</forename><forename type="middle">L</forename><surname>Sutton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Learning Disabilities: A Contemporary Journal</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="67" to="100" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,64,50,541,61,465,23,8,44;26,78,50,553,22,204,52,8,44" xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Qualitative Analysis as a Public Event: The Documentation of Category Development Procedures</title>
+		<author>
+			<persName coords=""><forename type="first">Mark</forename><forename type="middle">A</forename><surname>Constas</surname></persName>
+		</author>
+		<idno type="DOI">10.3102/00028312029002253</idno>
+	</analytic>
+	<monogr>
+		<title level="j">American Educational Research Journal</title>
+		<title level="j" type="abbrev">American Educational Research Journal</title>
+		<idno type="ISSN">0002-8312</idno>
+		<idno type="ISSNe">1935-1011</idno>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="253" to="266" />
+			<date type="published" when="1992-06">1992</date>
+			<publisher>American Educational Research Association (AERA)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,64,50,564,90,465,21,8,44;26,78,49,576,58,58,25,8,44" xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Quasi-experimentation: Design and analysis issues for eld settings</title>
+		<author>
+			<persName coords=""><forename type="first">T</forename><forename type="middle">D</forename><surname>Cook</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">D</forename><forename type="middle">T</forename><surname>Campbell</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1979">1979</date>
+			<publisher>Rand-McNally</publisher>
+			<pubPlace>Chicago</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,64,49,588,26,465,21,8,44;26,78,49,599,87,20,48,8,44" xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Qualitative inquiry and research design: Choosing among ve traditions</title>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">W</forename><surname>Creswell</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<publisher>Sage</publisher>
+			<pubPlace>Thousand Oaks, CA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,64,49,611,54,465,21,8,44;26,78,48,623,22,165,95,8,44" xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Educational research: Planning, conducting, and evaluating quantitative and qualitative research</title>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">W</forename><surname>Creswell</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<publisher>Pearson Education</publisher>
+			<pubPlace>Upper Saddle River, NJ</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,64,48,634,90,456,56,8,44" xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Design and conducting mixed methods research</title>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">W</forename><surname>Creswell</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">V</forename><forename type="middle">L</forename><surname>Plano Clark</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>Sage</publisher>
+			<pubPlace>Thousand Oaks, CA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,64,49,646,51,465,17,8,44;26,78,49,658,19,310,64,8,44" xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Approaches to sampling and case selection in qualitative research: examples in the geography of health</title>
+		<author>
+			<persName><forename type="first">Sarah</forename><surname>Curtis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wil</forename><surname>Gesler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Glenn</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sarah</forename><surname>Washburn</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0277-9536(99)00350-0</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Social Science &amp; Medicine</title>
+		<title level="j" type="abbrev">Social Science &amp; Medicine</title>
+		<idno type="ISSN">0277-9536</idno>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="issue">7-8</biblScope>
+			<biblScope unit="page" from="1001" to="1014" />
+			<date type="published" when="2000-04">2000</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,64,49,669,87,465,16,8,44;26,78,49,681,48,234,83,8,44" xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Attributions Toward Violence of Male Juvenile Delinquents: A Concurrent Mixed-Methodological Analysis</title>
+		<author>
+			<persName><forename type="first">Christine</forename><forename type="middle">E</forename><surname>Daley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anthony</forename><forename type="middle">J</forename><surname>Onwuegbuzie</surname></persName>
+		</author>
+		<idno type="DOI">10.3200/socp.144.6.549-570</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Social Psychology</title>
+		<title level="j" type="abbrev">The Journal of Social Psychology</title>
+		<idno type="ISSN">0022-4545</idno>
+		<idno type="ISSNe">1940-1183</idno>
+		<imprint>
+			<biblScope unit="volume">144</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="549" to="570" />
+			<date type="published" when="2004-12">2004</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,64,49,693,16,465,26,8,44;26,78,49,704,83,451,19,8,44;26,78,49,716,51,101,22,8,44" xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Transformation in Family Nurse Practitioner Students&apos; Attitudes Toward Homeless Individuals After Participation in a Homeless Outreach Clinic</title>
+		<author>
+			<persName><forename type="first">Felicitas</forename><forename type="middle">A</forename><surname>Dela Cruz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Constance</forename><surname>Brehm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeanne</forename><surname>Harris</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1745-7599.2004.tb00434.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Academy of Nurse Practitioners</title>
+		<title level="j" type="abbrev">J Amer Acad Nurse Practitioners</title>
+		<idno type="ISSN">1041-2972</idno>
+		<idno type="ISSNe">1745-7599</idno>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="547" to="554" />
+			<date type="published" when="2004-12">2004</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,64,49,728,12,465,21,8,44;26,78,49,739,80,415,74,8,44;26,292,72,55,41,236,99,9,50" xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Introduction: The discipline and practice of qualitative research</title>
+		<author>
+			<persName coords=""><forename type="first">N</forename><forename type="middle">K</forename><surname>Denzin</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Y</forename><forename type="middle">S</forename><surname>Lincoln</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Sage handbook of qualitative research</title>
+				<editor>
+			<persName><forename type="first">N</forename><forename type="middle">K</forename><surname>Denzin</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Y</forename><forename type="middle">S</forename><surname>Lincoln</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Thousand Oaks, CA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="page" from="1" to="32" />
+		</imprint>
+	</monogr>
+	<note>3rd ed.. Sage. Collins et al. / Mixed Methods Sampling Designs 291</note>
+</biblStruct>
+
+<biblStruct coords="27,66,16,87,79,465,17,8,44;27,80,16,99,40,182,23,8,44" xml:id="b22">
+	<analytic>
+		<title level="a" type="main">An evaluation of the role of the Clinical Placement Coordinator in student nurse support in the clinical area</title>
+		<author>
+			<persName coords=""><forename type="first">Jonathan</forename><surname>Drennan</surname></persName>
+		</author>
+		<idno type="DOI">10.1046/j.1365-2648.2002.02396.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Advanced Nursing</title>
+		<title level="j" type="abbrev">J Adv Nurs</title>
+		<idno type="ISSN">0309-2402</idno>
+		<idno type="ISSNe">1365-2648</idno>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="475" to="483" />
+			<date type="published" when="2002-11">2002</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,66,16,111,08,465,23,8,44;27,80,15,122,76,96,00,8,44" xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Alternative Arguments for Generalizing From Data as Applied to Qualitative Research</title>
+		<author>
+			<persName coords=""><forename type="first">William</forename><forename type="middle">A</forename><surname>Firestone</surname></persName>
+		</author>
+		<idno type="DOI">10.3102/0013189x022004016</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Educational Researcher</title>
+		<title level="j" type="abbrev">Educational Researcher</title>
+		<idno type="ISSN">0013-189X</idno>
+		<idno type="ISSNe">1935-102X</idno>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="16" to="23" />
+			<date type="published" when="1993-05">1993</date>
+			<publisher>American Educational Research Association (AERA)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,66,15,134,37,397,92,8,44" xml:id="b24">
+	<monogr>
+		<title level="m" type="main">An introduction to qualitative research: Theory, method and applications</title>
+		<author>
+			<persName coords=""><forename type="first">U</forename><surname>Flick</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<publisher>Sage</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,66,15,146,05,465,22,8,44;27,80,15,157,72,109,58,8,44" xml:id="b25">
+	<analytic>
+		<title level="a" type="main">The Impact of Childhood Cancer on Adult Survivors&apos; Interpersonal Relationships</title>
+		<author>
+			<persName><forename type="first">Terri</forename><surname>Forsbach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andrea</forename><surname>Thompson</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/1357527032000115693</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Child Care in Practice</title>
+		<title level="j" type="abbrev">Child Care in Practice</title>
+		<idno type="ISSN">1357-5279</idno>
+		<idno type="ISSNe">1476-489X</idno>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="117" to="128" />
+			<date type="published" when="2003-04">2003</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,66,15,169,40,465,25,8,44;27,80,15,181,01,82,05,8,44" xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Discipline in the Music Classroom: One component contributing to teacher stress</title>
+		<author>
+			<persName coords=""><forename type="first">Debra</forename><forename type="middle">G</forename><surname>Gordon</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/14613800220119831</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Music Education Research</title>
+		<title level="j" type="abbrev">Music Education Research</title>
+		<idno type="ISSN">1461-3808</idno>
+		<idno type="ISSNe">1469-9893</idno>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="157" to="165" />
+			<date type="published" when="2002-03">2002</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,66,15,192,69,465,22,8,44;27,80,15,204,37,249,96,8,44" xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Toward a Conceptual Framework for Mixed-Method Evaluation Designs</title>
+		<author>
+			<persName><forename type="first">Jennifer</forename><forename type="middle">C</forename><surname>Greene</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Valerie</forename><forename type="middle">J</forename><surname>Caracelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wendy</forename><forename type="middle">F</forename><surname>Graham</surname></persName>
+		</author>
+		<idno type="DOI">10.3102/01623737011003255</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Educational Evaluation and Policy Analysis</title>
+		<title level="j" type="abbrev">Educational Evaluation and Policy Analysis</title>
+		<idno type="ISSN">0162-3737</idno>
+		<idno type="ISSNe">1935-1062</idno>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="255" to="274" />
+			<date type="published" when="1989-09">1989</date>
+			<publisher>American Educational Research Association (AERA)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,66,15,216,05,465,23,8,44;27,80,15,227,66,173,54,8,44" xml:id="b28">
+	<analytic>
+		<title level="a" type="main">INDIANA UNIVERSITY BLOOMINGTON CAMPUS MAPS</title>
+		<author>
+			<persName coords=""><forename type="first">E</forename><forename type="middle">S</forename><surname>Halpern</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/j.ctv21hrj87.117</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Indiana University Bloomington</title>
+				<meeting><address><addrLine>Bloomington</addrLine></address></meeting>
+		<imprint>
+			<publisher>Indiana University Press</publisher>
+			<date type="published" when="1983">1983</date>
+			<biblScope unit="page" from="508" to="516" />
+		</imprint>
+		<respStmt>
+			<orgName>Indiana University</orgName>
+		</respStmt>
+	</monogr>
+	<note>Unpublished doctoral dissertation</note>
+</biblStruct>
+
+<biblStruct coords="27,66,15,239,33,465,21,8,44;27,80,15,251,01,451,22,8,44;27,80,15,262,62,48,61,8,44" xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Effects of communities, neighborhoods and stores on retail pricing and promotion of beer.</title>
+		<author>
+			<persName><forename type="first">Eileen</forename><forename type="middle">M</forename><surname>Harwood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Darin</forename><forename type="middle">J</forename><surname>Erickson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lindsey</forename><forename type="middle">E A</forename><surname>Fabian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rhonda</forename><surname>Jones-Webb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sandy</forename><surname>Slater</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Frank</forename><forename type="middle">J</forename><surname>Chaloupka</surname></persName>
+		</author>
+		<idno type="DOI">10.15288/jsa.2003.64.720</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Studies on Alcohol</title>
+		<title level="j" type="abbrev">J. Stud. Alcohol</title>
+		<idno type="ISSN">0096-882X</idno>
+		<idno type="ISSNe">1934-2683</idno>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="720" to="726" />
+			<date type="published" when="2003-09">2003</date>
+			<publisher>Alcohol Research Documentation, Inc.</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,66,15,274,30,435,60,8,44" xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Teaching Against the Text: The Case of Qualitative Methods</title>
+		<author>
+			<persName coords=""><forename type="first">Jane</forename><forename type="middle">C</forename><surname>Hood</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0092055x0603400301</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Teaching Sociology</title>
+		<title level="j" type="abbrev">Teach Sociol</title>
+		<idno type="ISSN">0092-055X</idno>
+		<idno type="ISSNe">1939-862X</idno>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="207" to="223" />
+			<date type="published" when="2006-07">2006</date>
+			<publisher>SAGE Publications</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,66,15,285,98,465,18,8,44;27,80,15,297,66,230,53,8,44" xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Reviewing Integrated Science and Mathematics: The Search for Evidence and Definitions From New Perspectives</title>
+		<author>
+			<persName coords=""><forename type="first">Marlene</forename><forename type="middle">M</forename><surname>Hurley</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1949-8594.2001.tb18028.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">School Science and Mathematics</title>
+		<idno type="ISSN">0036-6803</idno>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="259" to="268" />
+			<date type="published" when="2001-05">2001</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,66,16,309,27,465,20,8,44;27,80,16,320,95,338,67,8,44" xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Exploring Differences in Students&apos; Copy-and-Paste Decision Making and Processing: A Mixed-Methods Study.</title>
+		<author>
+			<persName coords=""><forename type="first">L</forename><forename type="middle">Brent</forename><surname>Igo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Roger</forename><surname>Bruning</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Matthew</forename><forename type="middle">T</forename><surname>Mccrudden</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0022-0663.97.1.103</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Educational Psychology</title>
+		<title level="j" type="abbrev">Journal of Educational Psychology</title>
+		<idno type="ISSN">0022-0663</idno>
+		<idno type="ISSNe">1939-2176</idno>
+		<imprint>
+			<biblScope unit="volume">97</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="103" to="116" />
+			<date type="published" when="2005-02">2005</date>
+			<publisher>American Psychological Association (APA)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,66,17,332,62,465,15,8,44;27,80,17,344,30,90,62,8,44" xml:id="b33">
+	<monogr>
+		<author>
+			<persName coords=""><forename type="first">R</forename><forename type="middle">B</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><forename type="middle">B</forename><surname>Christensen</surname></persName>
+		</author>
+		<title level="m">Educational research: Quantitative, qualitative, and mixed approaches</title>
+				<meeting><address><addrLine>Boston</addrLine></address></meeting>
+		<imprint>
+			<publisher>Allyn &amp; Bacon</publisher>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,66,17,355,91,465,19,8,44;27,80,17,367,59,120,08,8,44" xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Mixed Methods Research: A Research Paradigm Whose Time Has Come</title>
+		<author>
+			<persName coords=""><forename type="first">R</forename><forename type="middle">Burke</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anthony</forename><forename type="middle">J</forename><surname>Onwuegbuzie</surname></persName>
+		</author>
+		<idno type="DOI">10.3102/0013189x033007014</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Educational Researcher</title>
+		<title level="j" type="abbrev">Educational Researcher</title>
+		<idno type="ISSN">0013-189X</idno>
+		<idno type="ISSNe">1935-102X</idno>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="14" to="26" />
+			<date type="published" when="2004-10">2004</date>
+			<publisher>American Educational Research Association (AERA)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,66,17,379,27,465,21,8,44;27,80,16,390,94,438,90,8,44" xml:id="b35">
+	<analytic>
+		<title level="a" type="main">American Educational Research Association 1999 Annual Meeting April 19–23, 1999, Montreal, Canada</title>
+		<author>
+			<persName coords=""><forename type="first">R</forename><forename type="middle">B</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><forename type="middle">J</forename><surname>Onwuegbuzie</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><forename type="middle">A</forename><surname>Turner</surname></persName>
+		</author>
+		<idno type="DOI">10.3102/0013189x027008049</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Educational Researcher</title>
+		<title level="j" type="abbrev">Educational Researcher</title>
+		<idno type="ISSN">0013-189X</idno>
+		<idno type="ISSNe">1935-102X</idno>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="49" to="56" />
+			<date type="published" when="2005-04">2005, April</date>
+			<publisher>American Educational Research Association (AERA)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,66,16,402,56,465,15,8,44;27,80,16,414,23,451,25,8,44;27,80,17,425,91,101,08,8,44" xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Mixed methods sampling strategies in social science research</title>
+		<author>
+			<persName coords=""><forename type="first">E</forename><forename type="middle">A</forename><surname>Kemper</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Stringeld</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><surname>Teddlie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of mixed methods in social and behavioral research</title>
+				<editor>
+			<persName><forename type="first">A</forename><surname>Tashakkori</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">C</forename><surname>Teddlie</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Thousand Oaks, CA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Sage</publisher>
+			<date type="published" when="2003">2003</date>
+			<biblScope unit="page" from="273" to="296" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,66,17,437,52,352,60,8,44" xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Generalizing From Single Case Studies</title>
+		<author>
+			<persName coords=""><forename type="first">Mary</forename><forename type="middle">M</forename><surname>Kennedy</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0193841x7900300409</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Evaluation Quarterly</title>
+		<title level="j" type="abbrev">Evaluation Quarterly</title>
+		<idno type="ISSN">0145-4692</idno>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="661" to="678" />
+			<date type="published" when="1979-11">1979</date>
+			<publisher>SAGE Publications</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,66,17,449,20,465,22,9,68;27,80,17,460,88,304,46,8,44" xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Learning the skills of flexible sigmoidoscopy - the wider perspective</title>
+		<author>
+			<persName coords=""><forename type="first">R</forename><forename type="middle">L</forename><surname>Kneebone</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">D</forename><surname>Nestel</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Moorthy</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Bann</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Y</forename><surname>Munz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Darzi</surname></persName>
+		</author>
+		<idno type="DOI">10.1046/j.1365-2923.37.s1.2.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Medical Education</title>
+		<idno type="ISSN">0308-0110</idno>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="50" to="58" />
+			<date type="published" when="2003-10-27">2003</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+	<note>Suppl. 1</note>
+</biblStruct>
+
+<biblStruct coords="27,66,17,472,55,426,49,8,44;27,66,17,484,17,308,77,8,44" xml:id="b39">
+	<analytic>
+		<title level="a" type="main">The social construction of validity</title>
+		<author>
+			<persName coords=""><forename type="first">R</forename><forename type="middle">A</forename><surname>Krueger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Focus groups: A practical guide for applied research</title>
+				<editor>
+			<persName><surname>Sage</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Kvale</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Thousand Oaks, CA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1995">2000. 1995</date>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="19" to="40" />
+		</imprint>
+	</monogr>
+	<note>3rd ed.</note>
+</biblStruct>
+
+<biblStruct coords="27,66,17,495,84,465,18,8,44;27,80,17,507,52,72,72,8,44" xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Nominal grouping sessions vs focus groups</title>
+		<author>
+			<persName><forename type="first">Barry</forename><forename type="middle">E</forename><surname>Langford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gerald</forename><surname>Schoenfeld</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">George</forename><surname>Izzo</surname></persName>
+		</author>
+		<idno type="DOI">10.1108/13522750210414517</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Qualitative Market Research: An International Journal</title>
+		<idno type="ISSN">1352-2752</idno>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="58" to="70" />
+			<date type="published" when="2002-03-01">2002</date>
+			<publisher>Emerald</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,66,17,519,20,314,19,8,44" xml:id="b41">
+	<monogr>
+		<title level="m" type="main">Naturalistic inquiry</title>
+		<author>
+			<persName coords=""><forename type="first">Y</forename><forename type="middle">S</forename><surname>Lincoln</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">E</forename><forename type="middle">G</forename><surname>Guba</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1985">1985</date>
+			<publisher>Sage</publisher>
+			<pubPlace>Beverly Hills, CA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,66,18,530,81,465,18,8,44;27,80,18,542,49,451,15,8,44;27,80,18,554,17,75,55,8,44" xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Re-injecting spontaneity and balance in family life: parents&apos; perspectives on recreation in families that include children with developmental disability</title>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">B</forename><surname>Mactavish</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><forename type="middle">J</forename><surname>Schleien</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1365-2788.2004.00502.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Intellectual Disability Research</title>
+		<title level="j" type="abbrev">J Intellect Disabil Res</title>
+		<idno type="ISSN">0964-2633</idno>
+		<idno type="ISSNe">1365-2788</idno>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="123" to="141" />
+			<date type="published" when="2004-02">2004</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,66,18,565,78,439,25,8,44" xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Understanding and Validity in Qualitative Research</title>
+		<author>
+			<persName coords=""><forename type="first">Joseph</forename><forename type="middle">A</forename><surname>Maxwell</surname></persName>
+		</author>
+		<idno type="DOI">10.17763/haer.62.3.8323320856251826</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Harvard Educational Review</title>
+		<idno type="ISSN">0017-8055</idno>
+		<idno type="ISSNe">1943-5045</idno>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="279" to="301" />
+			<date type="published" when="1992-09-01">1992</date>
+			<publisher>Harvard Education Publishing Group</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,66,18,577,45,465,17,8,44;27,80,18,589,13,42,80,8,44" xml:id="b44">
+	<monogr>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Messick</surname></persName>
+		</author>
+		<title level="m">Educational measurement</title>
+				<editor>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Linn</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Old Tappan, NJ</addrLine></address></meeting>
+		<imprint>
+			<publisher>Macmillan</publisher>
+			<date type="published" when="1989">1989</date>
+			<biblScope unit="page" from="13" to="103" />
+		</imprint>
+	</monogr>
+	<note>3rd ed.</note>
+</biblStruct>
+
+<biblStruct coords="27,66,18,600,81,465,26,8,44;27,80,18,612,37,319,60,8,49" xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Validity of psychological assessment: Validation of inferences from persons&apos; responses and performances as scientific inquiry into score meaning.</title>
+		<author>
+			<persName coords=""><forename type="first">Samuel</forename><surname>Messick</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0003-066x.50.9.741</idno>
+	</analytic>
+	<monogr>
+		<title level="j">American Psychologist</title>
+		<title level="j" type="abbrev">American Psychologist</title>
+		<idno type="ISSN">0003-066X</idno>
+		<idno type="ISSNe">1935-990X</idno>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="741" to="749" />
+			<date type="published" when="1995-09">1995</date>
+			<publisher>American Psychological Association (APA)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,66,16,624,05,465,18,8,44;27,80,16,635,72,249,67,8,44" xml:id="b46">
+	<monogr>
+		<title level="m" type="main">A call for greater use of mixed methods in school psychology research</title>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Mihalas</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">H</forename><surname>Powell</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><forename type="middle">J</forename><surname>Onwuegbuzie</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Suldo</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><forename type="middle">E</forename><surname>Daley</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note>Manuscript submitted for publication</note>
+</biblStruct>
+
+<biblStruct coords="27,66,17,647,40,465,20,8,44;27,80,16,659,01,20,48,8,44" xml:id="b47">
+	<monogr>
+		<title level="m" type="main">Qualitative data analysis: An expanded sourcebook</title>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Miles</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><forename type="middle">M</forename><surname>Huberman</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<publisher>Sage</publisher>
+			<pubPlace>Thousand Oaks, CA</pubPlace>
+		</imprint>
+	</monogr>
+	<note>2nd ed.</note>
+</biblStruct>
+
+<biblStruct coords="27,66,16,670,69,465,19,8,44;27,80,16,682,37,367,19,8,44" xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Preservice Teachers&apos; Educational Beliefs and Their Perceptions of Characteristics of Effective Teachers</title>
+		<author>
+			<persName><forename type="first">Lynn</forename><forename type="middle">C</forename><surname>Minor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anthony</forename><forename type="middle">J</forename><surname>Onwuegbuzie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ann</forename><forename type="middle">E</forename><surname>Witcher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Terry</forename><forename type="middle">L</forename><surname>James</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00220670209598798</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Educational Research</title>
+		<title level="j" type="abbrev">The Journal of Educational Research</title>
+		<idno type="ISSN">0022-0671</idno>
+		<idno type="ISSNe">1940-0675</idno>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="116" to="127" />
+			<date type="published" when="2002-11">2002</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,66,16,694,04,465,26,8,44;27,80,17,705,66,62,07,8,44" xml:id="b49">
+	<analytic>
+		<author>
+			<persName coords=""><forename type="first">D</forename><forename type="middle">L</forename><surname>Morgan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Focus groups as qualitative research</title>
+				<meeting><address><addrLine>Thousand Oaks, CA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Sage</publisher>
+			<date type="published" when="1997">1997</date>
+			<biblScope unit="volume">16</biblScope>
+		</imprint>
+	</monogr>
+	<note>2nd ed.</note>
+</biblStruct>
+
+<biblStruct coords="27,66,17,717,33,465,24,8,44;27,80,17,729,01,207,69,8,44" xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Designing funded qualitative research</title>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">M</forename><surname>Morse</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of qualitative research</title>
+				<editor>
+			<persName><forename type="first">N</forename><forename type="middle">K</forename><surname>Denzin</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Y</forename><forename type="middle">S</forename><surname>Lincoln</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Thousand Oaks, CA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Sage</publisher>
+			<date type="published" when="1994">1994</date>
+			<biblScope unit="page" from="220" to="235" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,66,18,740,62,348,42,8,44" xml:id="b51">
+	<analytic>
+		<title level="a" type="main">The Significance of Saturation</title>
+		<author>
+			<persName coords=""><forename type="first">Janice</forename><forename type="middle">M</forename><surname>Morse</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/104973239500500201</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Qualitative Health Research</title>
+		<title level="j" type="abbrev">Qual Health Res</title>
+		<idno type="ISSN">1049-7323</idno>
+		<idno type="ISSNe">1552-7557</idno>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="147" to="149" />
+			<date type="published" when="1995-05">1995</date>
+			<publisher>SAGE Publications</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,64,50,87,79,465,24,8,44;28,78,50,99,40,451,23,8,44;28,78,50,111,08,191,78,8,44" xml:id="b52">
+	<analytic>
+		<title level="a" type="main">A typology of research purposes and its relationship to mixed methods</title>
+		<author>
+			<persName coords=""><forename type="first">I</forename><surname>Newman</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><forename type="middle">S</forename><surname>Ridenour</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><surname>Newman</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">G</forename><forename type="middle">M P</forename><surname>Demarco</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of mixed methods in social and behavioral research</title>
+				<editor>
+			<persName><forename type="first">A</forename><surname>Tashakkori</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">C</forename><surname>Teddlie</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Thousand Oaks, CA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Sage</publisher>
+			<date type="published" when="2003">2003</date>
+			<biblScope unit="page" from="167" to="188" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,64,51,122,76,465,19,8,44;28,78,51,134,37,451,22,8,44;28,78,51,146,05,33,42,8,44" xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Do different types of nurses give different triage decisions in NHS Direct? A mixed methods study</title>
+		<author>
+			<persName><forename type="first">Alicia</forename><surname>O'cathain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jon</forename><surname>Nicholl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Fiona</forename><surname>Sampson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stephen</forename><surname>Walters</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ann</forename><surname>Mcdonnell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><surname>Munro</surname></persName>
+		</author>
+		<idno type="DOI">10.1258/1355819042250221</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Health Services Research &amp; Policy</title>
+		<title level="j" type="abbrev">J Health Serv Res Policy</title>
+		<idno type="ISSN">1355-8196</idno>
+		<idno type="ISSNe">1758-1060</idno>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="226" to="233" />
+			<date type="published" when="2004-10-02">2004</date>
+			<publisher>SAGE Publications</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,64,51,157,72,465,23,8,44;28,78,51,169,40,250,10,8,44" xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Methods, Mixed</title>
+		<author>
+			<persName coords=""><forename type="first">Anthony</forename><forename type="middle">J</forename><surname>Onwuegbuzie</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/9781405165518.wbeosm091</idno>
+	</analytic>
+	<monogr>
+		<title level="m">The Blackwell encyclopedia of sociology</title>
+				<editor>
+			<persName><forename type="first">G</forename><surname>Ritzer</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford, UK</addrLine></address></meeting>
+		<imprint>
+			<publisher>John Wiley &amp; Sons, Ltd</publisher>
+			<date type="published" when="2007-02-15">2007</date>
+			<biblScope unit="volume">VI</biblScope>
+			<biblScope unit="page" from="2978" to="2981" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,64,52,181,01,465,23,8,44;28,78,52,192,69,124,17,8,44" xml:id="b55">
+	<analytic>
+		<title level="a" type="main">A Typology of Mixed Methods Sampling Designs in Social Science Research</title>
+		<author>
+			<persName><forename type="first">Anthony</forename><surname>Onwuegbuzie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kathleen</forename><surname>Collins</surname></persName>
+		</author>
+		<idno type="DOI">10.46743/2160-3715/2007.1638</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Qualitative Report</title>
+		<title level="j" type="abbrev">TQR</title>
+		<idno type="ISSN">1052-0147</idno>
+		<idno type="ISSNe">2160-3715</idno>
+		<imprint>
+			<date type="published" when="2015-01-15" />
+			<publisher>Nova Southeastern University</publisher>
+		</imprint>
+	</monogr>
+	<note>in press</note>
+</biblStruct>
+
+<biblStruct coords="28,64,52,204,37,465,18,8,44;28,78,51,216,06,69,87,8,34" xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Special Issue: Mixed Methods</title>
+		<author>
+			<persName><forename type="first">Cheryl</forename><surname>Poth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anthony</forename><forename type="middle">J</forename><surname>Onwuegbuzie</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/160940691501400201</idno>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Qualitative Methods</title>
+		<title level="j" type="abbrev">International Journal of Qualitative Methods</title>
+		<editor>Onwuegbuzie, A. J., &amp; Daniel, L. G.</editor>
+		<idno type="ISSN">1609-4069</idno>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="1" to="4" />
+			<date type="published" when="2006">2006</date>
+			<publisher>SAGE Publications</publisher>
+		</imprint>
+	</monogr>
+	<note>Special issue</note>
+</biblStruct>
+
+<biblStruct coords="28,64,52,227,66,465,25,8,44;28,78,53,239,33,83,44,8,44" xml:id="b57">
+	<monogr>
+		<author>
+			<persName coords=""><forename type="first">A</forename><forename type="middle">J</forename><surname>Onwuegbuzie</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Q</forename><forename type="middle">G</forename><surname>Jiao</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><forename type="middle">L</forename><surname>Bostick</surname></persName>
+		</author>
+		<title level="m">Library anxiety: Theory, research, and applications</title>
+				<meeting><address><addrLine>Lanham, MD</addrLine></address></meeting>
+		<imprint>
+			<publisher>Scarecrow Press</publisher>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,64,53,251,01,456,78,8,44" xml:id="b58">
+	<analytic>
+		<title level="a" type="main">The validity issue in mixed research</title>
+		<author>
+			<persName coords=""><forename type="first">A</forename><forename type="middle">J</forename><surname>Onwuegbuzie</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><forename type="middle">B</forename><surname>Johnson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Research in the Schools</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="48" to="63" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,64,53,262,62,465,20,9,68;28,78,53,274,30,451,19,8,44;28,78,53,285,98,94,71,8,44" xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Enhancing the Interpretation of Significant Findings: The Role of Mixed Methods Research</title>
+		<author>
+			<persName><forename type="first">Anthony</forename><surname>Onwuegbuzie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nancy</forename><surname>Leech</surname></persName>
+		</author>
+		<idno type="DOI">10.46743/2160-3715/2004.1913</idno>
+		<ptr target="http://www.nova.edu/ssss/QR/QR9-4/onwuegbuzie.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j">The Qualitative Report</title>
+		<title level="j" type="abbrev">TQR</title>
+		<idno type="ISSN">1052-0147</idno>
+		<idno type="ISSNe">2160-3715</idno>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="770" to="792" />
+			<date type="published" when="2004-11-08">2004. November 8, 2005</date>
+			<publisher>Nova Southeastern University</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,64,53,297,66,465,18,8,44;28,78,53,309,27,399,65,8,44" xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Generalization practices in qualitative research: a mixed methods case study</title>
+		<author>
+			<persName><forename type="first">Anthony</forename><forename type="middle">J</forename><surname>Onwuegbuzie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nancy</forename><forename type="middle">L</forename><surname>Leech</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11135-009-9241-z</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Quality &amp; Quantity</title>
+		<title level="j" type="abbrev">Qual Quant</title>
+		<idno type="ISSN">0033-5177</idno>
+		<idno type="ISSNe">1573-7845</idno>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="881" to="892" />
+			<date type="published" when="2005-03">2005a, March</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,64,54,320,95,465,25,8,44;28,78,54,332,62,451,13,8,44;28,78,54,344,30,65,47,8,44" xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Taking the “Q” Out of Research: Teaching Research Methodology Courses Without the Divide Between Quantitative and Qualitative Paradigms</title>
+		<author>
+			<persName><forename type="first">Anthony</forename><forename type="middle">J</forename><surname>Onwuegbuzie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nancy</forename><forename type="middle">L</forename><surname>Leech</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11135-004-1670-0</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Quality &amp; Quantity</title>
+		<title level="j" type="abbrev">Qual Quant</title>
+		<idno type="ISSN">0033-5177</idno>
+		<idno type="ISSNe">1573-7845</idno>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="267" to="295" />
+			<date type="published" when="2005-06">2005b</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,64,54,355,91,465,16,8,44;28,78,54,367,59,282,81,8,44" xml:id="b62">
+	<analytic>
+		<title level="a" type="main">A Call for Qualitative Power Analyses</title>
+		<author>
+			<persName><forename type="first">Anthony</forename><forename type="middle">J</forename><surname>Onwuegbuzie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nancy</forename><forename type="middle">L</forename><surname>Leech</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11135-005-1098-1</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Quality &amp; Quantity</title>
+		<title level="j" type="abbrev">Qual Quant</title>
+		<idno type="ISSN">0033-5177</idno>
+		<idno type="ISSNe">1573-7845</idno>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="105" to="121" />
+			<date type="published" when="2007-02">2007</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,64,54,379,27,465,19,8,44;28,78,54,390,94,451,21,8,44;28,78,54,402,56,20,48,8,44" xml:id="b63">
+	<analytic>
+		<title level="a" type="main">A framework for analyzing data in mixed methods research</title>
+		<author>
+			<persName coords=""><forename type="first">A</forename><forename type="middle">J</forename><surname>Onwuegbuzie</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><surname>Teddlie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of mixed methods in social and behavioral research</title>
+				<editor>
+			<persName><forename type="first">A</forename><surname>Tashakkori</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">C</forename><surname>Teddlie</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Thousand Oaks, CA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Sage</publisher>
+			<date type="published" when="2003">2003</date>
+			<biblScope unit="page" from="351" to="383" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,64,54,414,23,465,25,8,44;28,78,54,425,91,372,40,8,44" xml:id="b64">
+	<analytic>
+		<title level="a" type="main">MSU-DOE Plant Research Laboratory</title>
+		<author>
+			<persName coords=""><forename type="first">P</forename><forename type="middle">E</forename><surname>Parkhurst</surname></persName>
+		</author>
+		<idno type="DOI">10.2172/5060097</idno>
+	</analytic>
+	<monogr>
+		<title level="s">ERIC Document Reproduction Service No. ED</title>
+		<imprint>
+			<biblScope unit="volume">348014</biblScope>
+			<date type="published" when="1972">1972</date>
+			<publisher>Office of Scientific and Technical Information (OSTI)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,64,54,437,52,388,02,8,44;28,64,54,449,20,244,81,8,44" xml:id="b65">
+	<analytic>
+		<title level="a" type="main">Qualitative research and evaluation methods</title>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">Q</forename><surname>Patton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sage. RefWorks</title>
+		<imprint>
+			<date type="published" when="1990">1990. 2006. 2006</date>
+		</imprint>
+	</monogr>
+	<note>2nd ed.. Computer software</note>
+</biblStruct>
+
+<biblStruct coords="28,64,54,460,88,465,15,8,44;28,78,54,472,55,47,35,8,44" xml:id="b66">
+	<analytic>
+		<title level="a" type="main">Sample size in qualitative research</title>
+		<author>
+			<persName coords=""><forename type="first">Margarete</forename><surname>Sandelowski</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/nur.4770180211</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Research in Nursing &amp; Health</title>
+		<title level="j" type="abbrev">Res. Nurs. Health</title>
+		<idno type="ISSN">0160-6891</idno>
+		<idno type="ISSNe">1098-240X</idno>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="179" to="183" />
+			<date type="published" when="1995-04">1995</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,64,54,484,17,465,20,8,44;28,78,54,495,84,191,39,8,44" xml:id="b67">
+	<analytic>
+		<title level="a" type="main">Statistical significance testing and cumulative knowledge in psychology: Implications for training of researchers.</title>
+		<author>
+			<persName coords=""><forename type="first">Frank</forename><forename type="middle">L</forename><surname>Schmidt</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/1082-989x.1.2.115</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Methods</title>
+		<title level="j" type="abbrev">Psychological Methods</title>
+		<idno type="ISSN">1082-989X</idno>
+		<idno type="ISSNe">1939-1463</idno>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="115" to="129" />
+			<date type="published" when="1996-06">1996</date>
+			<publisher>American Psychological Association (APA)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,64,55,507,52,465,17,8,44;28,78,55,519,20,451,29,8,44;28,78,55,530,81,196,17,8,44" xml:id="b68">
+	<monogr>
+		<title level="m" type="main">What If There Were No Significance Tests?</title>
+		<author>
+			<persName coords=""><forename type="first">F</forename><forename type="middle">L</forename><surname>Schmidt</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">E</forename><surname>Hunter</surname></persName>
+		</author>
+		<idno type="DOI">10.4324/9781315827353</idno>
+		<editor>L. L. Harlow, S. A. Mulaik, &amp; J. H. Steiger</editor>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<publisher>Psychology Press</publisher>
+			<biblScope unit="page" from="37" to="64" />
+			<pubPlace>Mahwah, NJ</pubPlace>
+		</imprint>
+	</monogr>
+	<note>What if there were no signicance tests?</note>
+</biblStruct>
+
+<biblStruct coords="28,64,55,542,49,465,25,8,44;28,78,55,554,17,136,05,8,44" xml:id="b69">
+	<analytic>
+		<title level="a" type="main">Statistical power in criterion-related validation studies.</title>
+		<author>
+			<persName><forename type="first">Frank</forename><forename type="middle">L</forename><surname>Schmidt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><forename type="middle">E</forename><surname>Hunter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Vern</forename><forename type="middle">W</forename><surname>Urry</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0021-9010.61.4.473</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Psychology</title>
+		<title level="j" type="abbrev">Journal of Applied Psychology</title>
+		<idno type="ISSN">0021-9010</idno>
+		<idno type="ISSNe">1939-1854</idno>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="473" to="485" />
+			<date type="published" when="1976-08">1976</date>
+			<publisher>American Psychological Association (APA)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,64,55,565,78,465,22,8,44;28,78,55,577,45,410,84,8,44" xml:id="b70">
+	<analytic>
+		<title level="a" type="main">One College of Education’s Effort to Infuse Technology</title>
+		<author>
+			<persName><forename type="first">Lynne</forename><surname>Schrum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rosemary</forename><surname>Skeele</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Grant</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/15391523.2002.10782385</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Research on Technology in Education</title>
+		<title level="j" type="abbrev">Journal of Research on Technology in Education</title>
+		<idno type="ISSN">1539-1523</idno>
+		<idno type="ISSNe">1945-0818</idno>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="256" to="271" />
+			<date type="published" when="2002-12">2002-2003</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,64,54,589,13,465,16,8,44;28,78,54,600,81,100,10,8,44" xml:id="b71">
+	<analytic>
+		<title level="a" type="main">Do studies of statistical power have an effect on the power of studies?</title>
+		<author>
+			<persName><forename type="first">Peter</forename><surname>Sedlmeier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gerd</forename><surname>Gigerenzer</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0033-2909.105.2.309</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Bulletin</title>
+		<title level="j" type="abbrev">Psychological Bulletin</title>
+		<idno type="ISSN">0033-2909</idno>
+		<idno type="ISSNe">1939-1455</idno>
+		<imprint>
+			<biblScope unit="volume">105</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="309" to="316" />
+			<date type="published" when="1989-03">1989</date>
+			<publisher>American Psychological Association (APA)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,64,54,612,42,465,15,8,44;28,78,54,624,10,165,68,8,44" xml:id="b72">
+	<monogr>
+		<title level="m" type="main">Experimental and quasi-experimental designs for generalized causal inference</title>
+		<author>
+			<persName coords=""><forename type="first">W</forename><forename type="middle">R</forename><surname>Shadish</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">T</forename><forename type="middle">D</forename><surname>Cook</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">D</forename><forename type="middle">T</forename><surname>Campbell</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<publisher>Houghton Mifin</publisher>
+			<pubPlace>Boston</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,64,54,635,78,465,27,8,44;28,78,54,647,40,199,83,8,44" xml:id="b73">
+	<analytic>
+		<title level="a" type="main">Populations, Samples, Randomness, and Replication in Two Social Studies Journals</title>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">P</forename><surname>Shaver</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Richard</forename><forename type="middle">S</forename><surname>Norton</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00933104.1980.10506078</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Theory &amp; Research in Social Education</title>
+		<title level="j" type="abbrev">Theory &amp; Research in Social Education</title>
+		<idno type="ISSN">0093-3104</idno>
+		<idno type="ISSNe">2163-1654</idno>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="1" to="10" />
+			<date type="published" when="1980-06">1980a</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,64,50,659,01,465,21,8,44;28,78,50,670,69,166,71,8,44" xml:id="b74">
+	<analytic>
+		<title level="a" type="main">Randomness and Replication in Ten Years of the &quot;American Educational Research Journal&quot;</title>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">P</forename><surname>Shaver</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Richard</forename><forename type="middle">S</forename><surname>Norton</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/1175031</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Educational Researcher</title>
+		<title level="j" type="abbrev">Educational Researcher</title>
+		<idno type="ISSN">0013-189X</idno>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">9</biblScope>
+			<date type="published" when="1980-01">1980b</date>
+			<publisher>American Educational Research Association (AERA)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,64,50,682,36,465,18,8,44;28,78,50,694,04,51,41,8,44" xml:id="b75">
+	<monogr>
+		<title level="m" type="main">Research and evaluation in education and the social sciences</title>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">L</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">G</forename><forename type="middle">V</forename><surname>Glass</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1987">1987</date>
+			<publisher>Prentice Hall</publisher>
+			<pubPlace>Englewood Cliffs, NJ</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,64,50,705,65,465,23,8,44;28,78,50,717,33,60,02,8,44" xml:id="b76">
+	<monogr>
+		<title level="m" type="main">Basics of qualitative research: Grounded theory procedures and techniques</title>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Strauss</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Corbin</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1990">1990</date>
+			<publisher>Sage</publisher>
+			<pubPlace>Newbury Park, CA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,64,50,729,01,465,24,8,44;28,78,50,740,62,261,24,8,44" xml:id="b77">
+	<analytic>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Tashakkori</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><surname>Teddlie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Mixed methodology: Combining qualitative and quantitative approaches</title>
+		<title level="s">Applied Social Research Methods Series</title>
+		<meeting><address><addrLine>Thousand Oaks, CA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Sage</publisher>
+			<date type="published" when="1998">1998</date>
+			<biblScope unit="volume">46</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="29,66,16,87,79,465,25,8,44;29,80,16,99,40,62,07,8,44" xml:id="b78">
+	<monogr>
+		<title level="m" type="main">SAGE Handbook of Mixed Methods in Social &amp; Behavioral Research</title>
+		<author>
+			<persName><forename type="first">Abbas</forename><surname>Tashakkori</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Charles</forename><surname>Teddlie</surname></persName>
+		</author>
+		<idno type="DOI">10.4135/9781506335193</idno>
+		<editor>Tashakkori, A., &amp; Teddlie, C.</editor>
+		<imprint>
+			<date type="published" when="2003">2003a</date>
+			<publisher>SAGE Publications, Inc.</publisher>
+			<pubPlace>Thousand Oaks, CA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="29,66,16,111,08,465,18,8,44;29,80,16,122,76,451,16,8,44;29,80,16,134,37,156,88,8,44" xml:id="b79">
+	<analytic>
+		<title level="a" type="main">SAGE Handbook of Mixed Methods in Social &amp; Behavioral Research</title>
+		<author>
+			<persName><forename type="first">Abbas</forename><surname>Tashakkori</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Charles</forename><surname>Teddlie</surname></persName>
+		</author>
+		<idno type="DOI">10.4135/9781506335193</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of mixed methods in social and behavioral research</title>
+				<editor>
+			<persName><forename type="first">A</forename><surname>Tashakkori</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">C</forename><surname>Teddlie</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Thousand Oaks, CA</addrLine></address></meeting>
+		<imprint>
+			<publisher>SAGE Publications, Inc.</publisher>
+			<date type="published" when="2003">2003b</date>
+			<biblScope unit="page" from="671" to="701" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="29,66,16,146,05,465,21,8,44;29,80,16,157,72,451,23,8,44;29,80,16,169,40,142,94,8,44" xml:id="b80">
+	<analytic>
+		<title level="a" type="main">Overview of Contemporary Issues in Mixed Methods Research</title>
+		<author>
+			<persName><forename type="first">Charles</forename><surname>Teddlie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Abbas</forename><surname>Tashakkori</surname></persName>
+		</author>
+		<idno type="DOI">10.4135/9781506335193.n1</idno>
+	</analytic>
+	<monogr>
+		<title level="m">SAGE Handbook of Mixed Methods in Social &amp; Behavioral Research</title>
+				<editor>
+			<persName><forename type="first">A</forename><surname>Tashakkori</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">C</forename><surname>Teddlie</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Thousand Oaks, CA</addrLine></address></meeting>
+		<imprint>
+			<publisher>SAGE Publications, Inc.</publisher>
+			<date type="published" when="2003">2003</date>
+			<biblScope unit="page" from="1" to="42" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="29,66,16,181,01,465,16,8,44;29,80,16,192,69,28,76,8,44" xml:id="b81">
+	<analytic>
+		<title level="a" type="main">Mixed Methods Sampling</title>
+		<author>
+			<persName><forename type="first">Charles</forename><surname>Teddlie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Fen</forename><surname>Yu</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1558689806292430</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Mixed Methods Research</title>
+		<title level="j" type="abbrev">Journal of Mixed Methods Research</title>
+		<idno type="ISSN">1558-6898</idno>
+		<idno type="ISSNe">1558-6901</idno>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="77" to="100" />
+			<date type="published" when="2007-01">2007</date>
+			<publisher>SAGE Publications</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
